@@ -1,0 +1,28 @@
+Results for emPreverb
+(500, 489, 1, 0, 10)
+Precision: 0.9980
+Recall: 0.9800
+F1: 0.9889
+Accuracy: 0.9780
+
+Results for max2
+(500, 475, 10, 0, 15)
+Precision: 0.9794
+Recall: 0.9694
+F1: 0.9744
+Accuracy: 0.9500
+
+Results for nearest verb
+(500, 477, 17, 0, 6)
+Precision: 0.9656
+Recall: 0.9876
+F1: 0.9765
+Accuracy: 0.9540
+
+Results for emStanza
+(500, 437, 18, 0, 45)
+Precision: 0.9604
+Recall: 0.9066
+F1: 0.9328
+Accuracy: 0.8740
+

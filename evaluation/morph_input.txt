@@ -1,0 +1,8968 @@
+form	wsafter	testid
+Be	" "	p1
+fog	" "	.
+következni	" "	v1
+,	" "	.
+mert	" "	.
+be	" "	p2
+kell	" "	.
+következzék	" "	v2
+az	" "	.
+immár	" "	.
+elkerülhetetlen	" "	.
+totális	" "	.
+civilizációs	" "	.
+összeomlás	""	.
+.	"\n"	.
+
+S	" "	.
+le	" "	p1
+is	" "	.
+van	" "	.
+írva	" "	v1
+.	"\n"	.
+
+Jaj	""	.
+,	" "	.
+annyi	" "	.
+a	" "	.
+gondom	""	.
+,	" "	.
+hogy	" "	.
+ki	" "	p1
+sem	" "	.
+látszom	" "	v1
+belőle	""	.
+.	"\n"	.
+
+Idő	" "	.
+kérdése	""	.
+,	" "	.
+de	" "	.
+törvényszerűen	" "	.
+alakul	" "	v1
+majd	" "	.
+ki	" "	p1
+végül	" "	.
+az	" "	.
+a	" "	.
+bizonyos	" "	.
+új	" "	.
+istenű	" "	.
+és	" "	.
+új	" "	.
+módon	" "	.
+értelmes	" "	.
+világ	""	.
+,	" "	.
+aminek	" "	.
+el	" "	p2
+kell	" "	.
+jönnie	" "	v2
+...	"\n"	.
+
+Menne	" "	.
+ő	" "	.
+is	" "	.
+szívesen	" "	.
+(	""	.
+miként	" "	.
+azt	" "	.
+később	" "	.
+meg	" "	p1
+is	" "	.
+teszi	" "	v1
+)	""	.
+,	" "	.
+de	" "	.
+egyelőre	" "	.
+még	" "	.
+szerve	" "	.
+zési	" "	.
+feladatai	" "	.
+vannak	""	.
+.	"\n"	.
+
+A	" "	.
+nézőt	" "	.
+valahogy	" "	.
+meg	" "	p1
+kell	" "	.
+tartani	" "	v1
+.	"\n"	.
+
+Melyhez	" "	.
+mintha	" "	.
+már	" "	.
+hozzá	" "	p1
+is	" "	.
+szoktunk	" "	v1
+volna	""	.
+,	" "	.
+mely	" "	.
+nélkül	" "	.
+mintha	" "	.
+már	" "	.
+létezni	" "	.
+sem	" "	.
+tudnánk	""	.
+.	"\n"	.
+
+Mondták	""	.
+,	" "	.
+hogy	" "	.
+meg	" "	p1
+van	" "	.
+igézve	" "	v1
+.	"\n"	.
+
+Előbb	" "	.
+a	" "	.
+kapuig	" "	.
+mehettem	" "	.
+el	" "	.
+vele	""	.
+,	" "	.
+majd	" "	.
+később	" "	.
+be	" "	p1
+is	" "	.
+invitált	" "	v1
+.	"\n"	.
+
+-	" "	.
+Vagyis	" "	.
+valamennyi	" "	.
+idegent	" "	.
+ebben	" "	.
+a	" "	.
+faluban	" "	.
+sürgősen	" "	.
+meg	" "	p1
+kell	" "	.
+semmisítenünk	" "	v1
+,	" "	.
+még	" "	.
+mielőtt	" "	.
+észrevennének	""	.
+.	"\n"	.
+
+És	" "	.
+megint	" "	.
+csak	" "	.
+hosszú	" "	.
+ideig	" "	.
+nem	" "	.
+tartottam	" "	.
+lehetségesnek	""	.
+,	" "	.
+hogy	" "	.
+bekövetkezzék	""	.
+,	" "	.
+aminek	" "	.
+pedig	" "	.
+minden	" "	.
+józan	" "	.
+emberi	" "	.
+számítás	" "	.
+szerint	" "	.
+be	" "	p1
+kellett	" "	.
+következnie	" "	v1
+.	"\n"	.
+
+Hatalmasat	" "	.
+ugrott	" "	.
+előre	""	.
+,	" "	.
+egész	" "	.
+testével	" "	.
+erőlködve	""	.
+,	" "	.
+megfeszítve	" "	.
+magát	""	.
+,	" "	.
+kockáztatva	" "	.
+a	" "	.
+móka	" "	.
+kimenetelét	""	.
+,	" "	.
+de	" "	.
+be	" "	p1
+kellett	" "	.
+látnia	" "	v1
+,	" "	.
+hogy	" "	.
+most	" "	.
+csakugyan	" "	.
+nincs	" "	.
+menekvés	""	.
+,	" "	.
+a	" "	.
+csomók	" "	.
+szakszerűen	""	.
+,	" "	.
+precízen	" "	.
+tartják	""	.
+,	" "	.
+a	" "	.
+játékot	" "	.
+végig	" "	p2
+kell	" "	.
+játszania	" "	v2
+.	"\n"	.
+
+-	" "	.
+Tessék	" "	.
+csak	" "	.
+papizgatni	""	.
+,	" "	.
+kisasszonyka	""	.
+!	" "	.
+
+Föl	" "	p1
+kell	" "	.
+épülnie	" "	v1
+!	"\n"	.
+
+Nem	" "	.
+gazdagít	""	.
+,	" "	.
+megdolgoztat	""	.
+,	" "	.
+de	" "	.
+meg	" "	p1
+is	" "	.
+adja	" "	v1
+az	" "	.
+ünnepet	""	.
+.	"\n"	.
+
+Akkor	" "	.
+Fehérlófia	" "	.
+önkéntelenül	" "	.
+magához	" "	.
+ölelte	" "	.
+És	" "	.
+mintha	" "	.
+nem	" "	.
+is	" "	.
+ő	" "	.
+tenné	" "	.
+megcsókolta	" "	.
+Krisztina	" "	.
+száját	" "	.
+Sután	" "	.
+ügyetlenül	" "	.
+mert	" "	.
+összekoccant	" "	.
+a	" "	.
+foguk	" "	.
+Rögtön	" "	.
+elengedte	" "	.
+hátra	" "	p1
+is	" "	.
+lépett	" "	v1
+tőle	" "	.
+Zavarában	" "	.
+el	" "	p2
+sem	" "	.
+búcsúzott	" "	v2
+szaladt	" "	.
+vissza	" "	p3
+se	" "	.
+nézve	" "	v3
+Megcsókoltam	" "	.
+ismételte	" "	.
+ujjongva	" "	.
+magában	" "	.
+Megcsókoltam	" "	.
+igen	" "	.
+itt	" "	.
+maradunk	" "	.
+a	" "	.
+hazában	" "	.
+Együtt	" "	.
+a	" "	.
+hazában	" "	.
+édes	" "	.
+vagy	" "	.
+édes	" "	.
+édes	"\n"	.
+Ezt	" "	.
+persze	" "	.
+el	" "	p4
+lehetne	" "	.
+nem-költői	" "	.
+módon	" "	.
+is	" "	.
+mondani	" "	v4
+,	" "	.
+de	" "	.
+mennyivel	" "	.
+nagyobb	" "	.
+dolog	""	.
+,	" "	.
+ha	" "	.
+ez	" "	.
+költői	" "	.
+megfogalmazást	" "	.
+kap	""	.
+.	" "	.
+
+"	"\n"	.
+Ottan	" "	.
+aztán	" "	.
+meg	" "	p1
+sem	" "	.
+állva	" "	v1
+?	"\n"	.
+
+Akkor	" "	.
+most	" "	.
+el	" "	p1
+fogja	" "	.
+kaparni	" "	v1
+.	"\n"	.
+
+Továbbá	" "	.
+föl	" "	p1
+fog	" "	.
+kelni	" "	v1
+a	" "	.
+nap	""	.
+,	" "	.
+a	" "	.
+fű	" "	.
+sárgásan	" "	.
+izzani	" "	.
+kezd	""	.
+,	" "	.
+s	" "	.
+a	" "	.
+távolban	" "	.
+a	" "	.
+város	" "	.
+fölött	""	.
+,	" "	.
+az	" "	.
+öttízes	" "	.
+és	" "	.
+az	" "	.
+öthúszas	" "	.
+fölött	" "	.
+a	" "	.
+kéményekből	" "	.
+mint	" "	.
+távozó	" "	.
+nagy	" "	.
+halak	" "	.
+úsznak	" "	.
+elő	" "	.
+a	" "	.
+koszosabbnál	" "	.
+koszosabb	" "	.
+lila	" "	.
+felhők	""	.
+.	"\n"	.
+
+Nem	" "	.
+ártott	" "	.
+volna	""	.
+,	" "	.
+ha	" "	.
+a	" "	.
+mészégető	" "	.
+pár	" "	.
+nappal	" "	.
+hamarabb	" "	.
+érkezik	""	.
+.	" "	.
+
+Be	" "	p1
+lehetett	" "	.
+volna	" "	.
+durrantani	" "	v1
+a	" "	.
+vendégek	" "	.
+fogadására	" "	.
+szánt	" "	.
+szobába	""	.
+.	"\n"	.
+
+Később	" "	.
+tudtam	" "	v1
+csak	" "	.
+meg	" "	p1
+,	" "	.
+hogy	" "	.
+a	" "	.
+partraszállás	" "	.
+óta	" "	.
+Playa	" "	.
+Giron	" "	.
+nem	" "	.
+kizárólag	" "	.
+fürdőtelep	""	.
+,	" "	.
+hanem	" "	.
+halászati	" "	.
+iskolaközpont	" "	.
+is	""	.
+.	"\n"	.
+
+De	" "	.
+a	" "	.
+halált	" "	.
+-	" "	.
+az	" "	.
+elnyújtható	" "	.
+ravaszkodások	" "	.
+ellenére	" "	.
+-	" "	.
+egyszer	" "	.
+mégiscsak	" "	.
+be	" "	p1
+kellett	" "	.
+vallanunk	" "	v1
+.	"\n"	.
+
+Gondoljuk	" "	v1
+csak	" "	.
+el	" "	p1
+-	" "	.
+Adyt	" "	.
+idézve	" "	.
+-,	" "	.
+hogy	" "	.
+a	" "	.
+nagy	" "	.
+vallási	" "	.
+háborúságok	" "	.
+idején	" "	.
+Ázsia	" "	.
+peremén	" "	.
+akadt	" "	.
+egy	" "	.
+töredék	" "	.
+ország	""	.
+,	" "	.
+amely	" "	.
+ki	" "	p2
+merte	" "	.
+jelenteni	" "	v2
+,	" "	.
+hogy	" "	.
+az	" "	.
+embereknek	" "	.
+a	" "	.
+hite	" "	.
+az	" "	.
+ő	" "	.
+külön	" "	.
+dolguk	""	.
+.	"\n"	.
+
+Az	" "	.
+például	" "	.
+meg	" "	p1
+sem	" "	.
+fordult	" "	v1
+az	" "	.
+agyunkban	""	.
+,	" "	.
+hogy	" "	.
+százmilliók	" "	.
+lelki	" "	.
+kiüresedése	""	.
+,	" "	.
+elfáradása	""	.
+,	" "	.
+undora	" "	.
+anélkül	" "	.
+is	""	.
+,	" "	.
+hogy	" "	.
+ennek	" "	.
+a	" "	.
+folyamatnak	" "	.
+neve	" "	.
+volna	""	.
+,	" "	.
+nagyobb	" "	.
+hatású	" "	.
+forradalom	" "	.
+lehet	""	.
+,	" "	.
+mint	" "	.
+amilyen	" "	.
+a	" "	.
+Nagy	" "	.
+Októberi	" "	.
+volt	" "	.
+vagy	" "	.
+1956	""	.
+,	" "	.
+illetve	" "	.
+1968	""	.
+.	"\n"	.
+
+És	" "	.
+már	" "	.
+húzta	" "	v1
+is	" "	.
+fel	" "	p1
+a	" "	.
+gipszlábát	""	.
+.	"\n"	.
+
+-	" "	.
+Meg	" "	p1
+akart	" "	.
+torolni	" "	v1
+valamit	""	.
+,	" "	.
+de	" "	.
+kizökkentettem	" "	.
+a	" "	.
+lelki	" "	.
+egyensúlyából	""	.
+!	"\n"	.
+
+-	" "	.
+Hogy	" "	.
+láttad	""	.
+,	" "	.
+te	" "	.
+locsifecsi	""	.
+?	" "	.
+
+Be	" "	p1
+volt	" "	.
+kötve	" "	v1
+a	" "	.
+szemed	""	.
+!	"\n"	.
+
+Féltettem	" "	.
+is	""	.
+,	" "	.
+s	" "	.
+ki	" "	p1
+akartam	" "	.
+vetni	" "	v1
+magamból	" "	.
+minden	" "	.
+mást	""	.
+,	" "	.
+szégyenkezve	" "	.
+gondoltam	" "	.
+apám	" "	.
+sokarcú	" "	.
+életére	""	.
+...	"\n"	.
+
+"	" "	.
+Mutasd	" "	.
+csak	" "	.
+a	" "	.
+szemüvegedet	" "	.
+"	""	.
+,	" "	.
+odanyúlt	""	.
+,	" "	.
+el	" "	p1
+akartam	" "	.
+kapni	" "	v1
+a	" "	.
+fejem	""	.
+,	" "	.
+azután	" "	.
+mégsem	" "	.
+mozdultam	""	.
+.	"\n"	.
+
+Fölidézte	" "	v1
+magában	" "	.
+Veron	" "	.
+jobbjának	" "	.
+barátságos	" "	.
+szorítását	""	.
+,	" "	.
+hangjának	" "	.
+zengését	""	.
+,	" "	.
+derűs	" "	.
+szemének	" "	.
+biztató	" "	.
+csillámát	" "	.
+és	" "	.
+jó	" "	.
+mosolyát	""	.
+,	" "	.
+föl	" "	p1
+a	" "	.
+mély	" "	.
+beszélgetéseket	""	.
+,	" "	.
+amikor	" "	.
+már	" "	.
+azt	" "	.
+hitte	" "	.
+István	""	.
+,	" "	.
+elmondott	" "	.
+mindent	""	.
+,	" "	.
+s	" "	.
+Veron	" "	.
+halkan	" "	.
+kérdezni	" "	.
+kezdett	""	.
+,	" "	.
+aprók	""	.
+,	" "	.
+szinte	" "	.
+tőmondatosak	" "	.
+voltak	" "	.
+a	" "	.
+kérdései	""	.
+,	" "	.
+amelyekből	" "	.
+azonban	" "	.
+kiderült	""	.
+,	" "	.
+hogy	" "	.
+mégse	" "	.
+mondott	" "	v2
+István	" "	.
+el	" "	p2
+mindent	""	.
+,	" "	.
+a	" "	.
+kérdések	" "	.
+s	" "	.
+megjegyzések	" "	.
+szavai	" "	.
+át-	" "	p3
+meg	" "	.
+átjárták	" "	v3
+az	" "	.
+elmondottak	" "	.
+homályos	" "	.
+zugait	""	.
+,	" "	.
+s	" "	.
+aztán	" "	.
+Veron	" "	.
+magyarázni	" "	.
+kezdett	""	.
+,	" "	.
+megmagyarázta	""	.
+:	" "	.
+mit	" "	.
+látott	" "	.
+István	""	.
+,	" "	.
+és	" "	.
+miért	" "	.
+látta	""	.
+,	" "	.
+amit	" "	.
+látott	""	.
+,	" "	.
+olyannak	""	.
+,	" "	.
+amilyennek	""	.
+.	"\n"	.
+
+Ilyen	" "	.
+szarságért	" "	.
+be	" "	p1
+nem	" "	.
+zárják	" "	v1
+.	"\n"	.
+
+Lehetne	" "	.
+például	" "	.
+örülni	" "	.
+annak	""	.
+,	" "	.
+hogy	" "	.
+milyen	" "	.
+nagy	" "	.
+tisztelői	" "	.
+vagyunk	" "	.
+a	" "	.
+vallásnak	""	.
+,	" "	.
+jelen	" "	.
+esetben	" "	.
+a	" "	.
+mohamedán	" "	.
+hitnek	""	.
+.	" "	.
+
+Meg	" "	p1
+lehetne	" "	.
+kérdezni	" "	v1
+:	" "	.
+egy	" "	.
+ország	" "	.
+megszállása	" "	.
+és	" "	.
+önvédelmi	" "	.
+harca	" "	.
+esetében	" "	.
+csakugyan	" "	.
+olyan	" "	.
+lovagias	" "	.
+képlet	" "	.
+szerint	" "	.
+folyik	" "	.
+a	" "	.
+játszma	""	.
+,	" "	.
+hogy	" "	.
+katona	" "	.
+áll	" "	.
+szemben	" "	.
+katonával	" "	.
+stb	""	.
+?	"\n"	.
+
+Sz.	""	.
+:	" "	.
+Engem	" "	.
+azért	" "	.
+egy	" "	.
+kicsit	" "	.
+megrázott	" "	.
+előbb	""	.
+,	" "	.
+amikor	" "	.
+azt	" "	.
+mondta	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+pszichológiai	" "	.
+bizonyítás	" "	.
+annak	" "	.
+ellenében	""	.
+,	" "	.
+hogy	" "	.
+Petőfi	" "	.
+Szibériában	" "	.
+nyugodnék	""	.
+,	" "	.
+nem	" "	.
+fogadható	" "	v1
+el	" "	p1
+.	"\n"	.
+
+Ilyen	" "	.
+elméleti	" "	.
+útmutatások	" "	.
+birtokában	" "	.
+a	" "	.
+magyar	" "	.
+kommunisták	" "	.
+teoretikusai	" "	.
+természetesen	" "	.
+erélyesen	" "	.
+védték	" "	.
+a	" "	.
+Horthy-rendszerben	" "	.
+elnyomott	" "	.
+S.-ot	""	.
+,	" "	.
+amikor	" "	.
+még	" "	.
+az	" "	.
+is	" "	.
+előfordult	""	.
+,	" "	.
+hogy	" "	.
+Illyés	" "	.
+Gyulát	" "	.
+egy	" "	.
+vagy	" "	.
+két	" "	.
+napra	" "	.
+le	" "	p1
+is	" "	.
+tartóztatták	" "	v1
+izgatás	" "	.
+címén	""	.
+.	"\n"	.
+
+Aki	" "	.
+valamely	" "	.
+köztársaságot	" "	.
+alapít	""	.
+,	" "	.
+el	" "	p1
+kell	" "	.
+rendelnie	" "	v1
+,	" "	.
+hogy	" "	.
+szabad	" "	.
+legyen	" "	.
+bevádolni	" "	.
+minden	" "	.
+polgárt	""	.
+,	" "	.
+minden	" "	.
+félelem	" "	.
+és	" "	.
+gyanakvás	" "	.
+nélkül	""	.
+.	"\n"	.
+
+Rákosiék	" "	.
+Marxtól	" "	.
+csak	" "	.
+annyit	" "	.
+vettek	" "	.
+át	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+kispolgár	" "	.
+reakciós	" "	.
+-	" "	.
+s	" "	.
+ennek	" "	.
+megfelelően	" "	.
+mindent	" "	.
+meg	" "	p1
+is	" "	.
+tettek	" "	v1
+annak	" "	.
+érdekében	""	.
+,	" "	.
+hogy	" "	.
+reakcióssá	" "	.
+tegyék	""	.
+...	"\n"	.
+
+Hogy	" "	.
+ez	" "	.
+tegnap	" "	.
+még	" "	.
+egy	" "	.
+öntelt	""	.
+,	" "	.
+ifjú	" "	.
+nő	" "	.
+volt	" "	.
+-	" "	.
+s	" "	.
+őt	" "	.
+búcsúztatják	" "	v1
+ma	" "	.
+el	" "	p1
+?	"\n"	.
+
+Érdekes	" "	.
+írások	" "	.
+voltak	" "	.
+ezek	""	.
+,	" "	.
+de	" "	.
+valahogy	" "	.
+hiányzott	" "	.
+belőlük	" "	.
+a	" "	.
+meggyőződés	" "	.
+lüktetése	""	.
+.	" "	.
+
+Meg	" "	p1
+kell	" "	.
+végre	" "	.
+hallani	" "	v1
+a	" "	.
+kor	" "	.
+szavát	""	.
+,	" "	.
+Fokos	" "	.
+kolléga	""	.
+!	"\n"	.
+
+Felhívást	" "	.
+kell	" "	.
+készíteni	" "	.
+a	" "	.
+Minisztertanács	" "	.
+nevében	""	.
+,	" "	.
+ezt	" "	.
+igen	" "	.
+gondosan	" "	.
+kell	" "	.
+megírni	""	.
+,	" "	.
+mint	" "	.
+az	" "	.
+események	" "	.
+utáni	" "	.
+első	" "	.
+kormánydokumentumot	""	.
+...	""	.
+,	" "	.
+mert	" "	.
+az	" "	.
+egész	" "	.
+világ	" "	.
+fel	" "	p1
+fog	" "	.
+figyelni	" "	v1
+rá	""	.
+.	"\n"	.
+
+Pongrácz	" "	.
+Gergely	" "	.
+aznap	" "	.
+érkezett	" "	.
+a	" "	.
+Corvin	" "	.
+közbe	""	.
+,	" "	.
+Angyal	" "	.
+István	" "	.
+még	" "	.
+meg	" "	p1
+sem	" "	.
+alakította	" "	v1
+csoportját	""	.
+.	"\n"	.
+
+Taxi	""	.
+,	" "	.
+haza	""	.
+,	" "	.
+néhány	" "	.
+ruhadarab	""	.
+,	" "	.
+fogkefe	""	.
+,	" "	.
+miegymás	""	.
+,	" "	.
+be	" "	p0
+a	" "	.
+bőröndbe	" "	.
+mindent	""	.
+,	" "	.
+kezembe	" "	.
+az	" "	.
+aktatáskát	""	.
+,	" "	.
+taxi	""	.
+,	" "	.
+rohanok	" "	.
+a	" "	.
+pályaudvarra	""	.
+,	" "	.
+épp	" "	.
+hogy	" "	.
+elérem	" "	.
+a	" "	.
+vonatot	""	.
+,	" "	.
+a	" "	.
+vonat	" "	.
+máris	" "	.
+indul	""	.
+,	" "	.
+mintha	" "	.
+csak	" "	.
+rám	" "	.
+várt	" "	.
+volna	""	.
+,	" "	.
+nyúlok	" "	.
+a	" "	.
+zsebembe	""	.
+,	" "	.
+rá	" "	p1
+akarok	" "	.
+gyújtani	" "	v1
+,	" "	.
+erős	" "	.
+dohányos	" "	.
+vagyok	""	.
+,	" "	.
+elnök	" "	.
+elvtárs	""	.
+,	" "	.
+ez	" "	.
+az	" "	.
+egyetlen	" "	.
+szenvedélyem	""	.
+,	" "	.
+nem	" "	.
+jó	" "	.
+szenvedély	""	.
+,	" "	.
+belátom	""	.
+,	" "	.
+nem	" "	.
+hasznos	""	.
+,	" "	.
+de	" "	.
+aki	" "	.
+annyit	" "	.
+dolgozik	""	.
+,	" "	.
+mint	" "	.
+mi	""	.
+,	" "	.
+ezt	" "	.
+szokta	" "	.
+mondani	" "	.
+Kalácska	" "	.
+elvtárs	""	.
+,	" "	.
+aki	" "	.
+annyit	" "	.
+dolgozik	""	.
+,	" "	.
+az	" "	.
+legalább	" "	.
+egyetlen	" "	.
+szenvedélyt	" "	.
+megengedhet	" "	.
+magának	""	.
+,	" "	.
+hiszen	" "	.
+a	" "	.
+nép	" "	.
+szolgálata	" "	.
+nem	" "	.
+aszkétákat	" "	.
+követel	""	.
+,	" "	.
+nem	" "	.
+szerzeteseket	""	.
+,	" "	.
+ezt	" "	.
+már	" "	.
+rég	" "	.
+túlhaladtuk	""	.
+,	" "	.
+szokta	" "	.
+mondani	" "	.
+Kalácska	" "	.
+elvtárs	""	.
+.	"\n"	.
+
+-	" "	.
+Át	" "	p1
+vannak	" "	.
+itatva	" "	v1
+...	"\n"	.
+
+Az	" "	.
+emberek	" "	.
+meg	" "	.
+imbolyogtak	" "	.
+az	" "	.
+új	" "	.
+szelekben	""	.
+,	" "	.
+látni	" "	.
+lehetett	""	.
+,	" "	.
+hogy	" "	.
+igyekeznek	" "	.
+egymás	" "	.
+segítségére	""	.
+,	" "	.
+hogy	" "	.
+végig	" "	p1
+ne	" "	.
+vágódjanak	" "	v1
+a	" "	.
+hatalmas	" "	.
+sártócsákban	""	.
+.	"\n"	.
+
+De	" "	.
+csak	" "	.
+meg	" "	p1
+kell	" "	.
+találnunk	" "	v1
+.	"\n"	.
+
+Vegye	" "	.
+meg	" "	.
+ezt	""	.
+,	" "	.
+Ferdi	" "	.
+bácsi	" "	.
+-	" "	.
+húzta	" "	.
+ki	" "	.
+Ildi	" "	.
+a	" "	.
+hóna	" "	.
+alól	""	.
+,	" "	.
+hogy	" "	.
+odamutassa	""	.
+,	" "	.
+Nadragulyevác	" "	.
+Szávó	" "	.
+üstökös	" "	.
+életű	" "	.
+költőnk	" "	.
+örök	" "	.
+érvényű	" "	.
+tankölteményeinek	" "	.
+öt	" "	.
+egyforma	" "	.
+kötetét	""	.
+,	" "	.
+és	" "	.
+elé	" "	.
+nyújtotta	""	.
+,	" "	.
+futószalagon	" "	.
+(	""	.
+Aranyos	" "	.
+Reske	" "	.
+csak	" "	.
+távolabbi	" "	.
+szemlélője	" "	.
+volt	" "	.
+a	" "	.
+jelenetnek	""	.
+,	" "	.
+a	" "	.
+be	" "	p1
+nem	" "	.
+avatkozás	" "	v1
+elve	" "	.
+alapján	""	.
+)	""	.
+.	"\n"	.
+
+Nehezen	" "	.
+képzelhető	" "	v1
+el	" "	p1
+;	" "	.
+de	" "	.
+akkor	" "	.
+is	""	.
+,	" "	.
+mi	" "	.
+volt	" "	.
+a	" "	.
+formája	""	.
+?	"\n"	.
+
+Semmi	" "	.
+olyat	" "	.
+nem	" "	.
+mondtam	""	.
+,	" "	.
+amit	" "	.
+az	" "	.
+ön	" "	.
+jelenlétében	" "	.
+is	" "	.
+meg	" "	p1
+ne	" "	.
+ismételhetnék	" "	v1
+.	"\n"	.
+
+Nem	" "	.
+akarnak	" "	.
+egyéni	" "	.
+érzelmeimben	" "	.
+befolyásolni	""	.
+,	" "	.
+de	" "	.
+itt	" "	.
+nem	" "	.
+érzelmekről	""	.
+,	" "	.
+hanem	" "	.
+elvekről	" "	.
+és	" "	.
+tényekről	" "	.
+van	" "	.
+szó	""	.
+,	" "	.
+és	" "	.
+ha	" "	.
+igazán	" "	.
+az	" "	.
+eszmélő	" "	.
+nép	""	.
+,	" "	.
+a	" "	.
+"	" "	.
+népünk	" "	.
+"	""	.
+,	" "	.
+valamint	" "	.
+"	" "	.
+a	" "	.
+költészet	""	.
+,	" "	.
+a	" "	.
+tiszta	" "	.
+szellem	" "	.
+"	" "	.
+mellé	" "	.
+akarok	" "	.
+állni	""	.
+,	" "	.
+el	" "	p1
+kell	" "	.
+fogadnom	" "	v1
+a	" "	.
+nagy	" "	.
+Petényi	" "	.
+ujjmutatását	""	.
+,	" "	.
+aki	" "	.
+Réti	" "	.
+Palit	" "	.
+már	" "	.
+negyvennégy	" "	.
+nyarán	""	.
+,	" "	.
+londoni	" "	.
+emigrációjában	""	.
+,	" "	.
+könyörtelenül	" "	.
+az	" "	.
+árulók	" "	.
+közé	" "	.
+taszította	""	.
+.	"\n"	.
+
+Lépek	" "	.
+s	" "	.
+kiáltok	""	.
+.	" "	.
+
+S	" "	.
+zajongok	""	.
+,	" "	.
+amig	" "	.
+Egy	" "	.
+röggel	" "	.
+be	" "	p1
+nem	" "	.
+tömik	" "	v1
+szájamat	""	.
+.	"\n"	.
+
+Egyik-másik	" "	.
+annyi	" "	.
+tiszteletlenséget	""	.
+,	" "	.
+izgatást	""	.
+,	" "	.
+szemérmetlen	" "	.
+(	""	.
+a	" "	.
+való	" "	.
+tényeknek	" "	.
+egyáltalában	" "	.
+meg	" "	p1
+nem	" "	.
+felelő	" "	v1
+)	" "	.
+önleleplezést	" "	.
+tartalmazott	""	.
+,	" "	.
+hogy	" "	.
+ezekért	" "	.
+nem	" "	.
+is	" "	.
+vállalhattam	" "	.
+a	" "	.
+felelősséget	" "	.
+egy	" "	.
+olyan	""	.
+,	" "	.
+eléggé	" "	.
+el	" "	p2
+nem	" "	.
+ítélhető	" "	v2
+jogrendszerben	""	.
+,	" "	.
+amely	" "	.
+ilyesmiért	" "	.
+nem	" "	.
+a	" "	.
+korszellem	" "	.
+és	" "	.
+az	" "	.
+örök	" "	.
+szellem	" "	.
+közös	" "	.
+leányát	""	.
+,	" "	.
+a	" "	.
+Múzsát	""	.
+,	" "	.
+hanem	" "	.
+bűnös	" "	.
+hanyagsággal	" "	.
+a	" "	.
+költőt	" "	.
+vonja	" "	.
+perbe	""	.
+.	"\n"	.
+
+Egy	" "	.
+portugál	" "	.
+bölcselő	" "	.
+szerint	""	.
+,	" "	.
+ha	" "	.
+egy	" "	.
+rétegtől	" "	.
+munkaerőt	""	.
+,	" "	.
+terményt	""	.
+,	" "	.
+mindent	" "	.
+olcsón	" "	.
+meg	" "	p1
+lehet	" "	.
+kapni	" "	v1
+,	" "	.
+a	" "	.
+vásárlók	" "	.
+eszmevilága	" "	.
+szükségszerűen	" "	.
+úgy	" "	.
+alakul	""	.
+,	" "	.
+hogy	" "	.
+el	" "	p2
+sem	" "	.
+tudják	" "	.
+képzelni	" "	v2
+:	" "	.
+rendkívülinek	""	.
+,	" "	.
+sőt	" "	.
+afféle	" "	.
+szerződésszegésnek	" "	.
+érzik	""	.
+,	" "	.
+ha	" "	.
+valami	" "	.
+mégsem	" "	.
+olcsó	""	.
+,	" "	.
+vagy	" "	.
+kiváltképp	" "	.
+nem	" "	.
+kapható	""	.
+.	"\n"	.
+
+Ti	" "	.
+fogjátok	" "	.
+tudtául	" "	.
+adni	""	.
+,	" "	.
+hogy	" "	.
+Kolozsvár	" "	.
+felett	" "	.
+zivatar	" "	.
+vonul	""	.
+,	" "	.
+s	" "	.
+nedveteknek	" "	.
+hirtelen	" "	.
+újjáéledése	" "	.
+jelenti	" "	.
+meg	" "	.
+a	" "	.
+mélyen	" "	.
+alvónak	" "	.
+és	" "	.
+fel	" "	p1
+nem	" "	.
+ébredőnek	" "	v1
+az	" "	.
+újdonatúj	" "	.
+tavaszt	""	.
+.	"\n"	.
+
+De	" "	.
+ez	" "	.
+is	" "	.
+elég	" "	.
+volt	" "	.
+ahhoz	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+öregember	" "	.
+el-elszoruló	" "	.
+szívvel	" "	.
+induljon	" "	.
+lefelé	" "	.
+a	" "	.
+meredek	" "	.
+kerten	" "	.
+át	""	.
+,	" "	.
+s	" "	.
+meg	" "	p1
+se	" "	.
+álljon	" "	v1
+az	" "	.
+íróasztaláig	""	.
+.	"\n"	.
+
+Mintha	" "	.
+valakiket	" "	.
+megleptem	" "	.
+volna	" "	.
+itt	""	.
+,	" "	.
+kik	" "	.
+test	" "	.
+szerint	" "	.
+bár	" "	.
+láthatatlanok	""	.
+,	" "	.
+azóta	" "	.
+súlyosabban	" "	.
+itt	" "	.
+lakoznak	""	.
+,	" "	.
+mióta	" "	.
+szemmel	" "	.
+fel	" "	p1
+nem	" "	.
+foghatók	" "	v1
+.	"\n"	.
+
+Anya	" "	.
+jópofa	" "	.
+volt	""	.
+.	" "	.
+
+Meg	" "	p1
+kell	" "	.
+hagyni	" "	v1
+.	"\n"	.
+
+Egyszerre	""	.
+...	" "	.
+rétegesen	""	.
+...	" "	.
+az	" "	.
+egymásutániság	" "	.
+csapdája	""	.
+,	" "	.
+ha	" "	.
+le	" "	p1
+akarnám	" "	.
+írni	" "	v1
+...	" "	.
+ha	" "	.
+valamelyik	" "	.
+firkász	" "	.
+venné	" "	.
+a	" "	.
+bátorságot	" "	.
+és	" "	.
+összerendezné	""	.
+...	" "	.
+kikerekítgetné	" "	.
+szépen	""	.
+...	" "	.
+a	" "	.
+vázlatot	""	.
+...	" "	.
+a	" "	.
+részleteket	""	.
+...	" "	.
+öntelten	" "	.
+kukorékolná	""	.
+,	" "	.
+mint	" "	.
+a	" "	.
+kakas	" "	.
+a	" "	.
+szemétdombon	""	.
+,	" "	.
+"	" "	.
+nézzétek	""	.
+,	" "	.
+emberek	""	.
+,	" "	.
+ez	" "	.
+az	" "	.
+én	" "	.
+művem	""	.
+,	" "	.
+ezt	" "	.
+mind	" "	.
+én	" "	.
+csináltam	""	.
+,	" "	.
+egyes-egyedül	""	.
+,	" "	.
+tőlem	" "	.
+kelt	" "	.
+fel	" "	.
+az	" "	.
+Isten	" "	.
+napja	""	.
+...	" "	.
+
+"	"\n"	.
+Amit	" "	.
+fel	" "	p1
+lehet	" "	.
+ragasztani	" "	v1
+.	"\n"	.
+
+És	" "	.
+hogy	" "	.
+meg	" "	p1
+tetszett	" "	.
+tiltani	" "	v1
+neki	""	.
+,	" "	.
+hogyha	" "	.
+én	" "	.
+otthon	" "	.
+felejtem	" "	.
+valamimet	""	.
+,	" "	.
+ő	" "	.
+kölcsönadja	""	.
+...	"\n"	.
+
+Nem	" "	.
+is	" "	.
+volt	" "	.
+botrány	" "	.
+voltaképpen	""	.
+,	" "	.
+mert	" "	.
+a	" "	.
+fürdőzők	" "	.
+s	" "	.
+úszómesterek	" "	.
+egyaránt	" "	.
+hazamentek	""	.
+,	" "	.
+csak	" "	.
+két	" "	.
+három	" "	.
+elkésett	" "	.
+látogató	" "	.
+csavarta	" "	.
+ki	" "	.
+vizes	" "	.
+fürdőruháját	""	.
+,	" "	.
+megállva	" "	.
+a	" "	.
+medence	" "	.
+kőszegélyén	""	.
+.	" "	.
+
+Mint	" "	.
+később	" "	.
+állították	""	.
+,	" "	.
+nem	" "	.
+hittek	" "	.
+a	" "	.
+saját	" "	.
+szemüknek	""	.
+,	" "	.
+megpillantva	" "	.
+a	" "	.
+szürkületben	" "	.
+a	" "	.
+meztelen	" "	.
+alakokat	""	.
+.	" "	.
+
+Azt	" "	.
+képzelték	""	.
+,	" "	.
+érzékcsalódás	" "	.
+áldozatai	" "	.
+lettek	""	.
+,	" "	.
+avagy	" "	.
+talán	" "	.
+a	" "	.
+délibáb	" "	.
+Egerbe	" "	.
+költözött	" "	.
+a	" "	.
+Hortobágyról	""	.
+.	" "	.
+
+Mikor	" "	.
+pedig	" "	.
+rá	" "	p1
+kellett	" "	.
+jönniük	" "	v1
+,	" "	.
+hogy	" "	.
+nem	" "	.
+káprázik	" "	.
+a	" "	.
+szemük	""	.
+,	" "	.
+lóhalálában	" "	.
+elhagyták	" "	.
+a	" "	.
+fürdőt	""	.
+.	"\n"	.
+
+Hol	" "	.
+elöl	""	.
+,	" "	.
+hol	" "	.
+hátul	" "	.
+ültek	" "	.
+egyre	" "	.
+többen	""	.
+,	" "	.
+s	" "	.
+a	" "	.
+hó	" "	.
+nőtt	" "	.
+akkorára	""	.
+,	" "	.
+hogy	" "	.
+ha	" "	.
+meg	" "	p1
+nem	" "	.
+lett	" "	.
+volna	" "	.
+fagyva	" "	v1
+,	" "	.
+ki	" "	p2
+sem	" "	.
+látszik	" "	v2
+belőle	" "	.
+az	" "	.
+ember	""	.
+.	"\n"	.
+
+-	" "	.
+Az	" "	.
+Écel	" "	.
+emberei	" "	.
+be	" "	p1
+vannak	" "	.
+építve	" "	v1
+a	" "	.
+rendőrségre	""	.
+.	"\n"	.
+
+Most	" "	.
+jön	" "	v1
+csak	" "	.
+ki	" "	p1
+a	" "	.
+szobából	" "	.
+Mendezné	""	.
+,	" "	.
+karján	" "	.
+összehajtogatott	" "	.
+takaró	""	.
+.	"\n"	.
+
+F.	" "	.
+sokáig	" "	.
+távol	" "	.
+tartotta	" "	.
+magát	" "	.
+a	" "	.
+sajtótól	""	.
+,	" "	.
+mígnem	" "	.
+néhány	" "	.
+évvel	" "	.
+ezelőtt	" "	.
+egy	" "	.
+népszerű	" "	.
+napilap	" "	.
+publicisztikai	" "	.
+rovatvezetője	" "	.
+-	" "	.
+egykori	" "	.
+kollégánk	" "	.
+-	" "	.
+felajánlotta	" "	.
+neki	" "	.
+a	" "	.
+helyettesi	" "	.
+státust	""	.
+,	" "	.
+amit	" "	.
+F.	" "	.
+némi	" "	.
+habozás	" "	.
+után	" "	.
+el	" "	p1
+is	" "	.
+fogadott	" "	v1
+.	"\n"	.
+
+Azt	" "	.
+is	" "	.
+megbeszélték	""	.
+,	" "	.
+hogy	" "	.
+ő	" "	.
+vásárol	" "	v1
+majd	" "	.
+be	" "	p1
+szombaton	""	.
+.	"\n"	.
+
+Aztán	" "	.
+el	" "	p1
+kellett	" "	.
+még	" "	.
+mondanom	" "	v1
+az	" "	.
+öregasszonynak	""	.
+:	" "	.
+-	" "	.
+Együtt	" "	.
+voltunk	" "	.
+-	" "	.
+magyarázkodnom	""	.
+:	" "	.
+-	" "	.
+Zeitzban	" "	.
+-,	" "	.
+s	" "	.
+valahogyan	" "	.
+szigorú	""	.
+,	" "	.
+már-már	" "	.
+számon	" "	.
+kérő	" "	.
+kérdésére	""	.
+:	" "	.
+-	" "	.
+És	" "	.
+miért	" "	.
+nem	" "	.
+együtt	" "	.
+jöttek	" "	.
+haza	""	.
+?	" "	.
+-	" "	.
+mentegetőznöm	" "	.
+szinte	""	.
+:	" "	.
+-	" "	.
+Elváltunk	""	.
+.	"\n"	.
+
+A	" "	.
+ki	" "	p1
+nem	" "	.
+mondható	" "	v1
+,	" "	.
+de	" "	.
+a	" "	.
+társadalomban	" "	.
+még	" "	.
+élő	" "	.
+igazság	" "	.
+és	" "	.
+jogérzet	""	.
+,	" "	.
+a	" "	.
+cselekvésre	" "	.
+sarkalló	" "	.
+akarat	""	.
+,	" "	.
+az	" "	.
+éber	" "	.
+lelkiismeret	" "	.
+jelenik	" "	.
+meg	" "	.
+velük	" "	.
+a	" "	.
+színen	""	.
+.	"\n"	.
+
+Ide	" "	.
+esett	""	.
+.	" "	.
+
+Többet	" "	.
+nem	" "	.
+fogja	" "	.
+megmoccantani	" "	.
+senki	""	.
+.	" "	.
+
+Pedig	" "	.
+a	" "	.
+többiek	" "	.
+már	" "	.
+trappolnak	" "	.
+is	" "	.
+az	" "	.
+emeletről	""	.
+,	" "	.
+hogy	" "	.
+újra	" "	.
+utánam	" "	p1
+dobják	" "	v1
+,	" "	.
+mert	" "	.
+dühük	" "	.
+már	" "	.
+fáj	""	.
+:	" "	.
+csak	" "	.
+annyit	" "	.
+éreznek	""	.
+,	" "	.
+hogy	" "	.
+mekkora	" "	.
+feszültség	" "	.
+van	" "	.
+egy	" "	.
+mozdulatlanul	" "	.
+álló	" "	.
+szörnyű	" "	.
+nagy	" "	.
+kőtömbben	""	.
+.	"\n"	.
+
+Mint	" "	.
+egyike	" "	.
+azoknak	""	.
+,	" "	.
+akik	" "	.
+mindig	" "	.
+az	" "	.
+egészben	" "	.
+gondolkoztak	""	.
+,	" "	.
+nem	" "	.
+hittek	" "	.
+abban	""	.
+,	" "	.
+hogy	" "	.
+valamilyen	" "	.
+szempontok	" "	.
+szerint	" "	.
+le	" "	p1
+kellene	" "	.
+írni	" "	v1
+holmi	" "	.
+tételeket	""	.
+,	" "	.
+amelyeket	" "	.
+persze	" "	.
+máshol	" "	.
+se	" "	.
+vennének	" "	.
+úgysem	" "	.
+könyvelésbe	" "	.
+az	" "	.
+ötbe	""	.
+-	""	.
+hatba	""	.
+-	""	.
+hétbe	" "	.
+hasított	" "	.
+egynyelvű	" "	.
+kultúránkból	""	.
+.	"\n"	.
+
+Most	" "	.
+a	" "	.
+kora	" "	.
+őszi	" "	.
+csepergésben	""	.
+,	" "	.
+a	" "	.
+fénylő	" "	.
+síneken	" "	.
+ágyúval	""	.
+,	" "	.
+horkoló	" "	.
+katonákkal	" "	.
+úgy	" "	.
+kattogtak	" "	.
+át	" "	.
+itt	" "	.
+is	" "	.
+a	" "	.
+vonatok	""	.
+,	" "	.
+mint	" "	.
+a	" "	.
+legparányibb	" "	.
+bakterház	" "	.
+előtt	""	.
+;	" "	.
+még	" "	.
+nappal	" "	.
+sem	" "	.
+volt	""	.
+,	" "	.
+hogy	" "	.
+félrehúzott	" "	.
+ajtókban	" "	.
+láblógatva	" "	.
+ücsörgő	" "	.
+szürke	" "	.
+alakok	""	.
+,	" "	.
+bár	" "	.
+kibetűzzék	" "	.
+s	" "	.
+egy	" "	.
+pillanat	" "	.
+múlva	" "	.
+el	" "	p1
+is	" "	.
+felejtsék	" "	v1
+,	" "	.
+hogy	" "	.
+van	" "	.
+ilyen	" "	.
+állomás	""	.
+...	"\n"	.
+
+Csóka	" "	.
+talált	" "	.
+a	" "	.
+patakban	" "	.
+egy	" "	.
+vaskalapot	""	.
+,	" "	.
+két	" "	.
+helyen	" "	.
+át	" "	p1
+volt	" "	.
+lyuggatva	" "	v1
+,	" "	.
+és	" "	.
+tele	" "	.
+volt	" "	.
+iszappal	""	.
+.	"\n"	.
+
+-...	" "	.
+ha	" "	.
+meg	" "	.
+kellett	" "	.
+érteni	""	.
+:	" "	.
+mi	" "	.
+történik	" "	.
+hirtelen	" "	.
+bennem	""	.
+,	" "	.
+fel	" "	p1
+kellett	" "	.
+fogni	" "	v1
+,	" "	.
+mit	" "	.
+érzek	""	.
+,	" "	.
+nagyon	" "	.
+magamra	" "	.
+voltam	" "	.
+utalva	""	.
+.	"\n"	.
+
+Figyeljünk	" "	v1
+most	" "	.
+oda	" "	p1
+egy	""	.
+,	" "	.
+látszólag	""	.
+,	" "	.
+formai	" "	.
+vonásra	""	.
+.	"\n"	.
+
+-	" "	.
+Na	""	.
+,	" "	.
+ülj	" "	.
+hamar	" "	.
+a	" "	.
+hátamra	""	.
+,	" "	.
+estig	" "	.
+vissza	" "	p1
+kell	" "	.
+érnem	" "	v1
+,	" "	.
+mert	" "	.
+este	" "	.
+szolgálatba	" "	.
+megyek	""	.
+.	"\n"	.
+
+Ha	" "	.
+valamit	" "	.
+el	" "	p1
+kell	" "	.
+intézni	" "	v1
+valahol	""	.
+,	" "	.
+én	" "	.
+maga	" "	.
+helyett	" "	.
+mindent	" "	.
+elintézek	""	.
+.	"\n"	.
+
+Vajon	" "	.
+nem	" "	.
+törülné	" "	v1
+-e	" "	.
+el	" "	p1
+azt	" "	.
+a	" "	.
+magabiztos	" "	.
+mozdulatát	""	.
+,	" "	.
+mellyel	" "	.
+a	" "	.
+XX.	" "	.
+századi	" "	.
+Csák	" "	.
+visszamutat	" "	v2
+ma	" "	.
+a	" "	.
+dunántúli	" "	.
+város	" "	.
+középkori	" "	.
+történetére	""	.
+,	" "	.
+vissza	" "	p2
+a	" "	.
+ködszerű	" "	.
+múltra	""	.
+.	"\n"	.
+
+Szinte	" "	.
+bárhol	" "	.
+fel	" "	p1
+lehet	" "	.
+ütni	" "	v1
+a	" "	.
+Válogatott	" "	.
+versek	" "	.
+kötetét	""	.
+,	" "	.
+s	" "	.
+bő	" "	.
+ízelítő	" "	.
+kínálkozik	" "	.
+a	" "	.
+tízes	" "	.
+évek	" "	.
+végéről	" "	.
+a	" "	.
+sebesen	" "	.
+változó	""	.
+,	" "	.
+bizarr	""	.
+,	" "	.
+elrugaszkodott	""	.
+,	" "	.
+nehezen	" "	.
+vagy	" "	.
+alig	" "	.
+érthető	" "	.
+képzetekből	""	.
+.	"\n"	.
+
+Szeretsz	""	.
+??	" "	.
+kérdeztem	" "	.
+a	" "	.
+lánytól	" "	.
+s	" "	.
+vártam	""	.
+,	" "	.
+hogy	" "	.
+mondjon	" "	.
+valamit	""	.
+,	" "	.
+amitől	" "	.
+ketté	" "	p1
+hasadnak	" "	v1
+a	" "	.
+falak	""	.
+.	"\n"	.
+
+Indulás	" "	v1
+haza	" "	p1
+!	"\n"	.
+
+-...	" "	.
+ha	" "	.
+mégis	" "	.
+el	" "	p1
+tudja	" "	.
+felejteni	" "	v1
+...	"\n"	.
+
+Az	" "	.
+ember	" "	.
+csavarog	""	.
+.	" "	.
+
+El	" "	p1
+se	" "	.
+tudja	" "	.
+képzelni	" "	v1
+,	" "	.
+hogy	" "	.
+mást	" "	.
+is	" "	.
+lehet	""	.
+.	"\n"	.
+
+-	" "	.
+Meg	" "	p1
+lehet	" "	.
+dögölni	" "	v1
+mellette	""	.
+!	"\n"	.
+
+Az	" "	.
+október	" "	.
+26-i	" "	.
+ülésükön	" "	.
+elhatározva	""	.
+,	" "	.
+hogy	" "	.
+minden	" "	.
+nap	" "	.
+össze	" "	p1
+fognak	" "	.
+ülni	" "	v1
+,	" "	.
+nem	" "	.
+kevesebb	""	.
+,	" "	.
+mint	" "	.
+22	" "	.
+pontban	" "	.
+rögzítették	" "	.
+a	" "	.
+tennivalókat	""	.
+.	"\n"	.
+
+Aki	" "	.
+veled	" "	.
+le	" "	p1
+tudott	" "	.
+feküdni	" "	v1
+...	"\n"	.
+
+Nagy	" "	.
+Imre	""	.
+,	" "	.
+aki	" "	.
+Magad	" "	.
+17	" "	.
+évig	" "	.
+voltál	" "	.
+emigráns	""	.
+,	" "	.
+aki	" "	.
+hazatérve	" "	.
+ezeket	" "	.
+mondottad	""	.
+:	" "	.
+"	" "	.
+Az	" "	.
+volt	" "	.
+a	" "	.
+bűnöm	""	.
+,	" "	.
+hogy	" "	.
+szerveztem	" "	.
+a	" "	.
+földműves	" "	.
+nép	" "	.
+harcát	" "	.
+a	" "	.
+feudális	" "	.
+nagybirtokrendszer	" "	.
+megszüntetéséért	""	.
+,	" "	.
+azért	""	.
+,	" "	.
+hogy	" "	.
+azé	" "	.
+legyen	" "	.
+a	" "	.
+föld	""	.
+,	" "	.
+aki	" "	.
+megműveli	""	.
+;	" "	.
+de	" "	.
+ha	" "	.
+el	" "	p1
+is	" "	.
+űztek	" "	v1
+innen	" "	.
+messze	" "	.
+idegenbe	""	.
+,	" "	.
+nem	" "	.
+voltam	" "	.
+földönfutó	""	.
+,	" "	.
+lélekben	""	.
+,	" "	.
+gondolatban	" "	.
+mindig	" "	.
+itt	" "	.
+voltam	" "	.
+köztetek	" "	.
+"	""	.
+:	" "	.
+ma	" "	.
+eljöttek	" "	.
+sírodhoz	" "	.
+a	" "	.
+világ	" "	.
+négy	" "	.
+sarkából	" "	.
+a	" "	.
+magyar	" "	.
+emigránsoknak	" "	.
+ezrei	""	.
+,	" "	.
+akik	" "	.
+-	" "	.
+akárcsak	" "	.
+Te	" "	.
+-	" "	.
+lélekben	" "	.
+sohasem	" "	.
+szakadtak	" "	.
+el	" "	.
+a	" "	.
+hazától	""	.
+.	"\n"	.
+
+És	" "	.
+különösképpen	" "	.
+utálja	" "	.
+azokat	""	.
+,	" "	.
+akik	" "	.
+ki	" "	p1
+merték	" "	.
+nyitni	" "	v1
+a	" "	.
+szájukat	""	.
+,	" "	.
+fel	" "	p2
+merték	" "	.
+emelni	" "	v2
+a	" "	.
+hangjukat	""	.
+,	" "	.
+amikor	" "	.
+ő	" "	.
+lapult	""	.
+.	"\n"	.
+
+Kuczka	" "	.
+és	" "	.
+a	" "	.
+vele	" "	.
+azonos	" "	.
+véleményen	" "	.
+lévők	" "	.
+határozottan	" "	.
+állították	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+egyetlen	" "	.
+lehetséges	""	.
+,	" "	.
+kommunista	" "	.
+íróhoz	" "	.
+méltó	" "	.
+magatartás	""	.
+,	" "	.
+amely	" "	.
+ezentúl	" "	.
+a	" "	.
+pártot	" "	.
+is	" "	.
+segíti	""	.
+,	" "	.
+az	""	.
+,	" "	.
+hogy	" "	.
+nyíltan	" "	.
+és	" "	.
+tisztán	" "	.
+megírják	" "	.
+tapasztalataikat	""	.
+,	" "	.
+feltárják	" "	.
+a	" "	.
+hibákat	""	.
+,	" "	.
+nem	" "	.
+várva	" "	v1
+most	" "	.
+már	" "	.
+meg	" "	p1
+,	" "	.
+amíg	" "	.
+megint	" "	.
+ellentmond	" "	.
+költészetüknek	" "	.
+a	" "	.
+valóság	""	.
+,	" "	.
+nem	" "	.
+is	" "	.
+szólva	" "	.
+arról	""	.
+,	" "	.
+amíg	" "	.
+megint	" "	.
+fejükre	" "	.
+koppint	" "	.
+a	" "	.
+párt	" "	.
+is	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+nehéz	" "	.
+időkben	" "	.
+lehunyt	" "	.
+szemmel	" "	.
+járták	" "	.
+a	" "	.
+világot	""	.
+.	"\n"	.
+
+Ezt	" "	.
+a	" "	.
+kiváló	" "	.
+tudóst	" "	.
+az	" "	.
+írás	" "	.
+és	" "	.
+a	" "	.
+publikálás	" "	.
+lehetőségeitől	" "	.
+tíz	" "	.
+éven	" "	.
+át	" "	.
+fosztotta	" "	.
+meg	" "	.
+a	" "	.
+rendszer	""	.
+,	" "	.
+mert	" "	.
+bírálni	" "	.
+merte	" "	.
+-	" "	.
+nem	" "	.
+sokkal	" "	.
+a	" "	.
+háború	" "	.
+befejezte	" "	.
+után	""	.
+,	" "	.
+a	" "	.
+koalíciós	" "	.
+időszak	" "	.
+kezdetein	" "	.
+-	" "	.
+a	" "	.
+kommunista	" "	.
+párt	" "	.
+taktikáját	" "	.
+és	" "	.
+stratégiáját	""	.
+,	" "	.
+felhívta	" "	.
+a	" "	.
+figyelmet	" "	.
+a	" "	.
+diktatúra	" "	.
+készülő	" "	.
+veszélyeire	" "	.
+és	" "	.
+nem	" "	.
+utolsósorban	" "	.
+szembe	" "	p1
+mert	" "	.
+szállni	" "	v1
+-	" "	.
+Révai	" "	.
+Józseffel	" "	.
+a	" "	.
+kommunista	" "	.
+párt	" "	.
+és	" "	.
+a	" "	.
+demokrácia	" "	.
+viszonyát	" "	.
+illetően	""	.
+.	"\n"	.
+
+Ha	" "	.
+mocskosan	" "	.
+törpe	" "	.
+a	" "	.
+történelem	" "	.
+-	" "	.
+meg	" "	p1
+kell	" "	.
+építenünk	" "	v1
+a	" "	.
+magunk	" "	.
+történelmét	""	.
+.	"\n"	.
+
+Teljes	" "	.
+objektivitása	" "	.
+ugyanis	" "	.
+önmagában	" "	.
+van	""	.
+,	" "	.
+a	" "	.
+maga	" "	.
+tisztaságában	" "	.
+nem	" "	.
+bányászható	" "	v1
+ki	" "	p1
+.	"\n"	.
+
+Szóval	""	.
+,	" "	.
+most	" "	.
+mindent	" "	.
+oda	" "	p1
+tudnál	" "	.
+dobni	" "	v1
+,	" "	.
+vőlegényt	""	.
+,	" "	.
+biztonságot	""	.
+,	" "	.
+mindent	" "	.
+-	" "	.
+és	" "	.
+én	" "	.
+semmit	" "	.
+sem	" "	.
+ígértem	""	.
+,	" "	.
+semmit	" "	.
+se	" "	.
+kínáltam	" "	.
+ezért	""	.
+.	"\n"	.
+
+De	" "	.
+nem	" "	.
+tudta	" "	.
+megállni	""	.
+,	" "	.
+hogy	" "	.
+még	" "	.
+egyszer	" "	.
+el	" "	p1
+ne	" "	.
+búcsúzzon	" "	v1
+Marianntól	""	.
+;	" "	.
+most	" "	.
+ugyan	" "	.
+elég	" "	.
+sután	""	.
+,	" "	.
+szemlesütve	" "	.
+csinálta	""	.
+.	"\n"	.
+
+A	" "	.
+belső	" "	.
+udvart	" "	.
+a	" "	.
+szomszéd	" "	.
+üres	" "	.
+telek	" "	.
+felől	" "	.
+is	" "	.
+meg	" "	p1
+lehet	" "	.
+közelíteni	" "	v1
+,	" "	.
+egy	" "	.
+szögesdróttal	" "	.
+biztosított	" "	.
+vasajtón	""	.
+.	"\n"	.
+
+Most	" "	.
+először	" "	.
+érzek	" "	.
+olyasmit	""	.
+,	" "	.
+hogy	" "	.
+egy	" "	.
+sejtelem	" "	.
+hatására	" "	.
+az	" "	.
+embernek	" "	.
+le	" "	p1
+tud	" "	.
+esni	" "	v1
+hirtelen	" "	.
+a	" "	.
+hőmérséklete	""	.
+.	"\n"	.
+
+Inkább	" "	.
+majd	" "	.
+a	" "	.
+végén	" "	.
+részletezi	" "	.
+az	" "	.
+eredményt	" "	.
+-	" "	.
+bár	" "	.
+meg	" "	p1
+volt	" "	.
+győződve	" "	v1
+róla	""	.
+,	" "	.
+hogy	" "	.
+nem	" "	.
+éri	" "	.
+meglepetés	""	.
+.	"\n"	.
+
+-	" "	.
+Itt	" "	.
+akarsz	" "	.
+megfagyasztani	" "	.
+bennünket	""	.
+?	" "	.
+-	" "	.
+vakkant	" "	.
+fel	" "	.
+valamelyikünk	""	.
+,	" "	.
+és	" "	.
+be	" "	p1
+akart	" "	.
+nyitni	" "	v1
+egy	" "	.
+ajtón	""	.
+,	" "	.
+hogy	" "	.
+melegebb	" "	.
+helyiség	" "	.
+után	" "	.
+kutasson	""	.
+.	"\n"	.
+
+Éreztem	""	.
+,	" "	.
+hogy	" "	.
+meg	" "	p1
+kell	" "	.
+kapaszkodnom	" "	v1
+valamiben	""	.
+.	"\n"	.
+
+-	" "	.
+Semmibe	""	.
+,	" "	.
+csak	" "	.
+be	" "	p1
+kellene	" "	.
+táplálni	" "	v1
+.	"\n"	.
+
+-	" "	.
+Eleinte	" "	.
+még	" "	.
+kijárnak	" "	.
+a	" "	.
+tanyára	" "	.
+disznót	" "	.
+nevelni	""	.
+,	" "	.
+reggel-este	" "	.
+etetik	" "	.
+őket	""	.
+,	" "	.
+de	" "	.
+rá	" "	p1
+kell	" "	.
+jönniük	" "	v1
+,	" "	.
+hogy	" "	.
+egy	" "	.
+disznón	" "	.
+nem	" "	.
+marad	" "	.
+több	" "	.
+hasznuk	" "	.
+ötszáz-ezer	" "	.
+forintnál	""	.
+,	" "	.
+mert	" "	.
+a	" "	.
+drága	" "	.
+kukoricát	" "	.
+már	" "	.
+nekik	" "	.
+is	" "	.
+a	" "	.
+boltban	" "	.
+kell	" "	.
+megvásárolniuk	""	.
+.	"\n"	.
+
+Tudtam	" "	.
+róla	""	.
+,	" "	.
+hogy	" "	.
+megszállott	" "	.
+rendőr	""	.
+,	" "	.
+ezért	" "	.
+is	" "	.
+kapta	" "	.
+becézésképpen	" "	.
+a	" "	.
+nagy	" "	.
+francia	" "	.
+rendőrzseni	" "	.
+nevét	""	.
+,	" "	.
+néha	" "	.
+éjjel	" "	.
+kettőkor	" "	.
+hívta	" "	.
+fel	" "	.
+a	" "	.
+kollégáit	""	.
+,	" "	.
+hogy	" "	.
+mostanáig	" "	.
+járt	" "	.
+egy	" "	.
+körözött	" "	.
+betörő	" "	.
+nyomában	""	.
+,	" "	.
+rábukkant	""	.
+,	" "	.
+itt	" "	.
+áll	" "	.
+a	" "	.
+lakása	" "	.
+előtt	""	.
+,	" "	.
+most	" "	.
+le	" "	p1
+lehetne	" "	.
+tartóztatni	" "	v1
+,	" "	.
+jöjjenek	" "	.
+el	" "	.
+segíteni	" "	.
+neki	""	.
+.	"\n"	.
+
+-	" "	.
+Ezt	" "	.
+a	" "	.
+kísérletet	" "	.
+néhány	" "	.
+megjelölt	" "	.
+úszó	" "	.
+fadarabbal	" "	.
+is	" "	.
+épp	" "	.
+ilyen	" "	.
+jól	" "	.
+el	" "	p1
+lehetett	" "	.
+volna	" "	.
+végezni	" "	v1
+-	" "	.
+mondja	" "	.
+F.	""	.
+,	" "	.
+a	" "	.
+sokat	" "	.
+tapasztalt	" "	.
+öreg	" "	.
+környezetvédő	" "	.
+szakember	""	.
+.	"\n"	.
+
+Mivel	" "	.
+tudtam	""	.
+,	" "	.
+hogy	" "	.
+előbb-utóbb	" "	.
+mindenképpen	" "	.
+behívnak	" "	.
+katonának	""	.
+,	" "	.
+meg	" "	p1
+akartam	" "	.
+előzni	" "	v1
+,	" "	.
+önként	" "	.
+jelentkeztem	" "	.
+a	" "	.
+Légierőhöz	""	.
+.	"\n"	.
+
+Arcán	" "	.
+elszánt	" "	.
+kifejezéssel	" "	.
+állt	" "	.
+oda	" "	.
+a	" "	.
+meszelt	" "	.
+rajtvonalra	""	.
+,	" "	.
+tudtuk	""	.
+,	" "	.
+meg	" "	p1
+fog	" "	.
+tenni	" "	v1
+mindent	""	.
+,	" "	.
+ami	" "	.
+tőle	" "	.
+telik	""	.
+.	"\n"	.
+
+-	" "	.
+És	" "	.
+te	" "	.
+el	" "	p1
+akarsz	" "	.
+úszni	" "	v1
+Verdalóba	""	.
+?	" "	.
+-	" "	.
+kérdeztem	" "	.
+hitetlenül	""	.
+.	"\n"	.
+
+Feltűnően	" "	.
+öltözködő	""	.
+,	" "	.
+mozgékony	" "	.
+kis	" "	.
+barátnője	" "	.
+mellett	" "	.
+úgy	" "	.
+tűnt	""	.
+,	" "	.
+mint	" "	.
+egy	" "	.
+nehézkes	" "	.
+tengeri	" "	.
+hal	""	.
+,	" "	.
+vezetője	""	.
+,	" "	.
+a	" "	.
+fürge	" "	.
+pilótahal	" "	.
+mellett	""	.
+,	" "	.
+és	" "	.
+valószínűleg	" "	.
+ez	" "	.
+is	" "	.
+határozta	" "	.
+meg	" "	.
+kapcsolatuk	" "	.
+jellegét	""	.
+.	" "	.
+
+El	" "	p1
+akart	" "	.
+fordulni	" "	v1
+,	" "	.
+de	" "	.
+a	" "	.
+lány	" "	.
+hirtelen	" "	.
+újra	" "	.
+ráemelte	" "	.
+a	" "	.
+szemét	""	.
+,	" "	.
+János	" "	.
+visszanézett	""	.
+,	" "	.
+és	" "	.
+a	" "	.
+kitágult	" "	.
+szemekből	" "	.
+megértette	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+lány	" "	.
+lát	" "	.
+rajta	" "	.
+valami	" "	.
+sebet	" "	.
+vagy	" "	.
+rendetlenséget	""	.
+,	" "	.
+amelyre	" "	.
+fel	" "	p2
+akarja	" "	.
+hívni	" "	v2
+a	" "	.
+figyelmét	""	.
+.	"\n"	.
+
+A	" "	.
+szakítás	" "	.
+mellett	" "	.
+szólt	" "	.
+az	" "	.
+is	""	.
+,	" "	.
+hogy	" "	.
+Altschuler	" "	.
+vagy	" "	.
+Nagyezsda	" "	.
+is	" "	.
+tudomást	" "	.
+szerezhet	" "	.
+a	" "	.
+találkozásokról	""	.
+,	" "	.
+és	" "	.
+János	" "	.
+egyelőre	" "	.
+el	" "	p1
+akarta	" "	.
+kerülni	" "	v1
+a	" "	.
+botrányt	""	.
+.	"\n"	.
+
+"	" "	.
+A	" "	.
+büntetés	" "	.
+elején	" "	.
+nagyobb	" "	.
+fokú	" "	.
+nélkülözéssel	" "	.
+kell	" "	.
+felkelteni	" "	.
+a	" "	.
+tudatot	" "	.
+az	" "	.
+elítéltben	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+jogsértés	" "	.
+súlyos	" "	.
+következményekkel	" "	.
+jár	""	.
+,	" "	.
+és	" "	.
+akaratát	" "	.
+alá	" "	p1
+kell	" "	.
+rendelnie	" "	v1
+egy	" "	.
+felsőbb	" "	.
+akaratnak	""	.
+.	" "	.
+
+"	"\n"	.
+Egészen	" "	.
+el	" "	p1
+is	" "	.
+feledtem	" "	v1
+a	" "	.
+kedves	" "	.
+édesapát	""	.
+.	"\n"	.
+
+Olyan	" "	.
+embert	""	.
+,	" "	.
+aki	" "	.
+érvényt	" "	.
+szerez	" "	.
+a	" "	.
+törvény	" "	.
+szavának	""	.
+;	" "	.
+s	" "	.
+aki	" "	.
+azon	" "	.
+nyomban	" "	.
+le	" "	p1
+is	" "	.
+köszönt	" "	v1
+a	" "	.
+tisztéről	""	.
+,	" "	.
+mihelyst	" "	.
+megszűnt	" "	.
+a	" "	.
+szükségállapot	" "	.
+vagy	" "	.
+megoldódott	" "	.
+a	" "	.
+viszály	""	.
+.	"\n"	.
+
+Ott	" "	.
+az	" "	.
+ajtó	""	.
+,	" "	.
+a	" "	.
+hallba	" "	.
+nyílik	""	.
+,	" "	.
+ki	" "	p1
+kell	" "	.
+nyitni	" "	v1
+.	"\n"	.
+
+De	" "	.
+hiszen	" "	.
+ez	" "	.
+meg	" "	p1
+van	" "	.
+repedve	" "	v1
+,	" "	.
+folyik	" "	.
+a	" "	.
+petróleum	""	.
+.	"\n"	.
+
+Nem	" "	.
+akarom	""	.
+,	" "	.
+hogy	" "	.
+azt	" "	.
+higgye	""	.
+,	" "	.
+valami	" "	.
+tolvaj	" "	.
+szomszédságába	" "	.
+került	" "	.
+-	" "	.
+tette	" "	v1
+még	" "	.
+hozzá	" "	p1
+az	" "	.
+ujját	" "	.
+fölemelve	""	.
+.	"\n"	.
+
+Tizenkét	" "	.
+évig	" "	.
+rá	" "	p1
+sem	" "	.
+néztem	" "	v1
+más	" "	.
+nőnemű	" "	.
+lényre	""	.
+.	"\n"	.
+
+De	" "	.
+ezen	" "	.
+a	" "	.
+csúcson	" "	.
+-	" "	.
+s	" "	.
+ezt	" "	.
+már	" "	.
+a	" "	.
+regény	" "	.
+bizonyítja	" "	.
+-	" "	.
+elkezdtem	" "	.
+gyanakodni	" "	.
+erre	" "	.
+az	" "	.
+épségre	""	.
+,	" "	.
+a	" "	.
+normára	""	.
+:	" "	.
+nem	" "	.
+csapott	" "	v1
+-e	" "	.
+be	" "	p1
+,	" "	.
+nem	" "	.
+zárta	" "	.
+-e	" "	.
+fölpattinthatatlan	" "	.
+tokba	" "	.
+azt	""	.
+,	" "	.
+ami	" "	.
+több	""	.
+,	" "	.
+nemesebb	" "	.
+volt	" "	.
+bennem	""	.
+:	" "	.
+"	" "	.
+az	" "	.
+abnormalitásom	" "	.
+"	""	.
+.	"\n"	.
+
+-	" "	.
+Azért	" "	.
+el	" "	p1
+ne	" "	.
+rídd	" "	v1
+magad	""	.
+,	" "	.
+szólt	" "	.
+az	" "	.
+apa	""	.
+,	" "	.
+aki	" "	.
+nem	" "	.
+állhatta	" "	.
+meg	""	.
+,	" "	.
+hogy	" "	.
+el	" "	p2
+ne	" "	.
+kacagja	" "	v2
+magát	""	.
+,	" "	.
+oly	" "	.
+komikus	" "	.
+volt	" "	.
+az	" "	.
+előrecsuklott	" "	.
+térdű	""	.
+,	" "	.
+reszkető	" "	.
+figura	""	.
+.	"\n"	.
+
+Ott	" "	.
+élek	" "	.
+mellette	""	.
+,	" "	.
+s	" "	.
+nem	" "	.
+tudom	" "	.
+elhinni	" "	.
+-	" "	.
+holott	" "	.
+nagyon	" "	.
+is	" "	.
+el	" "	p1
+tudta	" "	.
+hinni	" "	v1
+,	" "	.
+meg	" "	.
+volt	" "	.
+győződve	""	.
+,	" "	.
+csak	" "	.
+nagy	" "	.
+néha	" "	.
+nyilallt	" "	.
+bele	" "	.
+az	" "	.
+esztelen	" "	.
+gyanú	""	.
+,	" "	.
+hogy	" "	.
+tán	" "	.
+mégsem	" "	.
+igaz	" "	.
+-	" "	.
+mint	" "	.
+éjjeli	" "	.
+felriadáskor	""	.
+,	" "	.
+hogy	" "	.
+halottunk	" "	.
+nem	" "	.
+halt	" "	.
+meg	""	.
+.	"\n"	.
+
+Nem	" "	.
+jutott	" "	.
+eszembe	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+mennyei	" "	.
+dicsőség	" "	.
+révült	" "	.
+állapotát	" "	.
+sajnálatos	" "	.
+módon	" "	.
+meg	" "	p1
+kell	" "	.
+előznie	" "	v1
+annak	""	.
+,	" "	.
+hogy	" "	.
+meg	" "	p2
+kell	" "	.
+halnunk	" "	v2
+hozzá	""	.
+.	"\n"	.
+
+Ebben	" "	.
+a	" "	.
+sűrű	" "	.
+füstben	" "	.
+el	" "	p1
+se	" "	.
+látunk	" "	v1
+odáig	""	.
+.	"\n"	.
+
+Akárhogy	" "	.
+is	" "	.
+van	""	.
+,	" "	.
+hősöm	" "	.
+ő	" "	.
+nekem	""	.
+,	" "	.
+hajtogattam	""	.
+,	" "	.
+hogy	" "	.
+legalább	" "	.
+fikcióvá	" "	.
+hazudjam	" "	.
+ezt	" "	.
+a	" "	.
+szörnyűséget	""	.
+,	" "	.
+de	" "	.
+meg	" "	p1
+nem	" "	.
+nyugodtam	" "	v1
+.	"\n"	.
+
+Egyszerű	" "	.
+vágásokkal	""	.
+,	" "	.
+nagyításokkal	""	.
+,	" "	.
+egybefényképezésekkel	""	.
+:	" "	.
+az	" "	.
+Ezeregyéjszaka	" "	.
+minden	" "	.
+csodáját	" "	.
+fel	" "	p1
+tudja	" "	.
+eleveníteni	" "	v1
+a	" "	.
+néző	" "	.
+szeme	" "	.
+előtt	""	.
+:	" "	.
+tengeri	" "	.
+ütközetet	" "	.
+egy	" "	.
+lavór	" "	.
+vízben	""	.
+,	" "	.
+a	" "	.
+vízözön	""	.
+,	" "	.
+a	" "	.
+Mars-utazás	""	.
+,	" "	.
+Karthágó	" "	.
+pusztulásának	" "	.
+képét	" "	.
+-	" "	.
+makettből	""	.
+.	"\n"	.
+
+A	" "	.
+gyógynövény	" "	.
+párlat	" "	.
+egyik	" "	.
+alkotó	" "	.
+elemét	" "	.
+ma	" "	.
+is	" "	.
+csak	" "	.
+én	" "	.
+tudom	""	.
+,	" "	.
+a	" "	.
+porcelán	" "	.
+régi	" "	.
+fénye	" "	.
+az	" "	.
+ismert	" "	.
+hőfokon	" "	.
+is	" "	.
+csak	" "	.
+egy	" "	.
+bizonyos	" "	.
+összetételű	" "	.
+mázzal	" "	.
+érhető	" "	v1
+el	" "	p1
+:	" "	.
+ennek	" "	.
+a	" "	.
+titkát	" "	.
+sem	" "	.
+fedtem	" "	.
+föl	""	.
+.	"\n"	.
+
+-	" "	.
+Semmit	""	.
+!	" "	.
+
+Szét	" "	p0
+vannak	" "	.
+azok	" "	.
+már	" "	.
+a	" "	.
+világban	""	.
+,	" "	.
+egyik	" "	.
+itt	""	.
+,	" "	.
+a	" "	.
+másik	" "	.
+ott	""	.
+,	" "	.
+nem	" "	.
+törődnek	" "	.
+véle	""	.
+.	"\n"	.
+
+Ettől	" "	.
+sem	" "	.
+tanultam	" "	.
+meg	" "	.
+"	" "	.
+főzni	" "	.
+"	""	.
+,	" "	.
+de	" "	.
+megtanultam	" "	.
+elkészíteni	" "	.
+néhány	" "	.
+ételt	""	.
+,	" "	.
+főként	" "	.
+különböző	" "	.
+salátákat	""	.
+,	" "	.
+s	" "	.
+egy-két	" "	.
+komolyabb	" "	.
+fogást	" "	.
+is	""	.
+,	" "	.
+amiből	" "	.
+olykor	""	.
+,	" "	.
+nagyritkán	" "	.
+össze	" "	p1
+tud	" "	.
+állni	" "	v1
+egy-egy	" "	.
+vacsora	""	.
+,	" "	.
+és	" "	.
+amelynek	" "	.
+elkészítése	" "	.
+ilyenkor	""	.
+,	" "	.
+a	" "	.
+kudarctól	" "	.
+való	" "	.
+drukk	" "	.
+vagy	" "	.
+sokk	" "	.
+állandó	" "	.
+jelenléte	" "	.
+dacára	" "	.
+is	""	.
+,	" "	.
+inkább	" "	.
+kedvemre	" "	.
+mint	" "	.
+ellenemre	" "	.
+van	""	.
+.	"\n"	.
+
+Nehezen	" "	.
+tudom	" "	.
+elképzelni	""	.
+,	" "	.
+hogy	" "	.
+apám	" "	.
+a	" "	.
+valamelyik	" "	.
+haszonleső	" "	.
+maffiózó	" "	.
+által	" "	.
+elétárt	" "	.
+Porhüvelyt	" "	.
+ne	" "	.
+vizsgálta	" "	v1
+volna	" "	.
+meg	" "	p1
+alaposan	""	.
+,	" "	.
+valóban	" "	.
+azt	" "	.
+kapja	" "	v2
+-e	" "	.
+meg	" "	p2
+,	" "	.
+amit	" "	.
+áhít	""	.
+.	"\n"	.
+
+Ram	" "	.
+lelkében	" "	.
+mozdult	" "	v1
+csak	" "	.
+meg	" "	p1
+valami	""	.
+,	" "	.
+mert	" "	.
+ő	" "	.
+érteni	" "	.
+vélte	" "	.
+a	" "	.
+Mesternek	" "	.
+ideáját	""	.
+.	"\n"	.
+
+Leszúrlak	""	.
+,	" "	.
+ha	" "	.
+meg	" "	p1
+akarsz	" "	.
+lógni	" "	v1
+.	"\n"	.
+
+-	" "	.
+Ez	" "	.
+egy	" "	.
+kétségbeesett	" "	.
+segélykiáltás	" "	.
+volt	""	.
+,	" "	.
+s	" "	.
+névvel	" "	.
+jegyezve	" "	.
+az	" "	.
+első	" "	.
+eredménye	" "	.
+az	" "	.
+lett	" "	.
+volna	""	.
+,	" "	.
+hogy	" "	.
+két	" "	.
+óra	" "	.
+múltán	" "	.
+már	" "	.
+le	" "	p1
+is	" "	.
+tartóztattak	" "	v1
+volna	""	.
+.	"\n"	.
+
+Addig	" "	.
+is	" "	.
+azonban	" "	.
+meg	" "	.
+kellene	" "	.
+komolyan	" "	.
+vizsgálni	""	.
+,	" "	.
+hogy	" "	.
+azok	" "	.
+az	" "	.
+állami	" "	.
+kiadók	""	.
+,	" "	.
+amelyeknek	" "	.
+elvileg	" "	.
+magyar	" "	.
+nyelvű	" "	.
+könyveket	" "	.
+is	" "	.
+ki	" "	p1
+kellene	" "	.
+hozniok	" "	v1
+,	" "	.
+ezt	" "	.
+a	" "	.
+feladatukat	" "	.
+miért	" "	.
+nem	" "	.
+teljesítik	""	.
+.	"\n"	.
+
+Az	" "	.
+ilyesmihez	" "	.
+pedig	" "	.
+hozzá	" "	p1
+voltam	" "	.
+szokva	" "	v1
+.	"\n"	.
+
+Vásárlók	" "	.
+mind	" "	.
+el	" "	p0
+.	"\n"	.
+
+Panaszolta	" "	.
+is	" "	.
+később	" "	.
+az	" "	.
+igazgató	" "	.
+Prielle	" "	.
+Kornéliának	""	.
+:	" "	.
+"	" "	.
+különös	" "	.
+asszony	" "	.
+ez	" "	.
+a	" "	.
+Jászai	""	.
+:	" "	.
+nekiadtam	" "	.
+az	" "	.
+Évát	""	.
+,	" "	.
+s	" "	.
+még	" "	.
+csak	" "	.
+fel	" "	p1
+se	" "	.
+csillant	" "	v1
+a	" "	.
+szeme	""	.
+!	" "	.
+
+"	"\n"	.
+Hogy	" "	.
+menekűlt	" "	.
+az	" "	.
+a	" "	.
+réműlt	" "	.
+kukac	""	.
+,	" "	.
+mikor	" "	.
+szétbuggyantottad	" "	.
+rejtekét	""	.
+!	" "	.
+hogy	" "	.
+bújt	""	.
+,	" "	.
+vissza	""	.
+,	" "	.
+az	" "	.
+eltűnt	" "	.
+éjbe	""	.
+!	" "	.
+még	" "	.
+beljebb	""	.
+,	" "	.
+a	" "	.
+mag	" "	.
+alá	""	.
+!	" "	.
+hogy	" "	.
+bújt	" "	v1
+csupasz	" "	.
+titka	" "	.
+be	" "	p1
+a	" "	.
+takaró	" "	.
+húsba	""	.
+,	" "	.
+az	" "	.
+áldott	" "	.
+édenbe	""	.
+,	" "	.
+a	" "	.
+biztosba	""	.
+!...	" "	.
+
+Szép	" "	.
+vonaglása	" "	.
+tán	" "	.
+hóhéra	" "	.
+kezét	" "	.
+átkozta	""	.
+,	" "	.
+s	" "	.
+azt	" "	.
+jósolta	""	.
+:	" "	.
+"	" "	.
+Nem	" "	.
+maradsz	" "	.
+rejtve	" "	.
+te	" "	.
+sem	" "	.
+a	" "	.
+romlástól	""	.
+!	" "	.
+nem	" "	.
+a	" "	.
+leleplezéstől	""	.
+:	" "	.
+életed	" "	.
+ura	" "	.
+a	" "	.
+vak	" "	.
+véletlen	""	.
+!	" "	.
+
+"	""	.
+...	" "	.
+
+Sorstragédia	" "	.
+szinháza	" "	.
+lett	" "	.
+az	" "	.
+a	" "	.
+kék	" "	.
+szilvaszem	""	.
+...	"\n"	.
+
+Amata	" "	.
+megemberelhette	" "	.
+magát	""	.
+,	" "	.
+gondolta	" "	.
+Latinus	""	.
+,	" "	.
+általában	" "	.
+nem	" "	.
+esznek	" "	.
+főttet	" "	.
+ők	" "	.
+este	""	.
+,	" "	.
+de	" "	.
+reggel	" "	.
+nagyon	" "	.
+kókadozott	""	.
+,	" "	.
+le	" "	p1
+kellett	" "	.
+vágni	" "	v1
+egy	" "	.
+bárányt	""	.
+,	" "	.
+prédába	" "	.
+nem	" "	.
+hagy	" "	.
+az	" "	.
+ember	" "	.
+semmit	" "	.
+akkor	" "	.
+sem	""	.
+,	" "	.
+ha	" "	.
+világbirodalom	" "	.
+ura	" "	.
+lesz	""	.
+.	"\n"	.
+
+Az	" "	.
+őrrel	" "	.
+fertelmesen	" "	.
+ordítottak	" "	.
+egymásra	""	.
+,	" "	.
+míg	" "	.
+Annuska	" "	.
+ki	" "	p1
+nem	" "	.
+rohant	" "	v1
+,	" "	.
+félre	" "	p2
+nem	" "	.
+tolta	" "	v2
+az	" "	.
+őrt	""	.
+,	" "	.
+és	" "	.
+be	" "	p3
+nem	" "	.
+rántotta	" "	v3
+Anzsut	" "	.
+meg	" "	.
+a	" "	.
+képeket	" "	.
+a	" "	.
+kapun	""	.
+.	"\n"	.
+
+Elmondtam	" "	.
+már	""	.
+,	" "	.
+milyenek	" "	.
+voltunk	""	.
+,	" "	.
+s	" "	.
+ebből	" "	.
+megérthetitek	""	.
+,	" "	.
+hogy	" "	.
+Bálint	" "	.
+és	" "	.
+az	" "	.
+őrnagy	" "	.
+miért	" "	.
+csak	" "	.
+nekem	" "	.
+mondta	" "	.
+meg	""	.
+,	" "	.
+hol	" "	.
+van	" "	.
+Henriett	""	.
+,	" "	.
+és	" "	.
+miért	" "	.
+hitte	" "	.
+el	" "	.
+nálunk	" "	.
+mindenki	""	.
+,	" "	.
+amit	" "	.
+Bálinték	" "	.
+el	" "	p1
+akartak	" "	.
+hitetni	" "	v1
+,	" "	.
+hogy	" "	.
+Henriett	" "	.
+utánament	" "	.
+a	" "	.
+szüleinek	""	.
+,	" "	.
+és	" "	.
+velük	" "	.
+együtt	" "	.
+elhagyta	" "	.
+a	" "	.
+várost	""	.
+.	"\n"	.
+
+Megint	" "	.
+azt	" "	.
+a	" "	.
+kétségbeesést	" "	.
+érezte	""	.
+,	" "	.
+amit	" "	.
+már	" "	.
+annyiszor	" "	.
+át	" "	p1
+kellett	" "	.
+élnie	" "	v1
+,	" "	.
+mennyire	" "	.
+nem	" "	.
+számíthat	" "	.
+senkire	" "	.
+önmagán	" "	.
+kívül	""	.
+,	" "	.
+s	" "	.
+hogy	" "	.
+egy	" "	.
+négytagú	" "	.
+családban	" "	.
+milyen	" "	.
+egymagára	" "	.
+utaltan	" "	.
+él	""	.
+,	" "	.
+voltaképpen	" "	.
+milyen	" "	.
+árván	""	.
+.	"\n"	.
+
+Hát	" "	.
+oda	" "	.
+dolgozhatnék	" "	.
+a	" "	.
+mama	""	.
+,	" "	.
+akár	" "	.
+a	" "	.
+szövetkezetben	" "	.
+magában	""	.
+,	" "	.
+ott	" "	.
+olyan	" "	.
+viszonylag	" "	.
+maga	" "	.
+korabeliek	" "	.
+vannak	""	.
+,	" "	.
+hetven	" "	.
+körüliek	""	.
+,	" "	.
+de	" "	.
+ha	" "	.
+az	" "	.
+fárasztaná	""	.
+,	" "	.
+ki	" "	p1
+is	" "	.
+adják	" "	v1
+neki	" "	.
+a	" "	.
+munkát	""	.
+,	" "	.
+pepecselhet	" "	.
+vele	" "	.
+otthon	""	.
+.	"\n"	.
+
+Késő	" "	.
+délután	" "	.
+egyszer	" "	.
+csak	" "	.
+megjelenik	" "	.
+József	""	.
+,	" "	.
+Jablonczay	" "	.
+Lenke	" "	.
+alig	" "	.
+vet	" "	.
+rá	" "	.
+pillantást	""	.
+,	" "	.
+Szabó	" "	.
+Elek	" "	.
+annál	" "	.
+figyelmesebben	" "	.
+nézi	""	.
+,	" "	.
+mint	" "	.
+aki	" "	.
+fel	" "	p1
+akarja	" "	.
+mérni	" "	v1
+,	" "	.
+milyen	" "	.
+emlékkel	" "	.
+kell	" "	.
+majd	" "	.
+megküzdenie	""	.
+.	"\n"	.
+
+Komolyan	" "	.
+beszélgetni	""	.
+,	" "	.
+elmagyarázni	""	.
+,	" "	.
+kiben	" "	.
+mikor	" "	.
+érett	" "	.
+meg	" "	.
+a	" "	.
+felismerés	""	.
+,	" "	.
+hogy	" "	.
+házasságot	" "	.
+kellene	" "	.
+kötniök	""	.
+,	" "	.
+persze	" "	.
+nem	" "	.
+volt	" "	.
+alkalom	""	.
+,	" "	.
+de	" "	.
+mire	" "	.
+bevégezték	" "	.
+az	" "	.
+étkezést	""	.
+,	" "	.
+valahogy	" "	.
+mindketten	" "	.
+természetesnek	" "	.
+találták	" "	.
+már	""	.
+,	" "	.
+hogy	" "	.
+Amalfi	" "	.
+velük	" "	.
+maradjon	""	.
+,	" "	.
+míg	" "	.
+délutáni	" "	.
+szolgálata	" "	.
+meg	" "	p1
+nem	" "	.
+kezdődik	" "	v1
+.	"\n"	.
+
+Addig	" "	.
+körmöl	""	.
+,	" "	.
+míg	" "	.
+az	" "	.
+újbóli	" "	.
+és	" "	.
+újbóli	" "	.
+konyak	" "	.
+adagok	" "	.
+rá	" "	p1
+nem	" "	.
+hozzák	" "	v1
+az	" "	.
+álmosságot	""	.
+.	"\n"	.
+
+Már	" "	.
+indul	" "	v1
+is	" "	.
+vissza	" "	p1
+.	"\n"	.
+
+Érdekes	""	.
+,	" "	.
+hogy	" "	.
+ezzel	" "	.
+a	" "	.
+levelezéssel	" "	.
+együtt	" "	.
+olvasva	" "	.
+Berzsenyi	" "	.
+költeményeit	""	.
+,	" "	.
+azok	" "	.
+egymást	" "	.
+elragadóan	" "	.
+gazdagítják	" "	.
+és	" "	.
+ki	" "	p1
+is	" "	.
+egészítik	" "	v1
+.	"\n"	.
+
+Nyakát	" "	.
+hátraszegte	""	.
+,	" "	.
+derekát	" "	.
+kifeszítette	""	.
+,	" "	.
+mert	" "	.
+ott	" "	.
+érezte	" "	.
+szívében	" "	.
+azt	" "	.
+az	" "	.
+erőt	""	.
+,	" "	.
+amely	" "	.
+azt	" "	.
+súgta	" "	.
+neki	""	.
+,	" "	.
+hogy	" "	.
+nincs	" "	.
+a	" "	.
+hadnagynak	" "	.
+olyan	" "	.
+feltétele	""	.
+,	" "	.
+amelyet	" "	.
+most	" "	.
+el	" "	p1
+ne	" "	.
+fogadna	" "	v1
+boldogan	""	.
+.	"\n"	.
+
+De	" "	.
+más	" "	.
+tekintetben	" "	.
+is	" "	.
+pazarló	" "	.
+módon	" "	.
+viselte	" "	.
+magát	""	.
+,	" "	.
+szólván	" "	.
+is	" "	.
+dagadozva	""	.
+,	" "	.
+mintha	" "	.
+meg	" "	p1
+akarná	" "	.
+venni	" "	v1
+az	" "	.
+egész	" "	.
+Hargitát	""	.
+:	"\n"	.
+Hazámban	""	.
+,	" "	.
+a	" "	.
+Székelyföldön	" "	.
+fel	" "	p2
+vannak	" "	.
+háborodva	" "	v2
+.	"\n"	.
+
+S	" "	.
+így	" "	.
+búslakodván	" "	.
+érzetem	" "	.
+csapkodásaiban	""	.
+,	" "	.
+kedves	" "	.
+anyám	" "	.
+jutott	" "	.
+eszembe	""	.
+,	" "	.
+s	" "	.
+el	" "	p1
+is	" "	.
+gondoltam	" "	v1
+,	" "	.
+hogy	" "	.
+bezzeg	" "	.
+az	" "	.
+ő	" "	.
+kies	" "	.
+kertjében	" "	.
+más	" "	.
+gyümölcs	" "	.
+termik	""	.
+;	" "	.
+s	" "	.
+el	" "	p1
+azt	" "	.
+is	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+a	" "	.
+gyümölcs	" "	.
+most	" "	.
+jobb	" "	.
+volna	" "	.
+nekem	""	.
+,	" "	.
+mert	" "	.
+anyám	" "	.
+nem	" "	.
+azt	" "	.
+akarná	""	.
+,	" "	.
+hogy	" "	.
+én	" "	.
+álljak	" "	.
+helyt	" "	.
+a	" "	.
+bajban	""	.
+,	" "	.
+hanem	" "	.
+azt	" "	.
+inkább	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+öröm	" "	.
+állja	" "	.
+meg	" "	.
+mellettem	" "	.
+a	" "	.
+helyét	""	.
+.	"\n"	.
+
+De	" "	.
+ahogy	" "	.
+oldozta	" "	.
+volna	" "	.
+a	" "	.
+cipőt	""	.
+,	" "	.
+Mihályka	" "	.
+elhúzta	" "	.
+álmában	" "	.
+a	" "	.
+lábát	""	.
+;	" "	.
+majd	" "	.
+azután	" "	.
+is	" "	.
+elhúzta	" "	.
+folyton	""	.
+,	" "	.
+valahányszor	" "	.
+az	" "	.
+anyja	" "	.
+le	" "	p1
+akarta	" "	.
+venni	" "	v1
+róla	" "	.
+a	" "	.
+cipőt	""	.
+.	"\n"	.
+
+Adjál	" "	.
+csak	" "	.
+ide	" "	.
+pénzt	""	.
+:	" "	.
+ne	" "	.
+félj	""	.
+,	" "	.
+mindjárt	" "	.
+meg	" "	p2
+fogja	" "	.
+mondani	" "	v2
+a	" "	.
+véleményét	" "	.
+a	" "	.
+kántor	" "	.
+úr	""	.
+.	"\n"	.
+
+(	" "	.
+Ez	" "	.
+be	" "	p1
+volt	" "	.
+karikázva	" "	v1
+.	""	.
+)	"\n"	.
+
+Másolt	""	.
+:	" "	.
+"	" "	.
+Ma	" "	.
+még	" "	.
+én	" "	.
+menjek	" "	.
+át	""	.
+...	""	.
+!	" "	.
+sóhajtotta	" "	.
+Lipton	""	.
+,	" "	.
+és	" "	.
+akkor	" "	.
+a	" "	.
+döntőben	" "	.
+ki	" "	p1
+is	" "	.
+kaphatok	" "	v1
+,	" "	.
+42-42	" "	.
+ponttal	" "	.
+állunk	""	.
+,	" "	.
+A.A.A.A.	" "	.
+és	" "	.
+én	""	.
+,	" "	.
+és	" "	.
+nem	" "	.
+baj	" "	.
+a	" "	.
+második	" "	.
+hely	""	.
+.	"\n"	.
+
+Ha	" "	.
+meg	" "	p1
+vagy	" "	.
+fázva	" "	v1
+,	" "	.
+nem	" "	.
+annyi	" "	.
+már	""	.
+,	" "	.
+ha	" "	.
+rá	" "	p2
+is	" "	.
+fázol	" "	v2
+.	"\n"	.
+
+De	" "	.
+Jucika	" "	.
+riadtan	" "	.
+kapja	" "	v1
+a	" "	.
+kezét	" "	.
+el	" "	p1
+.	"\n"	.
+
+Már	" "	.
+ki	" "	p1
+is	" "	.
+derült	" "	v1
+újra	" "	.
+a	" "	.
+képünk	" "	.
+Rózsikával	""	.
+.	"\n"	.
+
+-	" "	.
+Meg	" "	p0
+,	" "	.
+drágám	""	.
+!	" "	.
+
+Meg	" "	p0
+!	"\n"	.
+még	" "	.
+egyszer	" "	.
+sem	" "	.
+sírta	" "	.
+el	" "	.
+magát	" "	.
+én	" "	.
+hiába	" "	.
+zokogok	" "	.
+a	" "	.
+lyukas	" "	.
+zoknikba	" "	.
+a	" "	.
+lyukakkal	" "	.
+teli	" "	.
+ólomteknőbe	" "	.
+ki	" "	p1
+kell	" "	.
+várnom	" "	v1
+gabit	" "	.
+ahogy	" "	.
+egyszer	" "	.
+csak	" "	.
+némán	" "	.
+felsír	" "	.
+zokog	" "	.
+egész	" "	.
+nap	" "	.
+a	" "	.
+rádióban	" "	.
+én	" "	.
+meg	" "	.
+csapkodni	" "	.
+kezdem	" "	.
+a	" "	.
+hasam	" "	.
+úgy	" "	.
+röhögök	" "	.
+igen	" "	.
+én	" "	.
+is	" "	.
+benne	" "	.
+a	" "	.
+rádióban	" "	.
+úgy	" "	.
+röhögök	" "	.
+a	" "	.
+boldogságtól	" "	.
+hogy	" "	.
+a	" "	.
+gabi	" "	.
+végre	" "	.
+ismét	""	.
+:	" "	.
+sír.	" "	.
+nem	" "	.
+csak	" "	.
+tisztábban	" "	.
+okosabban	" "	.
+tagol	" "	.
+kevesebbet	" "	.
+affektál	" "	.
+s	" "	.
+főleg	" "	.
+nem	" "	.
+patetizál	" "	.
+hanem	" "	.
+ismét	""	.
+:	" "	.
+sír.	" "	.
+milyen	" "	.
+szép	" "	.
+lesz	" "	.
+mennyire	" "	.
+igazi	" "	.
+reggel	" "	.
+felcsapom	" "	.
+a	" "	.
+kossuthot	" "	.
+és	" "	.
+hallom	" "	.
+benne	" "	.
+ahogyan	" "	.
+gabi	""	.
+:	" "	.
+sír.	" "	.
+és	" "	.
+aztán	" "	.
+teszem	" "	.
+szépen	" "	.
+a	" "	.
+dolgomat	" "	.
+megyek	" "	.
+ide-oda	" "	.
+ólálkodok	" "	.
+itt-ott	" "	.
+néha	" "	.
+talán	" "	.
+fel	" "	p2
+is	" "	.
+jegyzek	" "	v2
+valamit	" "	.
+de	" "	.
+közben	" "	.
+tudom	" "	.
+ha	" "	.
+hazaérek	" "	.
+s	" "	.
+ismét	" "	.
+felcsapom	" "	.
+a	" "	.
+kossuthot	" "	.
+hallani	" "	.
+fogom	" "	.
+benne	" "	.
+ahogyan	" "	.
+gabi	""	.
+:	" "	.
+sír.	" "	.
+és	" "	.
+hát	" "	.
+ez	" "	.
+persze	" "	.
+többek	" "	.
+között	""	.
+:	" "	.
+olyan	" "	.
+kosztolányis	" "	.
+is.	" "	.
+a	" "	.
+nagysikerű	" "	.
+előadás	" "	.
+másnapján	" "	.
+a	" "	.
+következő	" "	.
+sorokat	" "	.
+olvashattuk	" "	.
+a	" "	.
+magyar	" "	.
+szó-ban	""	.
+:	"\n"	.
+Állva	" "	.
+alvók	""	.
+.	" "	.
+
+Fel	" "	p1
+vannak	" "	.
+függesztve	" "	v1
+,	" "	.
+mint	" "	.
+a	" "	.
+lampionok	""	.
+.	"\n"	.
+
+Tulajdonképpen	""	.
+,	" "	.
+ők	" "	.
+ily	" "	.
+önzetlenül	" "	.
+ajándékozgatják	" "	.
+egymást	" "	.
+mindaddig	""	.
+,	" "	.
+mígcsak	" "	.
+fel	" "	p1
+nem	" "	.
+cseperednek	" "	v1
+és	" "	.
+képzeletük	" "	.
+el	" "	p2
+nem	" "	.
+romlik	" "	v2
+.	"\n"	.
+
+[	""	.
+2	""	.
+]	" "	.
+Az	" "	.
+idegen	" "	.
+állampolgárok	" "	.
+és	" "	.
+a	" "	.
+hontalanok	" "	.
+csakis	" "	.
+valamely	" "	.
+nemzetközi	" "	.
+megállapodás	" "	.
+alapján	" "	.
+vagy	" "	.
+a	" "	.
+kölcsönösség	" "	.
+feltételei	" "	.
+között	" "	.
+adhatók	" "	v1
+ki	" "	p1
+.	"\n"	.
+
+[	""	.
+4	""	.
+]	" "	.
+A	" "	.
+kormány	" "	.
+által	" "	.
+elfogadott	" "	.
+határozatokat	" "	.
+és	" "	.
+rendeleteket	" "	.
+alá	" "	p1
+kell	" "	.
+írnia	" "	v1
+a	" "	.
+miniszterelnöknek	" "	.
+és	" "	.
+ellenjegyezniük	" "	.
+kell	" "	.
+az	" "	.
+alkalmazásba	" "	.
+tételükre	" "	.
+kötelezett	" "	.
+minisztereknek	""	.
+,	" "	.
+és	" "	.
+azokat	" "	.
+közzé	" "	p2
+kell	" "	.
+tenni	" "	v2
+Románia	" "	.
+Hivatalos	" "	.
+Közlönyében	""	.
+.	"\n"	.
+
+Figyelemmel	" "	.
+arra	""	.
+,	" "	.
+hogy	" "	.
+ilyen	" "	.
+esetek	" "	.
+a	" "	.
+gyakorlatban	" "	.
+számos	" "	.
+alkalommal	" "	.
+és	" "	.
+élethelyzetben	" "	.
+fordulnak	""	.
+,	" "	.
+illetve	" "	.
+fordulhatnak	" "	.
+elő	""	.
+,	" "	.
+az	" "	.
+az	" "	.
+álláspontunk	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+jogalkotónak	" "	.
+egyértelműen	" "	.
+meg	" "	p1
+kell	" "	.
+határoznia	" "	v1
+a	" "	.
+konfliktusok	" "	.
+esetén	" "	.
+követendő	" "	.
+eljárás	" "	.
+-	" "	.
+"	" "	.
+egyeztetés	" "	.
+"	" "	.
+-	" "	.
+szabályait	""	.
+,	" "	.
+és	" "	.
+ki	" "	p2
+kell	" "	.
+mondania	" "	v2
+azt	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+egyetértési	""	.
+,	" "	.
+illetőleg	" "	.
+véleményezési	" "	.
+jog	" "	.
+figyelmen	" "	.
+kívül	" "	.
+hagyásával	" "	.
+hozott	" "	.
+döntésekhez	" "	.
+milyen	" "	.
+jogkövetkezmény	" "	.
+fűződik	""	.
+.	"\n"	.
+
+Sokszor	" "	.
+mereven	" "	.
+értelmezték	""	.
+,	" "	.
+adott	" "	.
+esetben	" "	.
+a	" "	.
+gyermek	" "	.
+ellen	" "	.
+fordították	" "	.
+azokban	" "	.
+azt	" "	.
+a	" "	.
+gyermekvédelmi	" "	.
+törvényben	" "	.
+deklarált	" "	.
+elvet	" "	.
+is	""	.
+,	" "	.
+amely	" "	.
+szerint	" "	.
+"	" "	.
+szociális	" "	.
+okból	" "	.
+gyermek	" "	.
+nem	" "	.
+emelhető	" "	v1
+ki	" "	p1
+a	" "	.
+családból	" "	.
+"	""	.
+.	"\n"	.
+
+Békéscsabát	" "	.
+fel	" "	p1
+kell	" "	.
+zárkóztatnunk	" "	v1
+először	" "	.
+Magyarországhoz	""	.
+,	" "	.
+hogy	" "	.
+2002-ben	" "	.
+ott	" "	.
+lehessünk	" "	.
+az	" "	.
+unió	" "	.
+szintjén	" "	.
+-	" "	.
+még	" "	.
+ha	" "	.
+az	" "	.
+egyik	" "	.
+legalsó	" "	.
+szinten	" "	.
+is	""	.
+.	"\n"	.
+
+Én	" "	.
+azt	" "	.
+mondtam	" "	.
+el	" "	.
+kompromisszumként	""	.
+,	" "	.
+hogy	" "	.
+jogtechnikailag	" "	.
+az	" "	.
+pontosan	" "	.
+olyan	" "	.
+megoldás	" "	.
+lesz	" "	.
+számomra	""	.
+,	" "	.
+hogy	" "	.
+valamennyi	" "	.
+esetben	" "	.
+-	" "	.
+erre	" "	.
+mondtam	" "	.
+azt	""	.
+,	" "	.
+hogy	" "	.
+más	" "	.
+papírt	" "	.
+kell	" "	.
+írnunk	" "	.
+sok	" "	.
+száz	" "	.
+beszerzésnél	" "	.
+-	" "	.
+meg	" "	p1
+lesz	" "	.
+említve	" "	v1
+a	" "	.
+(	""	.
+3)	" "	.
+bekezdésben	" "	.
+eredetileg	" "	.
+szereplő	" "	.
+tárgyköre	" "	.
+a	" "	.
+bizottsági	" "	.
+véleményalkotásnak	""	.
+.	"\n"	.
+
+Úgy	" "	.
+tudom	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+személyi	" "	.
+ügyeket	" "	.
+általában	" "	.
+zárt	" "	.
+ülésen	" "	.
+szokták	" "	.
+tárgyalni	""	.
+,	" "	.
+kivéve	" "	.
+akkor	""	.
+,	" "	.
+ha	" "	.
+az	" "	.
+érintett	" "	.
+felek	" "	.
+beleegyeznek	" "	.
+a	" "	.
+nyílt	" "	.
+ülésbe	""	.
+.	" "	.
+
+Meg	" "	p1
+kell	" "	.
+mondanom	" "	v1
+,	" "	.
+most	" "	.
+nem	" "	.
+látom	""	.
+,	" "	.
+hogy	" "	.
+van	" "	.
+-e	" "	.
+ilyen	" "	.
+nyilatkozat	""	.
+.	"\n"	.
+
+Ezeket	" "	.
+az	" "	.
+áremeléseket	" "	.
+a	" "	.
+kórházaknak	" "	.
+ki	" "	p1
+kellett	" "	.
+fizetni	" "	v1
+,	" "	.
+ugyanakkor	" "	.
+a	" "	.
+visszapótlás	" "	.
+csak	" "	.
+20	" "	.
+százalék	" "	.
+értékben	" "	.
+történt	" "	.
+meg	""	.
+.	"\n"	.
+
+A	" "	.
+kihívásokról	" "	.
+nem	" "	.
+szeretnék	" "	.
+beszélni	""	.
+,	" "	.
+a	" "	.
+listák	" "	.
+a	" "	.
+képernyőn	" "	.
+is	" "	.
+megjelentek	""	.
+,	" "	.
+verbálisan	" "	.
+a	" "	.
+szövegben	" "	.
+is	" "	.
+olvashatóak	" "	.
+voltak	""	.
+,	" "	.
+hármat	" "	.
+azonban	" "	.
+-	" "	.
+úgy	" "	.
+érzem	" "	.
+-	" "	.
+külön	" "	.
+is	" "	.
+meg	" "	p1
+kell	" "	.
+említenünk	" "	v1
+,	" "	.
+mert	" "	.
+ezek	" "	.
+nagyon	" "	.
+jelentősen	" "	.
+meghatározzák	" "	.
+az	" "	.
+Általános	" "	.
+Rendezési	" "	.
+Tervet	""	.
+.	"\n"	.
+
+Lehetőleg	" "	.
+el	" "	p1
+kellene	" "	.
+kerülni	" "	v1
+,	" "	.
+hogy	" "	.
+olyan	" "	.
+jogértelmezési	" "	.
+kérdésekbe	" "	.
+bonyolódjunk	""	.
+,	" "	.
+mint	" "	.
+hogy	" "	.
+a	" "	.
+közgyűlési	" "	.
+határozatot	" "	.
+a	" "	.
+Tulajdonosi	" "	.
+Bizottság	" "	.
+betartotta	" "	.
+-e	" "	.
+vagy	" "	.
+sem	""	.
+,	" "	.
+hisz	" "	.
+éppen	" "	.
+ezért	" "	.
+javasolta	" "	.
+a	" "	.
+bizottság	" "	.
+a	" "	.
+2.	" "	.
+határozati	" "	.
+javaslatot	""	.
+,	" "	.
+hogy	" "	.
+most	" "	.
+konkrétan	" "	.
+próbáljunk	" "	.
+meg	" "	.
+előrejutni	" "	.
+ebben	" "	.
+a	" "	.
+kérdésben	""	.
+.	"\n"	.
+
+Azt	""	.
+,	" "	.
+hogy	" "	.
+mi	" "	.
+módon	" "	.
+teszi	" "	v1
+ezt	" "	.
+meg	" "	p1
+a	" "	.
+koalíció	" "	.
+vagy	" "	.
+mi	" "	.
+módon	" "	.
+nem	""	.
+,	" "	.
+azzal	" "	.
+van	""	.
+,	" "	.
+amikor	" "	.
+egyetértünk	""	.
+,	" "	.
+és	" "	.
+van	""	.
+,	" "	.
+amikor	" "	.
+nem	""	.
+.	"\n"	.
+
+Kettő	""	.
+:	" "	.
+ha	" "	.
+arra	" "	.
+gondolna	""	.
+,	" "	.
+amire	" "	.
+elvileg	" "	.
+gondolhatna	" "	.
+egy	" "	.
+teljesen	" "	.
+más	" "	.
+tényállás	" "	.
+esetén	""	.
+,	" "	.
+a	" "	.
+ki	" "	p1
+nem	" "	.
+küldött	" "	v1
+anyag	" "	.
+napirendre	" "	.
+vételéről	""	.
+,	" "	.
+az	" "	.
+most	" "	.
+nem	" "	.
+áll	" "	.
+fenn	""	.
+.	"\n"	.
+
+Azt	" "	.
+is	" "	.
+el	" "	p1
+kell	" "	.
+mondanom	" "	v1
+,	" "	.
+számomra	" "	.
+öröm	" "	.
+az	""	.
+,	" "	.
+hogy	" "	.
+-	" "	.
+bár	" "	.
+kormánypárt	" "	.
+és	" "	.
+ellenzék	""	.
+,	" "	.
+nyilván	" "	.
+fővárosi	" "	.
+szinten	" "	.
+is	""	.
+,	" "	.
+számos	" "	.
+alkalommal	" "	.
+összecsap	" "	.
+-	" "	.
+amikor	" "	.
+arról	" "	.
+van	" "	.
+szó	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+főváros	" "	.
+közbiztonsági	" "	.
+helyzetét	""	.
+,	" "	.
+a	" "	.
+főkapitány	" "	.
+úr	" "	.
+beszámolóját	" "	.
+tárgyaljuk	""	.
+,	" "	.
+akkor	" "	.
+ebben	" "	.
+a	" "	.
+kérdésben	" "	.
+a	" "	.
+felelősségünkre	" "	.
+alapozva	" "	.
+végül	" "	.
+is	" "	.
+egy	" "	.
+irányba	" "	.
+tudunk	" "	.
+menetelni	""	.
+.	"\n"	.
+
+De	" "	.
+ha	" "	.
+valóban	" "	.
+lenne	" "	.
+ilyen	""	.
+,	" "	.
+ennyire	" "	.
+speciálisan	" "	.
+ezekre	" "	.
+a	" "	.
+feladatokra	" "	.
+szakosodott	" "	.
+iskola	""	.
+,	" "	.
+ezek	" "	.
+a	" "	.
+gyerekek	""	.
+,	" "	.
+akik	" "	.
+súlyos	" "	.
+hátrányokkal	" "	.
+küszködnek	""	.
+,	" "	.
+nagyon	" "	.
+nehezen	" "	.
+viselnék	" "	.
+el	""	.
+,	" "	.
+ha	" "	.
+át	" "	p1
+kellene	" "	.
+menniük	" "	v1
+új	" "	.
+közösségbe	""	.
+,	" "	.
+új	" "	.
+iskolába	""	.
+.	"\n"	.
+
+Az	" "	.
+első	" "	.
+módosító	" "	.
+javaslat	" "	.
+Marsi	" "	.
+Péter	" "	.
+Páltól	" "	.
+származik	""	.
+,	" "	.
+amely	" "	.
+csak	" "	.
+írásban	" "	.
+került	" "	.
+elénk	""	.
+,	" "	.
+úgyhogy	" "	.
+fel	" "	p1
+kell	" "	.
+olvasnom	" "	v1
+.	"\n"	.
+
+Egyet	" "	.
+nagyon	" "	.
+határozottan	" "	.
+el	" "	p1
+kell	""	.
+,	" "	.
+hogy	" "	.
+hárítsak	" "	v1
+:	" "	.
+akkor	" "	.
+mi	" "	.
+nem	" "	.
+tartoztunk	" "	.
+a	" "	.
+kormányzó	" "	.
+pártok	" "	.
+közé	""	.
+.	"\n"	.
+
+Mivel	" "	.
+ezt	" "	.
+a	" "	.
+módosító	""	.
+-	""	.
+javaslat	""	.
+-	""	.
+csomagot	" "	.
+most	" "	.
+kaptam	" "	.
+meg	""	.
+,	" "	.
+természetesen	" "	.
+fel	" "	p1
+fogom	" "	.
+olvasni	" "	v1
+,	" "	.
+ahogy	" "	.
+ez	" "	.
+ilyenkor	" "	.
+szokott	" "	.
+lenni	""	.
+.	"\n"	.
+
+Tehát	" "	.
+ezen	" "	.
+a	" "	.
+területen	" "	.
+a	" "	.
+felszíni	" "	.
+tömegközlekedés	" "	.
+korszerűsítését	""	.
+,	" "	.
+az	" "	.
+e	" "	.
+hhez	" "	.
+szükséges	" "	.
+felszínrendbetételt	""	.
+,	" "	.
+mindent	" "	.
+meg	" "	p1
+kellene	" "	.
+csinálni	" "	v1
+.	"\n"	.
+
+Tehát	" "	.
+egy	" "	.
+olyan	" "	.
+felvetést	" "	.
+tett	" "	.
+az	" "	.
+illető	""	.
+,	" "	.
+amit	" "	.
+valószínűleg	" "	.
+vissza	" "	p1
+fog	" "	.
+vonni	" "	v1
+,	" "	.
+mert	" "	.
+csacsiság	" "	.
+volt	""	.
+,	" "	.
+nem	" "	.
+tekintette	" "	.
+át	" "	.
+a	" "	.
+jogszabál	" "	.
+yokat	""	.
+.	"\n"	.
+
+Az	" "	.
+alkalmasság	" "	.
+elbírálásába	" "	.
+a	" "	.
+jelenlegi	" "	.
+használatba	" "	.
+vevőt	" "	.
+be	" "	p1
+kell	" "	.
+vonni	" "	v1
+.	" "	.
+
+"	"\n"	.
+El	" "	p2
+tud	" "	.
+készülni	" "	v2
+,	" "	.
+egy	" "	.
+ekkora	" "	.
+létesítménynek	" "	.
+egy	" "	.
+hónap	" "	.
+alatt	" "	.
+el	" "	p1
+kell	" "	.
+tudni	" "	.
+készülni	" "	v1
+.	"\n"	.
+
+(	""	.
+Marsi	" "	.
+Péter	" "	.
+Pál	""	.
+:	" "	.
+Miért	""	.
+,	" "	.
+le	" "	p1
+van	" "	.
+zárva	" "	v1
+a	" "	.
+vita	""	.
+?	""	.
+)	"\n"	.
+
+Megvártam	""	.
+,	" "	.
+amíg	" "	.
+egy	" "	.
+kicsit	" "	.
+csend	" "	.
+lesz	""	.
+,	" "	.
+mert	" "	.
+a	" "	.
+saját	" "	.
+szavamat	" "	.
+nem	" "	.
+értem	""	.
+,	" "	.
+ami	" "	.
+nem	" "	.
+olyan	" "	.
+nagy	" "	.
+baj	""	.
+,	" "	.
+de	" "	.
+a	" "	.
+kérdésnek	" "	.
+mégiscsak	" "	.
+el	" "	p1
+kell	" "	.
+hangozni	" "	v1
+.	"\n"	.
+
+Ha	" "	.
+azt	" "	.
+mondom	""	.
+,	" "	.
+hogy	" "	.
+2-300	" "	.
+milliárd	" "	.
+beruházásigényről	" "	.
+van	" "	.
+szó	""	.
+,	" "	.
+és	" "	.
+ehhez	" "	.
+képest	" "	.
+3	" "	.
+milliárd	" "	.
+kerül	" "	v1
+ide	" "	.
+be	" "	p1
+,	" "	.
+akkor	" "	.
+azt	" "	.
+kell	" "	.
+mondjam	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+aránytalan	""	.
+,	" "	.
+ez	" "	.
+így	" "	.
+hiba	""	.
+.	"\n"	.
+
+Az	" "	.
+elnyert	" "	.
+támogatás	" "	.
+kizárólag	" "	.
+a	" "	.
+tárgyévben	" "	.
+meghirdetett	" "	.
+tervpályázatok	" "	.
+céljára	" "	.
+használható	" "	v1
+fel	" "	p1
+.	"\n"	.
+*	" "	.
+Vissza	" "	p0
+a	" "	.
+tartalomjegyzékhez	"\n"	.
+Ú	" "	.
+vissza	" "	p0
+a	" "	.
+címlaphoz	"\n"	.
+(	""	.
+1)	" "	.
+Minden	" "	.
+sírhelytábla	" "	.
+számát	" "	.
+jelzőoszlopon	""	.
+,	" "	.
+a	" "	.
+sírhelysorok	" "	.
+és	" "	.
+sírhelyek	" "	.
+számát	" "	.
+pedig	" "	.
+a	" "	.
+sorokon	" "	.
+túl	" "	.
+jól	" "	.
+látható	" "	.
+helyen	" "	.
+fel	" "	p2
+kell	" "	.
+tüntetni	" "	v2
+.	"\n"	.
+
+Az	" "	.
+erőmű	" "	.
+építés	" "	.
+vonatkozásában	" "	.
+megvizsgálandó	" "	.
+annak	" "	.
+lehetősége	" "	.
+is	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+beruházás	" "	.
+több	" "	.
+lépcsőben	""	.
+,	" "	.
+3	" "	.
+év	" "	.
+alatt	" "	.
+hogyan	" "	.
+valósítható	" "	v1
+meg	" "	p1
+:	"\n"	.
+A	" "	.
+felsorolt	" "	.
+megoldásoknak	" "	.
+meg	" "	p2
+kell	" "	.
+felelni	" "	v2
+a	" "	.
+mindenkor	" "	.
+érvényes	" "	.
+forgalmi	" "	.
+rend	" "	.
+kialakítására	" "	.
+vonatkozó	" "	.
+jogszabálynak	""	.
+.	"\n"	.
+
+Ha	" "	.
+tulajdonos	" "	.
+túlszámlázást	" "	.
+megállapító	" "	.
+kifogása	" "	.
+helytálló	""	.
+,	" "	.
+a	" "	.
+többletösszeget	" "	.
+és	" "	.
+időarányos	" "	.
+kamatait	" "	.
+tulajdonos	" "	.
+részére	" "	.
+vissza	" "	p1
+kell	" "	.
+fizetni	" "	v1
+,	" "	.
+vagy	" "	.
+kérésére	" "	.
+azt	" "	.
+az	" "	.
+esedékes	" "	.
+díjfizetési	" "	.
+kötelezettségébe	" "	.
+kell	" "	.
+betudni	""	.
+.	"\n"	.
+
+(	""	.
+11)	" "	.
+A	" "	.
+vonaljegyek	" "	.
+vissza	" "	p1
+nem	" "	.
+válthatók	" "	v1
+.	"\n"	.
+
+Ezek	" "	.
+mind-mind	" "	.
+eltérő	" "	.
+szabályokkal	" "	.
+bonyolódnak	""	.
+,	" "	.
+s	" "	.
+ember	" "	.
+legyen	" "	.
+a	" "	.
+talpán	""	.
+,	" "	.
+akár	" "	.
+felszámoló	""	.
+,	" "	.
+akár	" "	.
+bíró	" "	.
+az	" "	.
+illető	""	.
+,	" "	.
+aki	" "	.
+ezt	" "	.
+folyamatában	" "	.
+szakszerűen	" "	.
+végig	" "	p1
+tudja	" "	.
+követni	" "	v1
+.	"\n"	.
+
+Vajon	" "	.
+indokolt	" "	.
+-e	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+Szocialista	" "	.
+Párt	" "	.
+frakcióvezetője	" "	.
+magyarázkodik	""	.
+,	" "	.
+hogy	" "	.
+egy	" "	.
+kormányzati	" "	.
+szándék	" "	.
+komoly	" "	.
+és	" "	.
+azt	" "	.
+tényleg	" "	.
+be	" "	p1
+akarják	" "	.
+tartani	" "	v1
+,	" "	.
+amit	" "	.
+bejelentettek	""	.
+?	"\n"	.
+
+A	" "	.
+történelemben	" "	.
+eddig	" "	.
+elő	" "	p1
+nem	" "	.
+fordult	" "	v1
+feladatok	" "	.
+elé	" "	.
+kerültünk	""	.
+,	" "	.
+és	" "	.
+ennek	" "	.
+is	" "	.
+viseljük	" "	.
+gondokat	" "	.
+okozó	" "	.
+terhét	""	.
+.	"\n"	.
+
+Mi	" "	.
+nem	" "	.
+vagyunk	" "	.
+egyértelműen	" "	.
+az	" "	.
+állami	" "	.
+beavatkozásnak	" "	.
+az	" "	.
+ellenzői	""	.
+.	" "	.
+
+El	" "	p1
+szeretném	" "	.
+mondani	" "	v1
+,	" "	.
+sőt	""	.
+,	" "	.
+a	" "	.
+Kisgazdapárt	" "	.
+igényli	" "	.
+az	" "	.
+állam	" "	.
+óvó	" "	.
+és	" "	.
+védő	" "	.
+beavatkozását	" "	.
+a	" "	.
+gazdaságba	""	.
+,	" "	.
+hiszen	" "	.
+ma	" "	.
+nekünk	" "	.
+azzal	" "	.
+kell	" "	.
+szembenézni	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+Coca-Colával	" "	.
+kell	" "	.
+versenyezni	" "	.
+a	" "	.
+Szobi	" "	.
+szörp	" "	.
+családnak	""	.
+.	"\n"	.
+
+Tudomásunk	" "	.
+van	" "	.
+arról	""	.
+,	" "	.
+hogy	" "	.
+ezt	" "	.
+a	" "	.
+törvényt	" "	.
+az	" "	.
+Opel	" "	.
+meg	" "	p1
+kívánja	" "	.
+támadni	" "	v1
+az	" "	.
+Alkotmánybíróság	" "	.
+előtt	""	.
+.	"\n"	.
+
+Én	" "	.
+a	" "	.
+sportegészségügy	""	.
+,	" "	.
+a	" "	.
+sportbiztosításnak	" "	.
+a	" "	.
+maximális	" "	.
+híve	" "	.
+vagyok	""	.
+,	" "	.
+és	" "	.
+aki	" "	.
+erre	" "	.
+áldozza	" "	.
+az	" "	.
+életét	""	.
+,	" "	.
+vagy	" "	.
+aki	" "	.
+nem	" "	.
+az	" "	.
+életét	" "	.
+áldozza	" "	.
+rá	" "	.
+és	" "	.
+nem	" "	.
+sportból	""	.
+,	" "	.
+a	" "	.
+sport	" "	.
+eredményéből	" "	.
+akar	" "	.
+megélni	""	.
+,	" "	.
+hanem	" "	.
+csak	" "	.
+egészséges	" "	.
+ember	" "	.
+akar	" "	.
+lenni	""	.
+,	" "	.
+annak	" "	.
+is	" "	.
+meg	" "	p1
+kell	" "	.
+adni	" "	v1
+az	" "	.
+esélyt	""	.
+,	" "	.
+hogy	" "	.
+ellenőrzötten	""	.
+,	" "	.
+felügyelet	" "	.
+mellett	" "	.
+és	" "	.
+erről	" "	.
+a	" "	.
+biztosítás	" "	.
+mellett	" "	.
+is	" "	.
+eredményesen	" "	.
+tevékenykedhessen	""	.
+.	"\n"	.
+
+Mert	" "	.
+ha	" "	.
+csak	" "	.
+arra	" "	.
+hegyezzük	" "	.
+ki	" "	.
+a	" "	.
+kérdést	""	.
+,	" "	.
+hogy	" "	.
+le	" "	p1
+kell	" "	.
+lőni	" "	v1
+,	" "	.
+azt	" "	.
+meg	" "	p2
+lehet	" "	.
+csinálni	" "	v2
+:	" "	.
+el	" "	p3
+lehet	" "	.
+ejteni	" "	v3
+a	" "	.
+vadat	" "	.
+teljesen	" "	.
+titokban	""	.
+,	" "	.
+haza	" "	p4
+lehet	" "	.
+vinni	" "	v4
+,	" "	.
+lehet	" "	.
+hasznosítani	""	.
+.	"\n"	.
+
+Az	" "	.
+önkormányzat	" "	.
+létrejöttétől	" "	.
+eltelt	" "	.
+időt	" "	.
+azonban	" "	.
+ki	" "	p1
+kell	" "	.
+értékelni	" "	v1
+és	" "	.
+meg	" "	p2
+kell	" "	.
+nézni	" "	v2
+,	" "	.
+hogy	" "	.
+az	" "	.
+a	" "	.
+törvény	""	.
+,	" "	.
+amely	" "	.
+jelenleg	" "	.
+szabályozza	" "	.
+az	" "	.
+önkormányzatok	" "	.
+működését	""	.
+,	" "	.
+mennyiben	" "	.
+állja	" "	.
+ki	" "	.
+a	" "	.
+gyakorlat	" "	.
+próbáját	""	.
+,	" "	.
+és	" "	.
+meg	" "	p3
+kell	" "	.
+találni	" "	v3
+azokat	" "	.
+a	" "	.
+pontokat	""	.
+,	" "	.
+ahol	" "	.
+kisebb-nagyobb	" "	.
+változásokkal	" "	.
+a	" "	.
+rendszer	" "	.
+működtethető	""	.
+.	"\n"	.
+
+Ugyanakkor	" "	.
+rá	" "	p1
+kell	" "	.
+arra	" "	.
+mutatnom	" "	v1
+,	" "	.
+hogy	" "	.
+-	" "	.
+a	" "	.
+háromoldalú	" "	.
+tárgyalásokat	" "	.
+is	" "	.
+beleszámítva	""	.
+,	" "	.
+amelyek	" "	.
+közismerten	" "	.
+1989-ben	" "	.
+történtek	" "	.
+-	" "	.
+most	" "	.
+már	" "	.
+nyolc	" "	.
+éve	" "	.
+folyik	" "	.
+az	" "	.
+egész	" "	.
+jogrendünk	" "	.
+átalakítása	""	.
+,	" "	.
+és	" "	.
+bizony	" "	.
+megítélésem	" "	.
+szerint	" "	.
+ennek	" "	.
+a	" "	.
+nyolc	" "	.
+évnek	" "	.
+bőségesen	" "	.
+elegendőnek	" "	.
+kellett	" "	.
+volna	" "	.
+lennie	" "	.
+ahhoz	""	.
+,	" "	.
+hogy	" "	.
+egy	" "	.
+új	" "	.
+büntetőkódex	" "	.
+kerüljön	" "	.
+megalkotásra	""	.
+.	"\n"	.
+
+Emberarcúvá	" "	.
+kell	" "	.
+formálni	" "	.
+s	" "	.
+meg	" "	p1
+kell	" "	.
+nemesíteni	" "	v1
+az	" "	.
+ember	" "	.
+tágabb	" "	.
+környezetét	""	.
+,	" "	.
+és	" "	.
+meg	" "	p2
+kell	" "	.
+teremtenie	" "	v2
+az	" "	.
+élelmiszereket	" "	.
+és	" "	.
+egyéb	" "	.
+anyagokat	""	.
+,	" "	.
+amelyekre	" "	.
+az	" "	.
+emberiségnek	" "	.
+szüksége	" "	.
+van	""	.
+.	"\n"	.
+
+Most	" "	.
+közlöm	" "	.
+önnel	""	.
+,	" "	.
+az	" "	.
+eddigi	" "	.
+50	" "	.
+százalékos	" "	.
+fogyasztásiadó-visszatérítés	""	.
+,	" "	.
+ami	" "	.
+a	" "	.
+gázolajba	" "	.
+be	" "	p1
+volt	" "	.
+építve	" "	v1
+,	" "	.
+most	" "	.
+70	" "	.
+százalékosra	" "	.
+emelkedett	" "	.
+fel	" "	.
+1996.	" "	.
+január	" "	.
+1-jétől	""	.
+;	" "	.
+gépek	" "	.
+beszerzéséhez	" "	.
+és	" "	.
+vásárlásához	" "	.
+25	" "	.
+százalék	" "	.
+vissza	" "	p2
+nem	" "	.
+térítendő	" "	v2
+támogatást	" "	.
+biztosítunk	""	.
+;	" "	.
+beruházásokhoz	""	.
+,	" "	.
+építményekhez	" "	.
+fix	" "	.
+összegű	" "	.
+támogatást	" "	.
+adunk	""	.
+,	" "	.
+ami	" "	.
+négyzetméterenként	" "	.
+négyezertől	" "	.
+nyolcezer	" "	.
+forintig	" "	.
+terjedhet	""	.
+,	" "	.
+és	" "	.
+ez	" "	.
+-	" "	.
+még	" "	.
+egyszer	" "	.
+mondom	" "	.
+-	" "	.
+vissza	" "	p3
+nem	" "	.
+térítendő	" "	v3
+támogatás	""	.
+.	"\n"	.
+
+Az	" "	.
+elemzés	" "	.
+alapján	" "	.
+meg	" "	p1
+kell	" "	.
+tervezni	" "	v1
+a	" "	.
+lehetőségek	" "	.
+szerinti	" "	.
+legnagyobb	" "	.
+közelítési	" "	.
+költségeket	""	.
+.	"\n"	.
+
+Ez	" "	.
+a	" "	.
+központi	" "	.
+szervezet	""	.
+,	" "	.
+amely	" "	.
+nem	" "	.
+más	""	.
+,	" "	.
+amelynek	" "	.
+rendeltetése	" "	.
+az	" "	.
+lenne	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+nemzetgazdaság	" "	.
+szempontjából	" "	.
+jelentős	" "	.
+gazdasági	" "	.
+visszaélések	" "	.
+gyanújának	" "	.
+felmerülése	" "	.
+esetén	" "	.
+nyomozást	" "	.
+és	" "	.
+operatív	" "	.
+eljárást	" "	.
+foganatosíthasson	""	.
+.	" "	.
+
+Meg	" "	p1
+kell	" "	.
+mondanom	" "	v1
+,	" "	.
+hogy	" "	.
+ez	" "	.
+egyáltalán	" "	.
+nem	" "	.
+ismeretlen	" "	.
+dolog	" "	.
+a	" "	.
+nyugati	" "	.
+gyakorlatban	""	.
+,	" "	.
+Nagy-Britanniában	""	.
+,	" "	.
+illetve	" "	.
+Angliában	" "	.
+már	" "	.
+hatodik	" "	.
+éve	" "	.
+működik	" "	.
+a	" "	.
+kormány	" "	.
+mellett	" "	.
+egy	" "	.
+ilyen	" "	.
+szervezet	""	.
+.	"\n"	.
+
+Úgy	" "	.
+gondolom	""	.
+,	" "	.
+úgy	" "	.
+kellene	" "	.
+ma	" "	.
+innen	" "	.
+elmennünk	""	.
+,	" "	.
+hogy	" "	.
+közösen	" "	.
+meg	" "	p1
+tudnánk	" "	.
+állapodni	" "	v1
+néhány	" "	.
+dologban	""	.
+.	"\n"	.
+
+A	" "	.
+rendőrség	" "	.
+katonai	" "	.
+jellegű	" "	.
+struktúrája	" "	.
+érintetlenül	" "	.
+maradt	" "	.
+és	" "	.
+ugyanez	" "	.
+mondható	" "	v1
+el	" "	p1
+a	" "	.
+többi	" "	.
+fegyveres	" "	.
+szervről	" "	.
+is	""	.
+.	"\n"	.
+
+Feloldást	" "	.
+egy	" "	.
+más	" "	.
+szervezeti	" "	.
+struktúra	" "	.
+hozhat	""	.
+,	" "	.
+ahol	" "	.
+a	" "	.
+tenni	" "	.
+akarók	" "	.
+megfelelő	" "	.
+szerepet	""	.
+,	" "	.
+feladatot	""	.
+,	" "	.
+hatáskört	" "	.
+kapnak	" "	.
+-	" "	.
+egyenértékű	" "	.
+felelősség	" "	.
+mellett	""	.
+.	" "	.
+
+Tovább	" "	.
+kell	" "	.
+erősíteni	" "	.
+a	" "	.
+tűzoltóság	" "	.
+önkormányzati	" "	.
+jellegét	""	.
+,	" "	.
+de	" "	.
+fenn	" "	p1
+kell	" "	.
+tartani	" "	v1
+az	" "	.
+állami	" "	.
+felügyelet	" "	.
+rendszerét	""	.
+,	" "	.
+valamint	" "	.
+a	" "	.
+nem	" "	.
+osztható	" "	.
+feladatokat	""	.
+,	" "	.
+például	" "	.
+az	" "	.
+oktatási	" "	.
+és	" "	.
+műszaki	" "	.
+fejlesztés	""	.
+,	" "	.
+kutatás	" "	.
+tekintetében	""	.
+.	"\n"	.
+
+Én	" "	.
+tehát	" "	.
+mindenféleképpen	" "	.
+még	" "	.
+most	" "	.
+is	""	.
+,	" "	.
+függetlenül	" "	.
+attól	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+bizottsági	" "	.
+tárgyalások	" "	.
+során	" "	.
+a	" "	.
+módosító	" "	.
+indítványoknak	" "	.
+ebben	" "	.
+a	" "	.
+szakaszában	" "	.
+van	" "	.
+néhány	""	.
+,	" "	.
+amely	" "	.
+elfogadásra	" "	.
+került	""	.
+,	" "	.
+mind	" "	.
+a	" "	.
+hatékonyságot	" "	.
+és	" "	.
+a	" "	.
+gazdaságosságot	" "	.
+szolgálja	""	.
+,	" "	.
+mint	" "	.
+említettem	""	.
+,	" "	.
+azonban	" "	.
+kicsit	" "	.
+úgy	" "	.
+érzem	""	.
+,	" "	.
+hogyha	" "	.
+nincs	" "	.
+meg	" "	.
+a	" "	.
+törvényben	" "	.
+az	" "	.
+a	" "	.
+munkaszervezet	""	.
+,	" "	.
+amelyről	" "	.
+most	" "	.
+szóltam	""	.
+,	" "	.
+akkor	" "	.
+csonka	" "	.
+lesz	" "	.
+ez	" "	.
+a	" "	.
+tevékenység	" "	.
+ilyen	" "	.
+szempontból	""	.
+,	" "	.
+hiszen	" "	.
+akkor	" "	.
+megvalósul	" "	.
+az	""	.
+,	" "	.
+hogy	" "	.
+oda	" "	p1
+kell	" "	.
+adni	" "	v1
+a	" "	.
+polgári	" "	.
+titkosszolgálatokat	" "	.
+irányító	" "	.
+miniszter	" "	.
+alárendeltségébe	""	.
+,	" "	.
+vagy	" "	.
+valahol	" "	.
+működtetni	" "	.
+kell	""	.
+,	" "	.
+vagy	" "	.
+pedig	" "	.
+légüres	" "	.
+tér	""	.
+,	" "	.
+amely	""	.
+,	" "	.
+azt	" "	.
+hiszem	""	.
+,	" "	.
+számomra	" "	.
+egyértelmű	""	.
+,	" "	.
+hogy	" "	.
+működőképesség	" "	.
+szempontjából	" "	.
+bonyolult	" "	.
+lesz	""	.
+.	"\n"	.
+
+Egyetlenegy	" "	.
+esetben	" "	.
+sem	" "	.
+merült	" "	v1
+azonban	" "	.
+fel	" "	p1
+a	" "	.
+politikai	" "	.
+megfontolás	""	.
+.	"\n"	.
+
+Éppen	" "	.
+ezért	" "	.
+tehát	" "	.
+az	" "	.
+az	" "	.
+álláspontja	" "	.
+a	" "	.
+Fidesz-Magyar	" "	.
+Polgári	" "	.
+Párt	" "	.
+parlamenti	" "	.
+frakciójának	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+humán	" "	.
+privatizációs	" "	.
+stratégiára	" "	.
+nézve	" "	.
+is	" "	.
+a	" "	.
+kormánynak	" "	.
+be	" "	p1
+kell	" "	.
+nyújtania	" "	v1
+egy	" "	.
+országgyűlési	" "	.
+határozati	" "	.
+javaslatot	" "	.
+és	" "	.
+ezt	" "	.
+a	" "	.
+kérdést	" "	.
+is	" "	.
+meg	" "	p2
+kell	" "	.
+tárgyalnia	" "	v2
+a	" "	.
+parlamentnek	""	.
+,	" "	.
+nehogy	" "	.
+áttekinthetetlen	" "	.
+és	" "	.
+később	" "	.
+állandó	" "	.
+viták	" "	.
+kereszttüzébe	" "	.
+kerülő	" "	.
+privatizáció	" "	.
+történjen	""	.
+.	"\n"	.
+
+Tudom	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+főváros	" "	.
+zászlajával	" "	.
+foglalkozni	" "	.
+-	" "	.
+éppen	" "	.
+az	" "	.
+előbb	" "	.
+idézett	" "	.
+önkormányzatról	" "	.
+szóló	" "	.
+törvény	" "	.
+előírásai	" "	.
+alapján	" "	.
+-	" "	.
+az	" "	.
+Országgyűlés	" "	.
+mint	" "	.
+olyan	" "	.
+nem	" "	.
+jogosult	""	.
+,	" "	.
+hiszen	" "	.
+az	" "	.
+csak	" "	.
+a	" "	.
+főváros	" "	.
+képviselő-	" "	.
+testülete	" "	.
+által	" "	.
+állapítható	" "	v1
+meg	" "	p1
+,	" "	.
+rögzíthető	" "	.
+és	" "	.
+módosítható	""	.
+.	"\n"	.
+
+Ez	" "	.
+pedig	" "	.
+nem	" "	.
+megy	" "	.
+másként	""	.
+,	" "	.
+mint	" "	.
+úgy	""	.
+,	" "	.
+hogy	" "	.
+néha	" "	.
+kellemetlen	" "	.
+lépéseket	" "	.
+is	" "	.
+meg	" "	p1
+kell	" "	.
+tenni	" "	v1
+,	" "	.
+bármennyire	" "	.
+is	" "	.
+sajnáljuk	" "	.
+azokat	" "	.
+az	" "	.
+embereket	""	.
+,	" "	.
+akik	" "	.
+ebben	" "	.
+a	" "	.
+mai	" "	.
+helyzetben	" "	.
+elvesztik	" "	.
+munkahelyeiket	""	.
+.	"\n"	.
+
+Elmúlt	" "	.
+egy	" "	.
+év	""	.
+,	" "	.
+és	" "	.
+a	" "	.
+statisztikai	" "	.
+adatok	" "	.
+valóban	" "	.
+fel	" "	p1
+kell	" "	.
+hívják	" "	v1
+a	" "	.
+figyelmünket	" "	.
+arra	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+helyzet	" "	.
+romlását	" "	.
+valami	" "	.
+módon	" "	.
+meg	" "	p2
+kell	" "	.
+állítani	" "	v2
+.	"\n"	.
+
+Az	" "	.
+átfogó	" "	.
+módosító	" "	.
+javaslat	" "	.
+pontosan	" "	.
+meg	" "	p1
+fogja	" "	.
+határozni	" "	v1
+azokat	" "	.
+a	" "	.
+feltételeket	""	.
+,	" "	.
+amelyek	" "	.
+megtartásával	" "	.
+az	" "	.
+intézményfenntartó	" "	.
+önkormányzatok	" "	.
+dönthetnek	""	.
+.	"\n"	.
+
+Az	" "	.
+állampolgári	" "	.
+jogok	" "	.
+tiszteletben	" "	.
+tartása	" "	.
+mellett	" "	.
+a	" "	.
+korlátozott	" "	.
+felelősségrevonási	" "	.
+lehetőség	" "	.
+miatt	" "	.
+is	" "	.
+ki	" "	p1
+kellene	" "	.
+zárni	" "	v1
+a	" "	.
+18.	" "	.
+életévet	" "	.
+be	" "	p2
+nem	" "	.
+töltött	" "	v2
+személyek	" "	.
+levéltári	" "	.
+kutatását	""	.
+.	"\n"	.
+
+Nagyon	" "	.
+rövid	" "	.
+leszek	""	.
+,	" "	.
+mert	" "	.
+bejelentkezett	" "	.
+hozzászólóként	" "	.
+majd	" "	.
+még	" "	.
+részletesebben	" "	.
+ki	" "	p1
+akarom	" "	.
+fejteni	" "	v1
+az	" "	.
+önkormányzatok	" "	.
+és	" "	.
+a	" "	.
+levéltárak	" "	.
+kapcsolatát	""	.
+.	"\n"	.
+
+Úgy	" "	.
+látom	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+elmúlt	" "	.
+napok	""	.
+,	" "	.
+hetek	" "	.
+bebizonyították	""	.
+,	" "	.
+hogy	" "	.
+ez	" "	.
+csak	" "	.
+félig-	" "	.
+meddig	" "	.
+sikerült	""	.
+,	" "	.
+hiszen	" "	.
+kirobbant	" "	.
+Magyarország	" "	.
+és	" "	.
+Szlovákia	" "	.
+között	" "	.
+az	" "	.
+alapszerződéssel	" "	.
+kapcsolatban	" "	.
+egy	" "	.
+meglehetősen	" "	.
+éles	" "	.
+hangvételű	" "	.
+értelmezési	" "	.
+vita	""	.
+,	" "	.
+ezért	" "	.
+én	" "	.
+szeretném	" "	.
+az	" "	.
+elérhető	" "	.
+elérése	" "	.
+céljából	" "	.
+javasolni	" "	.
+a	" "	.
+Külügyminisztériumnak	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+ratifikációs	" "	.
+folyamattal	" "	.
+kapcsolatban	" "	.
+óvatosan	" "	.
+járjon	" "	.
+el	""	.
+,	" "	.
+és	" "	.
+ne	" "	.
+előzze	" "	.
+meg	" "	.
+semmiféleképpen	" "	.
+az	" "	.
+alapszerződés	" "	.
+beterjesztése	" "	.
+és	" "	.
+ratifikációja	" "	.
+a	" "	.
+magyar	" "	.
+parlamentben	" "	.
+ugyanezt	" "	.
+a	" "	.
+folyamatot	""	.
+,	" "	.
+amely	" "	.
+szintén	" "	.
+meg	" "	p1
+fog	" "	.
+történni	" "	v1
+a	" "	.
+szlovák	" "	.
+parlamentben	""	.
+...	"\n"	.
+
+Második	" "	.
+kérdésként	" "	.
+azt	" "	.
+szeretném	" "	.
+említeni	""	.
+:	" "	.
+a	" "	.
+törvény	" "	.
+elfogadása	" "	.
+után	" "	.
+kialakuló	" "	.
+helyzet	" "	.
+elő	" "	p1
+fogja	" "	.
+segíteni	" "	v1
+,	" "	.
+hogy	" "	.
+a	" "	.
+gazdálkodók	" "	.
+-	" "	.
+legyenek	" "	.
+azok	" "	.
+menedzserek	" "	.
+vagy	" "	.
+tulajdonosok	" "	.
+-	" "	.
+nagyobb	" "	.
+biztonságban	" "	.
+legyenek	""	.
+,	" "	.
+mint	" "	.
+eddig	" "	.
+voltak	""	.
+.	"\n"	.
+
+Azt	" "	.
+hiszem	""	.
+,	" "	.
+külügyminiszter	" "	.
+úrnak	" "	.
+és	" "	.
+a	" "	.
+Külügyminisztériumnak	" "	.
+nincs	" "	.
+szüksége	" "	.
+ilyen	" "	.
+hírcsalásokra	""	.
+,	" "	.
+amelynek	" "	.
+egyedüli	" "	.
+egy	" "	.
+célja	" "	.
+volt	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+magyar	" "	.
+közvéleményben	""	.
+,	" "	.
+a	" "	.
+magyar	" "	.
+hallgatókban	" "	.
+azt	" "	.
+a	" "	.
+meggyőződést	" "	.
+keltse	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+magyar	" "	.
+Külügyminisztériumnak	" "	.
+és	" "	.
+Magyarországnak	" "	.
+meg	" "	p1
+kell	" "	.
+kötni	" "	v1
+a	" "	.
+szerződést	" "	.
+mindenáron	""	.
+,	" "	.
+még	" "	.
+az	" "	.
+ott	" "	.
+élő	" "	.
+magyarság	" "	.
+kárára	" "	.
+is	" "	.
+azért	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+Európai	" "	.
+Unióba	""	.
+,	" "	.
+az	" "	.
+európai	" "	.
+nagy	" "	.
+családba	" "	.
+bejussunk	""	.
+.	"\n"	.
+
+Ugyanis	" "	.
+az	" "	.
+a	" "	.
+földkoncentráció	""	.
+,	" "	.
+amiről	" "	.
+itt	" "	.
+Kis	" "	.
+államtitkár	" "	.
+úr	" "	.
+is	" "	.
+beszélt	""	.
+,	" "	.
+sajnos	" "	.
+csak	" "	.
+akkor	" "	.
+érhető	" "	v1
+el	" "	p1
+,	" "	.
+ha	" "	.
+a	" "	.
+földnek	" "	.
+lesz	" "	.
+tulajdonosa	""	.
+,	" "	.
+aki	" "	.
+ezt	" "	.
+a	" "	.
+tulajdont	" "	.
+koncentrálhatja	""	.
+.	"\n"	.
+
+Ha	" "	.
+december	" "	.
+11-én	" "	.
+meg	" "	p1
+tudnánk	" "	.
+rendezni	" "	v1
+a	" "	.
+népszavazást	" "	.
+is	" "	.
+az	" "	.
+önkormányzati	" "	.
+választásokkal	""	.
+,	" "	.
+hiteles	" "	.
+képet	" "	.
+kapnának	""	.
+,	" "	.
+uraim	""	.
+,	" "	.
+önök	" "	.
+is	""	.
+,	" "	.
+minden	" "	.
+képviselő	""	.
+,	" "	.
+a	" "	.
+magyar	" "	.
+emberek	" "	.
+véleményéről	""	.
+.	"\n"	.
+
+Képviselőtársaink	""	.
+,	" "	.
+mint	" "	.
+ahogy	" "	.
+elmondották	""	.
+,	" "	.
+arról	" "	.
+beszéltek	""	.
+,	" "	.
+hogy	" "	.
+meg	" "	p1
+kell	" "	.
+kezdeni	" "	v1
+az	" "	.
+ügyészi	" "	.
+törvény	" "	.
+vitáját	""	.
+.	"\n"	.
+
+De	" "	.
+legalább	" "	.
+annyira	" "	.
+fontos	" "	.
+általános	" "	.
+érdek	" "	.
+az	" "	.
+egészségvédelem	" "	.
+érdeke	""	.
+,	" "	.
+s	" "	.
+ebben	" "	.
+az	" "	.
+esetben	" "	.
+úgy	" "	.
+tűnik	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+színezés	" "	.
+árt	" "	.
+az	" "	.
+egészségnek	""	.
+.	" "	.
+
+Meg	" "	p1
+kell	" "	.
+mondjam	" "	v1
+,	" "	.
+hogy	" "	.
+például	" "	.
+a	" "	.
+száraztésztánál	" "	.
+a	" "	.
+hamisítás	" "	.
+kifejezetten	" "	.
+használ	" "	.
+az	" "	.
+egészségnek	""	.
+,	" "	.
+hiszen	" "	.
+ha	" "	.
+abból	" "	.
+kifelejtik	" "	.
+a	" "	.
+tojást	" "	.
+és	" "	.
+azt	" "	.
+-	" "	.
+mondjuk	" "	.
+-	" "	.
+sáfránnyal	" "	.
+pótolják	""	.
+,	" "	.
+attól	" "	.
+még	" "	.
+senkinek	" "	.
+semmi	" "	.
+baja	" "	.
+nem	" "	.
+lesz	""	.
+,	" "	.
+és	" "	.
+sokkal	" "	.
+kisebb	" "	.
+a	" "	.
+kockázata	" "	.
+annak	""	.
+,	" "	.
+hogy	" "	.
+szalmonellát	" "	.
+kapjanak	""	.
+.	"\n"	.
+
+Két	" "	.
+olyan	" "	.
+kérdés	" "	.
+van	""	.
+,	" "	.
+amiért	" "	.
+a	" "	.
+kormány	" "	.
+előterjesztését	" "	.
+el	" "	p1
+lehet	" "	.
+fogadni	" "	v1
+,	" "	.
+két	" "	.
+olyan	" "	.
+kérdés	" "	.
+van	" "	.
+-	" "	.
+és	" "	.
+nem	" "	.
+a	" "	.
+vállalkozói	" "	.
+képességek	" "	.
+elmaradása	" "	.
+vagy	" "	.
+a	" "	.
+vállalkozói	" "	.
+lehetőségek	" "	.
+elmaradása	" "	.
+az	" "	.
+-,	" "	.
+amelyben	" "	.
+a	" "	.
+kormány	" "	.
+előterjesztését	" "	.
+pozitívan	" "	.
+lehetne	" "	.
+fogadni	""	.
+.	"\n"	.
+
+Aztán	" "	.
+kiderült	""	.
+,	" "	.
+hogy	" "	.
+ez	" "	.
+az	" "	.
+egyetértés	" "	.
+mégsem	" "	.
+volt	" "	.
+olyan	" "	.
+teljes	""	.
+,	" "	.
+hogy	" "	.
+Győriványi	" "	.
+Sándornak	" "	.
+csak	" "	.
+oda	" "	.
+volt	" "	.
+gépelve	" "	.
+a	" "	.
+neve	""	.
+,	" "	.
+de	" "	.
+nem	" "	.
+írta	" "	.
+alá	" "	.
+-	" "	.
+tehát	" "	.
+ez	" "	.
+a	" "	.
+konszenzus	" "	.
+nem	" "	.
+volt	" "	.
+annyira	" "	.
+felhőtlen	""	.
+,	" "	.
+mint	" "	.
+ahogy	" "	.
+az	" "	.
+az	" "	.
+előadó	" "	.
+beszédéből	" "	.
+kitünt	""	.
+.	" "	.
+
+Meg	" "	p2
+kell	" "	.
+mondanom	" "	v2
+,	" "	.
+nagyon	" "	.
+örültem	" "	.
+annak	""	.
+,	" "	.
+hogy	" "	.
+ez	" "	.
+a	" "	.
+konszenzus	" "	.
+nem	" "	.
+volt	" "	.
+annyira	" "	.
+teljes	""	.
+.	"\n"	.
+
+Ugyanakkor	" "	.
+teljesen	" "	.
+nyilvánvaló	" "	.
+mindenki	" "	.
+számára	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+szövetkezet	" "	.
+kifelé	" "	.
+tényleg	" "	.
+versenyhelyzetben	" "	.
+van	" "	.
+-	" "	.
+no	""	.
+,	" "	.
+nem	" "	.
+az	""	.
+,	" "	.
+aki	" "	.
+meg	" "	p1
+fogja	" "	.
+kapni	" "	v1
+adott	" "	.
+esetben	" "	.
+a	" "	.
+kormánydöntésnek	" "	.
+megfelelően	" "	.
+ezeket	" "	.
+az	" "	.
+élelmiszer-feldolgozó	" "	.
+üzemeket	""	.
+,	" "	.
+tehát	" "	.
+nem	" "	.
+azok	""	.
+,	" "	.
+akik	" "	.
+most	" "	.
+a	" "	.
+termelők	""	.
+,	" "	.
+hanem	" "	.
+versenyhelyzetben	" "	.
+fog	" "	.
+dolgozni	" "	.
+továbbra	" "	.
+is	" "	.
+ez	" "	.
+az	" "	.
+élelmiszer-	" "	.
+feldolgozó	""	.
+.	"\n"	.
+
+4.	" "	.
+Az	" "	.
+előző	" "	.
+korlátozások	" "	.
+figyelembevételével	" "	.
+számított	" "	.
+tőkéből	" "	.
+le	" "	p1
+kell	" "	.
+vonni	" "	v1
+:	"\n"	.
+Amennyiben	" "	.
+a	" "	.
+szövetkezetnél	" "	.
+a	" "	.
+fel	" "	p2
+nem	" "	.
+osztható	" "	v2
+szövetkezeti	" "	.
+vagyon	" "	.
+a	" "	.
+jegyzett	" "	.
+tőkében	" "	.
+szerepel	""	.
+,	" "	.
+a	" "	.
+törvény	" "	.
+hatálybalépését	" "	.
+követő	" "	.
+180	" "	.
+napon	" "	.
+belül	" "	.
+gondoskodni	" "	.
+kell	" "	.
+annak	" "	.
+a	" "	.
+jegyzett	" "	.
+tőke	" "	.
+leszállításával	" "	.
+a	" "	.
+lekötött	" "	.
+tartalékba	" "	.
+helyezéséről	""	.
+.	"\n"	.
+
+16.	" "	.
+Minden	" "	.
+tervbe	" "	.
+vett	" "	.
+karbantartó	" "	.
+tevékenységet	" "	.
+az	" "	.
+általános	" "	.
+és	" "	.
+részletes	" "	.
+megsemmisítési	" "	.
+tervben	" "	.
+meg	" "	p1
+kell	" "	.
+határozni	" "	v1
+.	"\n"	.
+
+(	""	.
+4)	" "	.
+A	" "	.
+forintadósság	" "	.
+devizaadósságra	" "	.
+történő	" "	.
+átalakítása	" "	.
+során	" "	.
+az	" "	.
+Állami	" "	.
+Számvevőszéknek	" "	.
+(	""	.
+a	" "	.
+továbbiakban	""	.
+:	" "	.
+ÁSZ	""	.
+)	" "	.
+folyamatosan	" "	.
+meg	" "	p1
+kell	" "	.
+küldeni	" "	v1
+az	" "	.
+adósságcserére	" "	.
+vonatkozó	" "	.
+dokumentumokat	""	.
+,	" "	.
+illetve	" "	.
+ellenjegyzés	" "	.
+céljából	" "	.
+a	" "	.
+hitelszerződéseket	""	.
+.	"\n"	.
+
+6.	" "	.
+Amennyiben	" "	.
+az	" "	.
+egyik	" "	.
+Szerződő	" "	.
+Államban	" "	.
+illetőséggel	" "	.
+bíró	" "	.
+társaság	" "	.
+nyereséget	" "	.
+vagy	" "	.
+jövedelmet	" "	.
+élvez	" "	.
+a	" "	.
+másik	" "	.
+Szerződő	" "	.
+Államból	""	.
+,	" "	.
+úgy	" "	.
+ez	" "	.
+a	" "	.
+másik	" "	.
+Állam	" "	.
+nem	" "	.
+adóztathatja	" "	.
+meg	" "	.
+a	" "	.
+társaság	" "	.
+által	" "	.
+fizetett	" "	.
+osztalékot	""	.
+,	" "	.
+kivéve	""	.
+,	" "	.
+ha	" "	.
+az	" "	.
+osztalékot	" "	.
+ebben	" "	.
+a	" "	.
+másik	" "	.
+Államban	" "	.
+illetőséggel	" "	.
+bíró	" "	.
+személynek	" "	.
+fizetik	""	.
+,	" "	.
+vagy	" "	.
+ha	" "	.
+az	" "	.
+az	" "	.
+érdekeltség	""	.
+,	" "	.
+mely	" "	.
+után	" "	.
+az	" "	.
+osztalékot	" "	.
+fizetik	""	.
+,	" "	.
+ténylegesen	" "	.
+ebben	" "	.
+a	" "	.
+másik	" "	.
+Államban	" "	.
+lévő	" "	.
+telephelyhez	" "	.
+vagy	" "	.
+állandó	" "	.
+bázishoz	" "	.
+tartozik	""	.
+,	" "	.
+sem	" "	.
+pedig	" "	.
+a	" "	.
+társaság	" "	.
+fel	" "	p1
+nem	" "	.
+osztott	" "	v1
+nyereségét	" "	.
+nem	" "	.
+vetheti	" "	.
+a	" "	.
+társaság	" "	.
+fel	" "	p2
+nem	" "	.
+osztott	" "	v2
+nyeresége	" "	.
+után	" "	.
+kivetett	" "	.
+adó	" "	.
+alá	""	.
+,	" "	.
+még	" "	.
+akkor	" "	.
+sem	""	.
+,	" "	.
+ha	" "	.
+a	" "	.
+kifizetett	" "	.
+osztalék	" "	.
+vagy	" "	.
+a	" "	.
+fel	" "	p3
+nem	" "	.
+osztott	" "	v3
+nyereség	" "	.
+egészben	" "	.
+vagy	" "	.
+részben	" "	.
+ebben	" "	.
+a	" "	.
+másik	" "	.
+Államban	" "	.
+elért	" "	.
+nyereségből	" "	.
+vagy	" "	.
+jövedelemből	" "	.
+áll	""	.
+.	"\n"	.
+
+Ha	" "	.
+a	" "	.
+fellebbezési	" "	.
+eljárás	" "	.
+tárgyának	" "	.
+értéke	" "	.
+pénzben	" "	.
+nem	" "	.
+állapítható	" "	v1
+meg	" "	p1
+,	" "	.
+a	" "	.
+fellebbezés	" "	.
+illetéke	" "	.
+2000	" "	.
+forint	""	.
+.	" "	.
+
+"	"\n"	.
+(	""	.
+2)	" "	.
+Ugyanazon	" "	.
+fegyelemsértésért	" "	.
+több	" "	.
+fenyítés	" "	.
+nem	" "	.
+szabható	" "	v1
+ki	" "	p1
+,	" "	.
+és	" "	.
+egyik	" "	.
+fenyítés	" "	.
+a	" "	.
+másikkal	" "	.
+nem	" "	.
+kapcsolható	" "	v2
+össze	" "	p2
+.	"\n"	.
+
+(	""	.
+3)	" "	.
+A	" "	.
+területi	" "	.
+szerveket	" "	.
+1996.	" "	.
+április	" "	.
+30.	" "	.
+napjáig	" "	.
+létre	" "	p1
+kell	" "	.
+hozni	" "	v1
+,	" "	.
+a	" "	.
+kamarának	" "	.
+pedig	" "	.
+1996.	" "	.
+június	" "	.
+30.	" "	.
+napjáig	" "	.
+kell	" "	.
+megalakulni.	"\n"	.
+-	" "	.
+igazolnia	" "	.
+kell	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+szóban	" "	.
+forgó	" "	.
+termékre	" "	.
+a	" "	.
+kivitel	" "	.
+alkalmával	" "	.
+nem	" "	.
+adtak	" "	.
+ki	" "	.
+EUR.1	" "	.
+szállítási	" "	.
+bizonyítványt	" "	.
+és	" "	.
+meg	" "	p2
+kell	" "	.
+jelölnie	" "	v2
+ennek	" "	.
+okait	""	.
+.	"\n"	.
+
+(	""	.
+2)	" "	.
+A	" "	.
+fegyver	" "	.
+nélküli	" "	.
+katonai	""	.
+,	" "	.
+illetve	" "	.
+a	" "	.
+polgári	" "	.
+szolgálat	" "	.
+teljesítésére	" "	.
+vonatkozó	" "	.
+engedély	" "	.
+iránti	" "	.
+kérelmet	" "	.
+el	" "	p1
+kell	" "	.
+utasítani	" "	v1
+,	" "	.
+ha	" "	.
+a	" "	.
+körülményekből	" "	.
+a	" "	.
+lelkiismereti	" "	.
+okra	" "	.
+való	" "	.
+hivatkozás	" "	.
+alaptalansága	" "	.
+megállapítható	""	.
+.	"\n"	.
+
+(	""	.
+2)	" "	.
+Az	" "	.
+ajándéksorsolás	" "	.
+megrendezését	" "	.
+a	" "	.
+sorsolás	" "	.
+megkezdése	" "	.
+előtt	" "	.
+legalább	" "	.
+10	" "	.
+nappal	" "	.
+be	" "	p1
+kell	" "	.
+jelenteni	" "	v1
+az	" "	.
+SZF-hez	""	.
+.	"\n"	.
+
+A	" "	.
+Miniszteri	" "	.
+Kabinet	" "	.
+2001.	" "	.
+december	" "	.
+28-án	" "	.
+kelt	""	.
+,	" "	.
+1767	" "	.
+számú	" "	.
+határozata	" "	.
+2	" "	.
+pontjának	" "	.
+értelmében	""	.
+,	" "	.
+a	" "	.
+15	""	.
+,	" "	.
+illetve	" "	.
+ennél	" "	.
+több	" "	.
+dolgozót	" "	.
+foglalkoztató	" "	.
+vállalatokat	" "	.
+a	" "	.
+rokkantbiztosító	" "	.
+Tb-alap	" "	.
+megyei	" "	.
+osztályán	" "	.
+jegyzékbe	" "	.
+veszik	""	.
+,	" "	.
+ezért	" "	.
+legkésőbb	" "	.
+2005.	" "	.
+február	" "	.
+1-ig	" "	.
+be	" "	p1
+kell	" "	.
+nyújtaniuk	" "	v1
+a	" "	.
+rokkantak	" "	.
+munkába	" "	.
+való	" "	.
+elhelyezéséről	" "	.
+és	" "	.
+foglalkoztatásáról	" "	.
+szóló	" "	.
+jelentést	" "	.
+a	" "	.
+10-II	" "	.
+I	" "	.
+számú	" "	.
+(	""	.
+éves	""	.
+)	" "	.
+űrlapon	""	.
+.	"\n"	.
+
+2.	" "	.
+A	" "	.
+vizsgajegyzőkönyvek	" "	.
+alapján	" "	.
+felvételi	" "	.
+vizsgát	" "	.
+tett	" "	.
+hallgatók	" "	.
+számát	" "	.
+el	" "	p1
+kell	" "	.
+osztani	" "	v1
+a	" "	.
+Felvételi	" "	.
+Bizottság	" "	.
+következő	" "	.
+tagjai	" "	.
+között	""	.
+:	" "	.
+a	" "	.
+Felvételi	" "	.
+Bizottság	" "	.
+elnökei	""	.
+,	" "	.
+elnökhelyettese	""	.
+,	" "	.
+titkára	""	.
+,	" "	.
+az	" "	.
+alapító	" "	.
+képviselője	""	.
+,	" "	.
+valamint	" "	.
+az	" "	.
+apellációs	" "	.
+bizottság	" "	.
+elnöke	""	.
+.	"\n"	.
+
+Ez	" "	.
+a	" "	.
+magyarságkép	" "	.
+egyrészt	" "	.
+az	" "	.
+"	" "	.
+odamondás	" "	.
+"	""	.
+,	" "	.
+a	" "	.
+sanyarú	" "	.
+helyzetünk	" "	.
+"	" "	.
+kimondásának	" "	.
+"	" "	.
+igényéből	" "	.
+eredeztethető	""	.
+,	" "	.
+ami	" "	.
+'	" "	.
+89	" "	.
+előtt	" "	.
+gyűlt	" "	.
+fel	""	.
+,	" "	.
+és	" "	.
+most	" "	.
+élhető	" "	v1
+ki	" "	p1
+igazán	""	.
+.	"\n"	.
+
+Akik	" "	.
+(	""	.
+Anglia	""	.
+)	" "	.
+elöre	" "	.
+tudták	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+németek	" "	.
+bombázni	" "	.
+fogják	" "	.
+Coventryt	""	.
+,	" "	.
+s	" "	.
+hagyták	" "	.
+lebombázni	" "	.
+a	" "	.
+polgári	" "	.
+lakosságot	""	.
+,	" "	.
+csak	" "	.
+hogy	" "	.
+ki	" "	p1
+ne	" "	.
+derüljön	" "	v1
+:	" "	.
+megfejtették	" "	.
+a	" "	.
+Luftwaffe	" "	.
+kódrendszerét	" "	.
+(	""	.
+mert	" "	.
+ha	" "	.
+kiürítik	" "	.
+a	" "	.
+várost	""	.
+,	" "	.
+egyértelművé	" "	.
+válik	" "	.
+a	" "	.
+megfejtés	" "	.
+ténye	""	.
+)	""	.
+?	"\n"	.
+
+Pl.	" "	.
+hogy	" "	.
+ki	" "	.
+szegte	" "	.
+meg	" "	.
+szavát	""	.
+:	" "	.
+el	" "	p1
+ne	" "	.
+feledd	" "	v1
+tisztázni	""	.
+.	"\n"	.
+
+Mégpedig	" "	.
+azért	""	.
+,	" "	.
+mert	" "	.
+nyakunkon	" "	.
+a	" "	.
+tavasz	" "	.
+meg	" "	.
+a	" "	.
+nyár	""	.
+,	" "	.
+és	" "	.
+-	" "	.
+csak	" "	.
+el	" "	p1
+ne	" "	.
+kiabáljam	" "	v1
+-	" "	.
+mintha	" "	.
+lanyhulna	" "	.
+a	" "	.
+melltartó-terror	""	.
+.	"\n"	.
+
+A	" "	.
+múltkor	" "	.
+kedves	" "	.
+vizslámat	" "	.
+elütötte	" "	.
+egy	" "	.
+autó	""	.
+,	" "	.
+az	" "	.
+ölemben	" "	.
+"	" "	.
+mondott	" "	.
+"	" "	.
+búcsút	" "	.
+a	" "	.
+közös	" "	.
+sétákért	""	.
+,	" "	.
+emlékekért	" "	.
+és	" "	.
+kölcsönös	" "	.
+szeretetért	""	.
+,	" "	.
+Akkor	" "	.
+sírtam	""	.
+,	" "	.
+mert	" "	.
+ez	" "	.
+volt	" "	.
+a	" "	.
+valóság	" "	.
+és	" "	.
+el	" "	p1
+kellett	" "	.
+fogadni	" "	v1
+,	" "	.
+hogy	" "	.
+nincs	" "	.
+tovább	""	.
+!	"\n"	.
+
+Ős	" "	.
+patkány	" "	.
+terjeszt	" "	.
+kórt	" "	.
+miköztünk	""	.
+,	" "	.
+a	" "	.
+meg	" "	p1
+nem	" "	.
+gondolt	" "	v1
+gondolat	""	.
+,	" "	.
+belezabál	""	.
+,	" "	.
+amit	" "	.
+kifőztünk	""	.
+,	" "	.
+s	" "	.
+emberből	" "	.
+emberbe	" "	.
+szalad	""	.
+.	"\n"	.
+
+Tudom	""	.
+,	" "	.
+hogy	" "	.
+erre	" "	.
+jön	" "	.
+a	" "	.
+(	""	.
+jól	" "	.
+beváltnak	" "	.
+nem	" "	.
+modható	""	.
+,	" "	.
+ám	" "	.
+már	" "	.
+többször	" "	.
+bevetett	""	.
+)	" "	.
+"	" "	.
+birkák	" "	.
+vagytok	" "	.
+"	""	.
+,	" "	.
+"	" "	.
+nem	" "	.
+lehet	" "	.
+felrázni	" "	.
+a	" "	.
+társaságot	" "	.
+"	""	.
+,	" "	.
+stb	""	.
+...	" "	.
+szöveg	""	.
+,	" "	.
+de	" "	.
+nem	" "	.
+gondoltál	" "	v1
+még	" "	.
+bele	" "	p1
+,	" "	.
+hogy	" "	.
+lehet	""	.
+,	" "	.
+hogy	" "	.
+nem	" "	.
+azzal	" "	.
+a	" "	.
+kb.	" "	.
+100	" "	.
+emberrel	" "	.
+van	" "	.
+baj	" "	.
+aki	" "	.
+idejárogat	""	.
+,	" "	.
+hanem	" "	.
+veled	""	.
+?	"\n"	.
+
+Az	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+maga	" "	.
+képére	" "	.
+teremtette	" "	.
+volna	" "	.
+az	" "	.
+embert	""	.
+,	" "	.
+nagyon	" "	.
+ellentmond	" "	.
+annak	""	.
+,	" "	.
+hogy	" "	.
+tökéletes	" "	.
+volna	" "	.
+-	" "	.
+viszont	" "	.
+arról	" "	.
+tanúskodik	""	.
+,	" "	.
+hogy	" "	.
+az	" "	.
+ember	" "	.
+iszonyú	" "	.
+egy	" "	.
+beképzelt	" "	.
+majom	""	.
+,	" "	.
+mert	" "	.
+nincs	" "	.
+aki	" "	.
+rászóljon	""	.
+,	" "	.
+hogy	" "	.
+vegye	" "	v1
+már	" "	.
+észre	" "	p1
+magát	" "	.
+a	" "	.
+nagy	" "	.
+öntömjénezés	" "	.
+közepette	" "	.
+(	""	.
+meglehet	""	.
+,	" "	.
+ebben	" "	.
+is	" "	.
+hasonlít	" "	.
+Istenre	""	.
+:)	" "	.
+-	" "	.
+ebben	" "	.
+tehát	" "	.
+következetes	" "	.
+ez	" "	.
+a	" "	.
+felfogás	""	.
+)	""	.
+.	"\n"	.
+én	" "	.
+még	" "	.
+nem	" "	.
+láttam	""	.
+,	" "	.
+de	" "	.
+szivesen	" "	.
+megnézném	""	.
+.	" "	.
+
+Meg	" "	p1
+van	" "	v1
+neked	""	.
+?	"\n"	.
+
+Csak	" "	.
+tudjuk	" "	v1
+már	" "	.
+meg	" "	p1
+,	" "	.
+mi	" "	.
+volt	" "	.
+ez	" "	.
+az	" "	.
+erdélyi	" "	.
+megmozdulás	""	.
+!	"\n"	.
+
+Praktikusan	" "	.
+ezt	" "	.
+az	" "	.
+idöhatárt	" "	.
+le	" "	p1
+kell	" "	.
+csökkenteni	" "	v1
+méghozzá	" "	.
+drasztikusan	""	.
+.	"\n"	.
+
+Sajnos	""	.
+,	" "	.
+nagy	" "	.
+fájdalmamra	" "	.
+meg	" "	p1
+kell	" "	.
+védenem	" "	v1
+a	" "	.
+FIDESZ-MPP-MDF-KDNP-STB-t	""	.
+.	"\n"	.
+
+Akkora	" "	.
+szájjal	" "	.
+hirdették	""	.
+,	" "	.
+hogy	" "	.
+fel	" "	p1
+kell	" "	.
+lépni	" "	v1
+a	" "	.
+feketepiac	" "	.
+ellen	""	.
+,	" "	.
+meg	" "	.
+hogy	" "	.
+ők	" "	.
+milyen	" "	.
+tiszták	""	.
+.	"\n"	.
+
+Tán	" "	.
+az	" "	.
+IQ	" "	.
+hiány	" "	.
+teszi	" "	.
+mindezt	""	.
+,	" "	.
+minden	" "	.
+esetre	" "	.
+meg	" "	p1
+van	" "	.
+győződve	" "	v1
+a	" "	.
+maga	" "	.
+mindenhatóságáról	""	.
+.	"\n"	.
+
+Tehét	" "	.
+feltéve	""	.
+,	" "	.
+de	" "	.
+meg	" "	p1
+nem	" "	.
+engedve	" "	v1
+,	" "	.
+hogy	" "	.
+neked	" "	.
+és	" "	.
+MaCSnak	" "	.
+igazatok	" "	.
+van	""	.
+,	" "	.
+az	" "	.
+évek	" "	.
+így	" "	.
+számláltatnak	""	.
+:	" "	.
+-2	""	.
+,	" "	.
+-1	""	.
+,	" "	.
+1	""	.
+,	" "	.
+2	" "	.
+stb	""	.
+.	"\n"	.
+
+Persze	" "	.
+tudtam	""	.
+,	" "	.
+hogy	" "	.
+nem	" "	.
+jön	" "	.
+el	""	.
+,	" "	.
+hiszen	" "	.
+el	" "	p1
+kell	" "	.
+köszönnie	" "	v1
+a	" "	.
+barátaitól	""	.
+,	" "	.
+ráadásul	" "	.
+egy	" "	.
+csomó	" "	.
+érdekes	""	.
+,	" "	.
+nagyszabású	" "	.
+buliba	" "	.
+meghívták	""	.
+....	"\n"	.
+
+Meditálni	" "	.
+lehet	""	.
+,	" "	.
+hogy	" "	.
+ej-ej	""	.
+,	" "	.
+de	" "	.
+szörnyű	" "	.
+állat	" "	.
+az	" "	.
+ember	""	.
+,	" "	.
+de	" "	.
+ettől	" "	.
+még	" "	.
+a	" "	.
+háborút	" "	.
+akkor	" "	.
+is	" "	.
+el	" "	p1
+kell	" "	.
+kerülni	" "	v1
+.	"\n"	.
+
+Annyit	" "	.
+meg	" "	p1
+lehetett	" "	.
+állapítani	" "	v1
+,	" "	.
+hogy	" "	.
+egyik	" "	.
+sem	" "	.
+volt	" "	.
+kivilágítva	" "	.
+és	" "	.
+nem	" "	.
+volt	" "	.
+közvilágítás	" "	.
+sem	""	.
+...	"\n"	.
+
+Hidd	" "	.
+el	""	.
+,	" "	.
+hogy	" "	.
+így	" "	.
+meg	" "	p1
+fognak	" "	.
+utálni	" "	v1
+,	" "	.
+és	" "	.
+enyhén	" "	.
+szólva	" "	.
+nem	" "	.
+lesz	" "	.
+jó	" "	.
+neked	" "	.
+ide	" "	.
+írni	""	.
+!	"\n"	.
+
+Nézd	" "	v1
+csak	" "	.
+meg	" "	p1
+a	" "	.
+filmet	""	.
+.	"\n"	.
+
+Satya	""	.
+,	" "	.
+ezt	" "	.
+meg	" "	p1
+kellene	" "	.
+ám	" "	.
+indokolnod	" "	v1
+,	" "	.
+méghozzá	" "	.
+alaposan	""	.
+.	"\n"	.
+
+A	" "	.
+kedvencem	" "	.
+az	" "	.
+a	" "	.
+hely	""	.
+,	" "	.
+ahol	" "	.
+ki	" "	p1
+van	" "	.
+írva	" "	v1
+:	" "	.
+a	" "	.
+szaunában	" "	.
+a	" "	.
+fürdőruha	" "	.
+viselése	" "	.
+kötelező	""	.
+.	"\n"	.
+
+Nos	""	.
+,	" "	.
+ezt	" "	.
+kis	" "	.
+odafigyeléssel	" "	.
+szerintem	" "	.
+sokkal	" "	.
+meg	" "	p1
+lehetne	" "	.
+gyorsítani	" "	v1
+.	"\n"	.
+
+Az	" "	.
+esetek	" "	.
+többségében	" "	.
+a	" "	.
+válaszban	" "	.
+szereplő	" "	.
+szám	" "	.
+mindig	" "	.
+meg	" "	p1
+tudtam	" "	.
+számolni	" "	v1
+két	" "	.
+ujjamon	" "	.
+;-)	" "	.
+Viszont	" "	.
+tapasztaltam	" "	.
+azt	" "	.
+is	""	.
+,	" "	.
+hogy	" "	.
+sokan	" "	.
+a	" "	.
+légitársaságnak	" "	.
+rónak	" "	.
+fel	" "	.
+egy	" "	.
+csomó	" "	.
+olyan	" "	.
+dolgot	""	.
+,	" "	.
+amiről	" "	.
+abszolúte	" "	.
+nem	" "	.
+tehetnek	" "	.
+(	""	.
+pl.	" "	.
+felszálláskor	" "	.
+liftezett	" "	.
+a	" "	.
+gép	""	.
+,	" "	.
+hülye	" "	.
+pilóta	" "	.
+;-)	""	.
+)	"\n"	.
+Szerintem	" "	.
+is	" "	.
+jól	" "	.
+döntöttek	""	.
+,	" "	.
+de	" "	.
+a	" "	.
+kevésbé	" "	.
+durva	" "	.
+helyzetekre	" "	.
+nézve	" "	.
+nem	" "	.
+hiszem	" "	.
+hogy	" "	.
+fel	" "	p2
+lehet	" "	.
+ezt	" "	.
+példaként	" "	.
+hozni	" "	v2
+.	"\n"	.
+terembura-ragi	" "	.
+úgy	" "	.
+sorolod	" "	.
+ezeket	" "	.
+a	" "	.
+faszságokat	""	.
+,	" "	.
+mintha	" "	.
+legalábbis	" "	.
+te	" "	.
+intézted	" "	.
+volna	""	.
+,	" "	.
+hogy	" "	.
+odaát	" "	.
+ilyen	" "	.
+jó	" "	.
+élet	" "	.
+legyen.	" "	.
+ne	" "	.
+felejcsd	" "	.
+el	" "	.
+lécci	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+készbe	" "	.
+menekültél	" "	.
+át	""	.
+,	" "	.
+az	" "	.
+USÁ-ban	" "	.
+már	" "	.
+minden	" "	.
+megvolt	" "	.
+előtted.	" "	.
+tiszteljük	" "	.
+egyébként	" "	.
+a	" "	.
+fogadott	" "	.
+hazád	" "	.
+iránti	" "	.
+szeretedet	""	.
+,	" "	.
+és	" "	.
+megértjük	" "	.
+az	" "	.
+identitászavart	" "	.
+is	""	.
+,	" "	.
+de	" "	.
+vissza	" "	p3
+lehet	" "	.
+venni	" "	v3
+az	" "	.
+arcból	""	.
+.	"\n"	.
+
+Pedig	" "	.
+ecceri	" "	.
+nem	" "	.
+mondott	" "	v1
+nekem	" "	.
+ellent	" "	p1
+.	"\n"	.
+
+Esetleg	" "	.
+ki	" "	p1
+lehetne	" "	.
+próbálni	" "	v1
+egér	" "	.
+formájú	" "	.
+kurzorral	" "	.
+is	""	.
+...	"\n"	.
+
+Köszi	""	.
+!	" "	.
+(	""	.
+nem	" "	.
+fognak	" "	.
+átcseszni	""	.
+?	" "	.
+nem	" "	.
+bírnám	" "	.
+elviselni	""	.
+...	" "	.
+vagyis	""	.
+:	" "	.
+a	" "	.
+műsorkiírásból	" "	.
+ki	" "	p1
+fog	" "	.
+derülni	" "	v1
+?	"\n"	.
+
+Mi	" "	.
+nékünk	" "	.
+is	" "	.
+meg	" "	p1
+volt	" "	v1
+a	" "	.
+magunk	" "	.
+esete	" "	.
+a	" "	.
+vonat	" "	.
+"	" "	.
+fonökkel	" "	.
+"	""	.
+,	" "	.
+mely	" "	.
+hosszú	" "	.
+üvöltözés	" "	.
+(	""	.
+ja	" "	.
+kérem	" "	.
+kell	" "	.
+türelem	""	.
+,	" "	.
+hangero	""	.
+)	""	.
+,	" "	.
+némi	" "	.
+pénz	""	.
+,	" "	.
+kiváló	" "	.
+filctollaink	" "	.
+elvesztés	" "	.
+árán	" "	.
+megoldódott	""	.
+.	"\n"	.
+
+Amelyiktek	" "	.
+megtapasztalta	" "	.
+Istent	""	.
+,	" "	.
+a	" "	.
+legközelebbi	" "	.
+tapasztás	" "	.
+alkalmával	" "	.
+ugyan	" "	.
+vegye	" "	v1
+már	" "	.
+rá	" "	p1
+,	" "	.
+hogy	" "	.
+ne	" "	.
+fagyjon	" "	.
+le	" "	.
+az	" "	.
+Internettó	" "	.
+kéthetente	""	.
+.	"\n"	.
+
+"	" "	.
+Le	" "	p1
+ne	" "	.
+törj	" "	v1
+,	" "	.
+palló	""	.
+,	" "	.
+úgy	" "	.
+remegsz	""	.
+!	"\n"	.
+
+Oh	" "	.
+ha	" "	.
+meg	" "	p1
+is	" "	.
+érintene	" "	v1
+!	"\n"	.
+
+És	" "	.
+ez	" "	.
+a	" "	.
+szemlélet	""	.
+,	" "	.
+egy	" "	.
+gyülekezetben	" "	.
+ragadt	" "	.
+rám.	" "	.
+(	""	.
+ugye	" "	.
+meglepő	""	.
+)	" "	.
+El	" "	p1
+kell	" "	.
+mondjam	" "	v1
+,	" "	.
+hogy	" "	.
+a	" "	.
+barátaim	""	.
+,	" "	.
+akik	" "	.
+szintén	" "	.
+ebbe	" "	.
+a	" "	.
+gyülekezetbe	" "	.
+járnak	""	.
+,	" "	.
+széles	" "	.
+látókörűek	""	.
+,	" "	.
+sok	" "	.
+mindennel	" "	.
+foglalkoznak	""	.
+,	" "	.
+agyilag	" "	.
+teljesen	" "	.
+épek	""	.
+,	" "	.
+mindannyian	" "	.
+egyetemisták	" "	.
+vagyunk	""	.
+.	"\n"	.
+
+Tudja	" "	.
+Kedves	" "	.
+Sehonnai	" "	.
+Bitang	" "	.
+Ember	""	.
+,	" "	.
+élcesebbnél	" "	.
+élcesebb	" "	.
+megjegyzései	" "	.
+helyett	""	.
+,	" "	.
+inkább	" "	.
+küldte	" "	v1
+volna	" "	.
+el	" "	p1
+vasárnap	" "	.
+nekünk	" "	.
+azt	" "	.
+a	" "	.
+mentőcsapatot	""	.
+,	" "	.
+amit	" "	.
+kértünk	" "	.
+Öntől	""	.
+.	"\n"	.
+
+:-(	" "	.
+Nem	" "	.
+elég	""	.
+,	" "	.
+hogy	" "	.
+ki	" "	p1
+kell	" "	.
+hagynom	" "	v1
+a	" "	.
+gyulai	" "	.
+hétvégét	""	.
+,	" "	.
+most	" "	.
+még	" "	.
+az	" "	.
+útlevelemet	" "	.
+is	" "	.
+le	" "	p2
+kell	" "	.
+adnom	" "	v2
+,	" "	.
+hogy	" "	.
+a	" "	.
+vízumot	" "	.
+elintézzék	""	.
+,	" "	.
+csak	" "	.
+az	" "	.
+utazás	" "	.
+(	""	.
+szept.	" "	.
+19.	""	.
+)	" "	.
+előtt	" "	.
+pár	" "	.
+nappal	" "	.
+kapom	" "	.
+vissza	""	.
+...	"\n"	.
+
+3.	" "	.
+Muanyag	""	.
+:	" "	.
+modern	""	.
+,	" "	.
+élettartama	" "	.
+ismeretlen	" "	.
+(	""	.
+legjobb	" "	.
+tudomásom	" "	.
+szerint	" "	.
+csak	" "	.
+becslések	" "	.
+vannak	" "	.
+rá	""	.
+)	""	.
+,	" "	.
+házilag	" "	.
+egész	" "	.
+jól	" "	.
+hozzá	" "	p1
+lehet	" "	.
+nyúlni	" "	v1
+,	" "	.
+bár	" "	.
+elég	" "	.
+rohadt	" "	.
+meló	""	.
+.	"\n"	.
+
+Nyugtasd	" "	.
+meg	""	.
+,	" "	.
+hogy	" "	.
+ez	" "	.
+nem	" "	.
+azt	" "	.
+jelenti	""	.
+,	" "	.
+hogy	" "	.
+meg	" "	p1
+kell	" "	.
+kívánnia	" "	v1
+saját	" "	.
+magát	""	.
+,	" "	.
+mert	" "	.
+nem	" "	.
+erről	" "	.
+van	" "	.
+szó	""	.
+!	"\n"	.
+
+Ez	" "	.
+így	" "	.
+ment	" "	.
+egy	" "	.
+órán	" "	.
+keresztül	""	.
+,	" "	.
+akkor	" "	.
+abba	" "	p1
+kellett	" "	.
+hagyniuk	" "	v1
+,	" "	.
+mert	" "	.
+meg	" "	p2
+akarták	" "	.
+lincselni	" "	v2
+őket	""	.
+...	"\n"	.
+
+Mondja	" "	v1
+már	" "	.
+meg	" "	p1
+valaki	""	.
+,	" "	.
+hogy	" "	.
+mi	" "	.
+az	" "	.
+a	" "	.
+dödölle	""	.
+!	"\n"	.
+
+Az	" "	.
+amerikai	" "	.
+country	" "	.
+westernt	" "	.
+valamikor	" "	.
+kedveltem	""	.
+,	" "	.
+most	" "	.
+ki	" "	p1
+nem	" "	.
+állhatom	" "	v1
+.	"\n"	.
+
+Már	" "	.
+fel	" "	p1
+is	" "	.
+vettem	" "	v1
+a	" "	.
+nyálálló	" "	.
+ruhámat	""	.
+,	" "	.
+aztán	" "	.
+mentem	" "	.
+a	" "	.
+TVNET-re	""	.
+,	" "	.
+de	""	.
+...	" "	.
+azért	" "	.
+ez	" "	.
+is	" "	.
+valami	""	.
+.	"\n"	.
+
+Vagy	" "	.
+ők	" "	.
+is	" "	.
+megpróbálnak	" "	.
+összehozni	" "	.
+egy	" "	.
+váltópártot	" "	.
+a	" "	.
+baloldalon	""	.
+,	" "	.
+beleértve	" "	.
+a	" "	.
+civil	""	.
+,	" "	.
+alternatív	""	.
+,	" "	.
+emberi	" "	.
+jogi	""	.
+,	" "	.
+kisebbségi	""	.
+,	" "	.
+szakszervezetis	""	.
+,	" "	.
+szabadelvű	" "	.
+ÉS	" "	.
+a	" "	.
+hagyományos	" "	.
+baloldali	" "	.
+szférát	""	.
+,	" "	.
+vagy	" "	.
+nekiállnak	" "	.
+magukat	" "	.
+úgymond	""	.
+,	" "	.
+"	" "	.
+tisztítani	" "	.
+"	" "	.
+még	" "	.
+egy	" "	.
+jó	" "	.
+ideig	""	.
+,	" "	.
+kb.	" "	.
+addig	""	.
+,	" "	.
+amíg	" "	.
+le	" "	p1
+nem	" "	.
+mennek	" "	v1
+a	" "	.
+sokak	" "	.
+által	" "	.
+várt	" "	.
+12-15%-os	" "	.
+népszerűségi	" "	.
+indexig	""	.
+.	"\n"	.
+
+A	" "	.
+legutolsó	" "	.
+ilyen	" "	.
+eset	" "	.
+-	" "	.
+emlékeim	" "	.
+szerint	" "	.
+-	" "	.
+az	" "	.
+volt	""	.
+,	" "	.
+amikor	" "	.
+az	" "	.
+a	" "	.
+Landeszmann	" "	.
+nevű	" "	.
+hibbant	" "	.
+fütyülősbarackozott	""	.
+.	" "	.
+
+El	" "	p1
+is	" "	.
+határolódtak	" "	v1
+tőle	" "	.
+a	" "	.
+zsidók	" "	.
+gyorsan	""	.
+.	"\n"	.
+
+Istenem	" "	.
+macikám	" "	.
+neked	" "	.
+tényleg	" "	.
+be	" "	p1
+kéne	" "	.
+jönnöd	" "	v1
+egy	" "	.
+kicsit	""	.
+.	"\n"	.
+
+Igazad	" "	.
+van	""	.
+.	" "	.
+
+Meg	" "	p1
+kell	" "	.
+oldani	" "	v1
+az	" "	.
+átmenő	" "	.
+forgalom	" "	.
+rendezését	""	.
+.	"\n"	.
+
+Mintha	" "	.
+az	" "	.
+ő	" "	.
+fejükben	" "	.
+a	" "	.
+látszólagos	" "	.
+semlegesség	" "	.
+eltolódott	" "	.
+volna	" "	.
+a	" "	.
+pátosz	""	.
+,	" "	.
+az	" "	.
+elfogódottság	" "	.
+felé	""	.
+.	" "	.
+
+El	" "	p1
+lehet	" "	.
+képzelni	" "	v1
+,	" "	.
+hogy	" "	.
+imádhatja	" "	.
+egymást	" "	.
+a	" "	.
+két	" "	.
+vázolt	" "	.
+típus	""	.
+.	"\n"	.
+
+Akkor	" "	.
+meg	" "	p1
+kell	" "	.
+őket	" "	.
+szólitani	" "	v1
+,	" "	.
+és	" "	.
+nem	" "	.
+maszatolni	""	.
+,	" "	.
+hogy	" "	.
+vannak	" "	.
+(	""	.
+úgy	" "	.
+általában	""	.
+)	""	.
+.	"\n"	.
+
+Ha	" "	.
+kérdőre	" "	.
+vonnának	""	.
+,	" "	.
+azzal	" "	.
+a	" "	.
+naiv	" "	.
+mesével	" "	.
+állnék	" "	.
+elő	""	.
+,	" "	.
+fel	" "	p1
+nem	" "	.
+tételezem	" "	v1
+az	" "	.
+országos	" "	.
+rendőrközpontról	""	.
+,	" "	.
+hogy	" "	.
+csempészek	" "	.
+üzletel(het)nek	" "	.
+benne	""	.
+.	"\n"	.
+
+Összeakadtam	" "	.
+egy	" "	.
+válaszmányi	" "	.
+tag	" "	.
+(reform)szocialista	" "	.
+ismerősömmel	""	.
+,	" "	.
+aki	" "	.
+elmesélte	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+párt	" "	.
+elnöke	""	.
+,	" "	.
+Horn	" "	.
+Gyula	" "	.
+előadta	" "	.
+a	" "	.
+választmánynak	""	.
+,	" "	.
+hogy	" "	.
+meg	" "	p1
+kellene	" "	.
+próbálni	" "	v1
+a	" "	.
+kisgazdák	" "	.
+helyére	" "	.
+bekerülni	" "	.
+a	" "	.
+kormányba	""	.
+.	"\n"	.
+
+Mindemellett	" "	.
+történt	" "	.
+ilyen	" "	.
+a	" "	.
+Várban	""	.
+,	" "	.
+tavaly	""	.
+,	" "	.
+Napkelte	""	.
+,	" "	.
+be	" "	p1
+fogom	" "	.
+szerezni	" "	v1
+,	" "	.
+csakazértis	""	.
+,	" "	.
+hogy	" "	.
+lásd	""	.
+.	"\n"	.
+
+Ehelyett	" "	.
+a	" "	.
+kormány	" "	.
+a	" "	.
+90	" "	.
+napot	" "	.
+meg	" "	p1
+nem	" "	.
+haladó	" "	v1
+táppénzkiadás	" "	.
+teljes	" "	.
+egészét	" "	.
+a	" "	.
+munkaadókra	" "	.
+terhelné	""	.
+.	"\n"	.
+
+Jól	" "	.
+ki	" "	p1
+kell	" "	.
+azt	" "	.
+használni	" "	v1
+.	"\n"	.
+
+Pontosan	" "	.
+meg	" "	p1
+tudják	" "	.
+mondani	" "	v1
+,	" "	.
+mire	" "	.
+vagyok	" "	.
+allergiás	" "	.
+-	" "	.
+ezt	" "	.
+magamtól	" "	.
+is	" "	.
+tudom	""	.
+.	"\n"	.
+
+Gyönyörű	""	.
+,	" "	.
+lenyűgöző	" "	.
+és	" "	.
+csodállatos	" "	.
+volt	""	.
+.	" "	.
+
+El	" "	p1
+is	" "	.
+késtem	" "	v1
+a	" "	.
+munkahelyemről	" "	.
+:-)	""	.
+)	""	.
+)	""	.
+)	""	.
+)	""	.
+)	""	.
+)	""	.
+)	" "	.
+Nyomozzuk	" "	v2
+már	" "	.
+ki	" "	p2
+,	" "	.
+hogy	" "	.
+most	" "	.
+minek	" "	.
+kell	" "	.
+jönnie	""	.
+,	" "	.
+jó	""	.
+?	"\n"	.
+
+Sajnos	" "	.
+nagyon	" "	.
+sok	" "	.
+a	" "	.
+vacak	""	.
+,	" "	.
+mesterségesen	" "	.
+savanyított	" "	.
+termék	""	.
+,	" "	.
+de	" "	.
+azért	" "	.
+rá	" "	p1
+lehet	" "	.
+akadni	" "	v1
+jóra	" "	.
+is	""	.
+.	"\n"	.
+
+Annyi	" "	.
+a	" "	.
+megjegyzésem	""	.
+,	" "	.
+hogy	" "	.
+bár	" "	.
+szoros	" "	.
+a	" "	.
+korelláció	" "	.
+a	" "	.
+polgárosodás	" "	.
+és	" "	.
+a	" "	.
+középosztály	" "	.
+között	""	.
+,	" "	.
+azért	" "	.
+nem	" "	.
+teljesen	" "	.
+ua.	" "	.
+A	" "	.
+középosztályt	" "	.
+is	" "	.
+szokták	" "	.
+rétegezni	""	.
+,	" "	.
+az	" "	.
+alsó	" "	.
+részhez	" "	.
+tartoznak	" "	.
+azok	""	.
+,	" "	.
+akik	" "	.
+még	" "	.
+fenn	" "	p1
+tudják	" "	.
+tartani	" "	v1
+magukat	""	.
+,	" "	.
+gyerekeiknek	" "	.
+is	" "	.
+kb.	" "	.
+biztosítani	" "	.
+tudják	""	.
+,	" "	.
+hogy	" "	.
+hasonló	" "	.
+poziciót	" "	.
+érjenek	" "	.
+el.	" "	.
+nyugaton	" "	.
+is	" "	.
+ide	" "	.
+tartozik	" "	.
+pl.	" "	.
+az	" "	.
+ipari	" "	.
+szakmunkás	" "	.
+réteg	""	.
+.	"\n"	.
+
+Sajnos	" "	.
+én	" "	.
+azt	" "	.
+olvastam	" "	.
+egy	" "	.
+F1-es	" "	.
+fórumon	""	.
+,	" "	.
+hogy	" "	.
+Hill	" "	.
+annyira	" "	.
+elszontyolodott	" "	.
+a	" "	.
+gyenge	" "	.
+előadásán	""	.
+,	" "	.
+hogy	" "	.
+gyakorlatilag	" "	.
+azonnal	" "	.
+abba	" "	p1
+akarja	" "	.
+hagyni	" "	v1
+.	"\n"	.
+
+Ha	" "	.
+VB	" "	.
+akar	" "	.
+lenni	""	.
+,	" "	.
+akkor	" "	.
+nagyon	" "	.
+össze	" "	p1
+kell	" "	.
+kapnia	" "	v1
+magát	""	.
+,	" "	.
+mert	" "	.
+egy-két	" "	.
+vezetői	" "	.
+vagy	" "	.
+boxbeli	" "	.
+baki	""	.
+,	" "	.
+és	" "	.
+akár	" "	.
+Frentzen	""	.
+,	" "	.
+Irvine	" "	.
+és	" "	.
+Coulthard	" "	.
+is	" "	.
+megelőzheti	""	.
+.	"\n"	.
+
+Írod	""	.
+:	" "	.
+"	" "	.
+Tehát	" "	.
+ott	" "	.
+lehet	" "	.
+vita	" "	.
+közöttünk	""	.
+,	" "	.
+hogy	" "	.
+jól	" "	.
+csinálják	" "	.
+-e	""	.
+,	" "	.
+illetve	" "	.
+kellő	" "	.
+eréllyel	" "	.
+lépnek	" "	v1
+-e	" "	.
+fel	" "	p1
+ellenük	""	.
+.	"\n"	.
+
+Egyébként	" "	.
+mindkettőjüket	" "	.
+sokkolta	" "	.
+a	" "	.
+bejelentésem	""	.
+,	" "	.
+hogy	" "	.
+én	" "	.
+igen	""	.
+...	" "	.
+és	" "	.
+izgatottan	" "	.
+várják	""	.
+,	" "	.
+hogy	" "	.
+vajon	" "	.
+tényleg	" "	.
+nem	" "	.
+gondolom	" "	v1
+-e	" "	.
+meg	" "	p1
+.	"\n"	.
+
+:-(	" "	.
+Az	" "	.
+egyikük	" "	.
+át	" "	p3
+akarta	" "	.
+festeni	" "	v3
+a	" "	.
+hajam.	"\n"	.
+Mert	" "	.
+mindez	" "	.
+szép	" "	.
+(	""	.
+még	" "	.
+igaz	" "	.
+is	" "	.
+lehet	""	.
+)	""	.
+,	" "	.
+de	" "	.
+azért	" "	.
+mégiscsak	" "	.
+hozzá	" "	p1
+járulhatott	" "	v1
+a	" "	.
+riport	" "	.
+elkészültéhez	" "	.
+az	" "	.
+is	""	.
+,	" "	.
+hogy	" "	.
+a	" "	.
+műsoridőt	" "	.
+meg	" "	p2
+kell	" "	.
+tölteni	" "	v2
+,	" "	.
+lehetőleg	" "	.
+olyasmivel	" "	.
+amira	" "	.
+a	" "	.
+néző	" "	.
+felkapja	" "	.
+a	" "	.
+fejét	""	.
+,	" "	.
+és	" "	.
+jó	" "	.
+ha	" "	.
+mutatunk	" "	.
+is	" "	.
+neki	" "	.
+valamit	""	.
+,	" "	.
+hogy	" "	.
+ne	" "	.
+felejtse	" "	.
+el	" "	.
+a	" "	.
+szemét	" "	.
+a	" "	.
+képernyőn	" "	.
+tartani	""	.
+.	"\n"	.
+
+Megadtad	" "	.
+a	" "	.
+neved	""	.
+?	" "	.
+
+Be	" "	p1
+ne	" "	.
+szarjak	" "	v1
+a	" "	.
+meghatottságtól	""	.
+!	"\n"	.
+
+Jelenleg	" "	.
+ha	" "	.
+valamit	" "	.
+akarsz	" "	.
+[	""	.
+ez	" "	.
+az	" "	.
+emberek	" "	.
+jelentős	" "	.
+része	" "	.
+számára	" "	.
+hosszab	""	.
+,	" "	.
+rövidebb	" "	.
+kiadványok	""	.
+,	" "	.
+prezentációk	" "	.
+elkészítését	" "	.
+jelenti	""	.
+]	" "	.
+akkor	" "	.
+meg	" "	p1
+kell	" "	.
+vásárolnod	" "	v1
+egy	" "	.
+monstre	" "	.
+szoftvert	" "	.
+úgy	" "	.
+jó	" "	.
+100	" "	.
+eFt-ért	""	.
+.	"\n"	.
+
+Ez	" "	.
+a	" "	.
+Normafán	" "	.
+túl	" "	.
+van	""	.
+,	" "	.
+át	" "	p1
+kell	" "	.
+menni	" "	v1
+a	" "	.
+buszvégállomáson	""	.
+,	" "	.
+és	" "	.
+a	" "	.
+behajtani	" "	.
+tilos	" "	.
+táblától	" "	.
+kb.	" "	.
+1-2	" "	.
+perc	" "	.
+kocsival	""	.
+.	"\n"	.
+
+Amikor	" "	.
+megtértem	" "	.
+Isten	" "	.
+adott	" "	.
+egy	" "	.
+olyan	" "	.
+hitet	" "	.
+nekem	""	.
+,	" "	.
+hogy	" "	.
+100%-ig	" "	.
+meg	" "	p1
+vagyok	" "	.
+győződve	" "	v1
+,	" "	.
+hogy	" "	.
+a	" "	.
+Biblia	" "	.
+Isten	" "	.
+szava	""	.
+,	" "	.
+és	" "	.
+a	" "	.
+Szent	" "	.
+Szellem	" "	.
+által	" "	.
+megelevenített	" "	.
+Szentírásnak	" "	.
+abszolút	" "	.
+tekintélye	" "	.
+van	""	.
+.	"\n"	.
+
+Egyszer	" "	.
+egy	" "	.
+zsaru	" "	.
+éjfél	" "	.
+fele	" "	.
+alig	" "	.
+akarta	" "	.
+elhinni	""	.
+,	" "	.
+hogy	" "	.
+be	" "	p1
+van	" "	.
+téve	" "	v1
+a	" "	.
+kontaktlencsém	""	.
+.	" "	.
+
+El	" "	p2
+kellett	" "	.
+olvasnom	" "	v2
+egy	" "	.
+hirdetőtábla	" "	.
+szövegét	""	.
+.	"\n"	.
+
+Lehet	""	.
+,	" "	.
+hogy	" "	.
+mégis	" "	.
+csak	" "	.
+be	" "	p1
+kéne	" "	.
+ruházni	" "	v1
+egy	" "	.
+Uziba	""	.
+?!	"\n"	.
+
+Amikor	" "	.
+belekezdett	" "	.
+a	" "	.
+felgöngyölítősdibe	""	.
+,	" "	.
+akkor	" "	.
+számolnia	" "	.
+kellett	" "	.
+a	" "	.
+következményeivel	""	.
+,	" "	.
+hogy	" "	.
+sokan	" "	.
+ki	" "	p1
+fognak	" "	.
+akadni	" "	v1
+miatta	""	.
+.	"\n"	.
+
+Samu	" "	.
+a	" "	.
+jól	" "	.
+nevelt	" "	.
+Ír	" "	.
+szetter	" "	.
+be	" "	p1
+kászálódott	" "	v1
+az	" "	.
+ülésre	""	.
+,	" "	.
+s	" "	.
+mint	" "	.
+aki	" "	.
+1	" "	.
+hete	" "	.
+nem	" "	.
+evett	" "	.
+széles	" "	.
+nyelvcsapásokkal	" "	.
+lenyalta	" "	.
+az	" "	.
+aznapi	" "	.
+bűnjelet	""	.
+.	"\n"	.
+
+Szerintem	" "	.
+ha	" "	.
+így	" "	.
+folytatódik	""	.
+,	" "	.
+lassan	" "	.
+az	" "	.
+lesz	" "	.
+a	" "	.
+"	" "	.
+jó	" "	.
+"	" "	.
+flim	" "	.
+pl	" "	.
+a	" "	.
+tévében	""	.
+,	" "	.
+amelyiket	" "	.
+nem	" "	.
+szakítja	" "	.
+meg	" "	.
+reklám	""	.
+,	" "	.
+s	" "	.
+a	" "	.
+végén	" "	.
+a	" "	.
+"	" "	.
+sötétig	" "	.
+"	" "	.
+láthatjuk	" "	.
+a	" "	.
+kockákat	""	.
+,	" "	.
+hiszen	" "	.
+a	" "	.
+jobb	" "	.
+film	" "	.
+mellé	" "	.
+kevesebb	" "	.
+reklámot	" "	.
+is	" "	.
+el	" "	p1
+lehet	" "	.
+adni	" "	v1
+ugyanannyiért	""	.
+,	" "	.
+mint	" "	.
+amennyit	" "	.
+a	" "	.
+sorozat	" "	.
+ötpercenkénti	" "	.
+reklámjai	" "	.
+hoznak	""	.
+.	"\n"	.
+
+De	" "	.
+azt	" "	.
+is	" "	.
+figyeld	" "	.
+meg	" "	.
+kérlek	""	.
+,	" "	.
+hogy	" "	.
+melyik	" "	.
+modja	""	.
+,	" "	.
+hogy	" "	.
+végig	" "	p1
+kell	" "	.
+vinni	" "	v1
+a	" "	.
+programot	""	.
+,	" "	.
+amire	" "	.
+(	""	.
+a	" "	.
+polgároktól	""	.
+)	" "	.
+felhatalmazást	" "	.
+kapott	""	.
+!	"\n"	.
+
+Mindegyiket	" "	.
+haza	" "	p1
+kellene	" "	.
+telepíteni	" "	v1
+,	" "	.
+mindjárt	" "	.
+kissebb	" "	.
+lenne	" "	.
+a	" "	.
+pofájuk	""	.
+.	"\n"	.
+

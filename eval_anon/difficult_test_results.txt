@@ -1,0 +1,28 @@
+Results for emPreverb
+(376, 346, 3, 6, 21)
+Precision: 0.9914
+Recall: 0.9428
+F1: 0.9665
+Accuracy: 0.9362
+
+Results for max2
+(376, 275, 23, 7, 71)
+Precision: 0.9228
+Recall: 0.7948
+F1: 0.8540
+Accuracy: 0.7500
+
+Results for nearest verb
+(376, 272, 83, 3, 18)
+Precision: 0.7662
+Recall: 0.9379
+F1: 0.8434
+Accuracy: 0.7314
+
+Results for emStanza
+(376, 307, 31, 1, 37)
+Precision: 0.9083
+Recall: 0.8924
+F1: 0.9003
+Accuracy: 0.8191
+

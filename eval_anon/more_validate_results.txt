@@ -1,0 +1,7 @@
+Results for emPreverb
+(935, 900, 2, 8, 25)
+Precision: 0.9978
+Recall: 0.9730
+F1: 0.9852
+Accuracy: 0.9711
+

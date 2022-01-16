@@ -1,0 +1,503 @@
+#462796,doc#55	Ne kérdezz , már úgysem találom|1 el\1 , 
+#1934046,doc#98	A gyárakból , üzemekből a privatizáció következtében tömegével bocsátották|1 el\1 a munkásokat , technikusokat , aminek következtében az őket képző iskolák vonzereje is egyik évről a másikra zuhanásszerűen csökkent , és megnőtt az érdeklődés a gimnáziumok iránt . 
+#2500950,doc#115	Ők ketten jobban bírták az italt , csak az arcuk pirult|1 ki\1 , a tekintetük tiszta maradt . 
+#2947673,doc#124	Szeptember 18-án a volt zsidó üzletek ajtajain szlovák nyelvű fasiszta feliratok tűntek|1 fel\1 : Pl. " Źidov do Dunaja ! " 
+#2965508,doc#125	Inkább a hónap végén kölcsönkérnek , de nem mondanak|1 le\1 arról , hogy naponta megvegyék gyermeküknek a drágább joghurtot , édességet . 
+#3810439,doc#148	Továbbmegyünk a hallba , ahol Mazsola a szanatórium kimagasló polgáraként néz|1 le\1 elmenőben a kacsaszárny-kezű lányra . 
+#9383182,doc#260	- Nem fér|1 el\1 a zsebemben . 
+#12137833,doc#306	Ha Károly megelőzhette volna a korát , amire sem lehetősége , sem hajlama nem volt , bizonyára a hippik nagycsaládos életformáját valósította|1 volna meg\1 , a csoportos együttélést . 
+#14526154,doc#334	A roppant térségek , a nagyvilág kihívása lúdbőrzött|1 végig\1 a hátamon s csak múló érzés volt , nem gyanítottam , miféle jósvillám csapott belém . 
+#15013560,doc#338	A földdugó kilövellése után már csak csurgásféle volt a forrás , több apró lyukból s inkább szivárgás-formán egybefolyva , szutykos lé csordogált|1 alá\1 . 
+#15553632,doc#342	Nem két versről van szó - egy forradalmiról és egy tájleíróról -, hanem egyetlen versről , amelynek egyik változata rejtjelesen fejeződik|1 be\1 . 
+#17376379,doc#356	Az ismeretlen erre letette utazótáskáját ; arcán a tétova mosolyt a boldog meghatottság mosolya váltotta|1 fel\1 . 
+#19260803,doc#373	- Lili fiam ! - intette|1 le\1 Anna néni . 
+#22014741,doc#412	És akik nem akarnak tanulni , legalább a gyermekeiket ne fosszák|1 meg\1 attól , hogy majdan felkészülten , művelt emberekként utazzanak szerte a nagyvilágban . 
+#23524159,doc#436	Az ember bele\1 akarja tűzni|1 a föld testébe a maga üzenetét , hogy örökkévaló legyen ezen a földön . 
+#24520116,doc#464	Amikor anya pityeredik el a csendben , kötögetés közbeni valamilyen emléktől , akkor Memus néz|1 fel\1 jóságosan , de a közönyig sziklaszilárdan , távoli józansággal : " Mama , ne butáskodj " , míg anyja is abbahagyja és egymásra mosolyognak . 
+#29392868,doc#532	A táborunk barakkjai fenn , a régi meddőhányón helyezkedtek|1 el\1 zárt négyszögben . 
+#30915105,doc#548	A csapat ugyanis ( melyet fekete , vattával bélelt munkaruhájáról a sztrájkolók Gyászbrigádnak neveztek|1 el\1 ) az orvlövészek legfőbb célpontjául szolgált . 
+#31181693,doc#551	Céljuknál egy megállóval korábban , a zugligeti villamos régi végállomásánál szálltak|1 le\1 . 
+#33417899,doc#579	A telekkel szemben új villa állt , a vörös sóderúton két gyerek marakodott a háromkerekű bicikliért , s egy babosruhás úrinő az elvirágzott rózsákat metszegette|1 le\1 a rózsafákról . 
+#34226806,doc#581	- Balázs a legtisztelettudóbb ember , mosolyodott|1 el\1 Zoltán . 
+#35985919,doc#619	A kézirat egyetlen példányom , kérlek , ne veszítsétek|1 el\1 ( közlés után nyugodtan eldobhatjátok ) . " 
+#36156385,doc#619	Talán az egzisztencializmus vezette|1 rá\1 : drámáit , vagyis a megélt gondolatot elébe helyezte a " legszenvedélyesebb spekulációnak " is . 
+#36272077,doc#622	Itt érezzük|1 meg\1 azt is , hogy mi lehet Ágoston nekünk , a jelennek , az Életnek ... mikor minden Intelligenciát és Logikát valósággal lábbal tipor a világ . " 
+#38129560,doc#657	Tettének fő oka , mint írta , az volt , hogy a gyerekek tehermentesítéséről , két évtizednyi erőfeszítéseinek kudarcát belátva , le\1 kell mondania|1 . 
+#38822312,doc#661	- Hiszen ettől a monológtól dühödik|1 fel\1 annyira ... 
+#39571879,doc#669	Apád ugye teljesen megvakult , ki segített|1 volna ki\1 engem ? 
+#41217247,doc#682	Legalább most ne tagadd|1 le\1 . 
+#41898933,doc#691	Á . É. meg\1 akart indítani|1 bűnbánatával , és megijeszteni , hogy fúrnak . 
+#43368107,doc#711	- De nem adom|1 oda\1 , mert Adameczről van szó . " 
+#43408726,doc#712	- Velős csontot küldött - szedi|1 elő\1 a csomagot a feleségem a szatyorból . 
+#45592806,doc#738	Csak éppen meg\1 ne nyíljon|1 a sötétben izzó homály , mert meleg véreső hullana belőle . 
+#45778861,doc#738	Gondba mártja Külü Benke a fejét , s a nyughatatlanság minden égtáj felől özönlik|1 belé\1 . 
+#46912974,doc#751	Ha Kaufschad , oda\1 volt telepítve|1 . 
+#47446317,doc#755	Itt egészen a fillérekig szabatosan dolgoznak|1 el\1 egészen az eszelősségig . 
+#47788944,doc#756	De nem kérte , hogy : játsszam|1 el\1 ! 
+#53276246,doc#901	Ha nincs , akkor el\1 tudom fogadni|1 Balczó képviselő úr javaslatát . 
+#54500196,doc#901	Igaz , hogy egy ötpontos kiegészítést tettünk az elkészített anyaghoz , ám annak komplett aláírását csak két ember tette|1 meg\1 , az összes résztvevő elutasította az akkori tájékoztatón elhangzottakat . 
+#54642859,doc#901	Úgy gondoljuk , hogy ez nemcsak üzemanyagtöltő-állomást jelenthet , hanem jelenthet esetleg egy jelentős felületű , zöldbe ágyazott parkolót vagy egy olyan területet is , ahol később esetleg egy kisebb park jöhet|1 létre\1 a szobor köré csoportosítva . 
+#55201683,doc#901	A Fővárosi Közgyűlés az ülés napirendjét az alábbiakban állapítja|1 meg\1 : 1) a) Javaslat a Mikr oszkóp Színpad Kht. és a Szabad Tér Színház Kht. törzstőke felemelésére . b) Javaslat tagok delegálására a fővárosi gyermekvédelmi intézmények Érdekképviseleti Fórumába . c) Javaslat igazgatósági tag visszahívásáról ( BTI Rt. ) d) Javaslat a FŐTÁV Rt. Felügyelőbizottsá gában tagcserére . e) Javaslat a Közép-Magyarországi Regionális Fejlesztési és Szolgáltató Kht. Felügyelőbizottsága fővárost képviselő tagjának megválasztására . f) Javaslat bizottsági tagcserére . g) Javaslat az Alternatív Közgazdasági Gimnázium Alapítvány alapító okiratának módosítására . 
+#57820228,doc#912	( 15 ) Személy- és teherfuvarozást végző egyéni vállalkozók , gazdasági társaságok gépjárművei a védett övezetbe csak az e paragrafu sban meghatározott engedélyekkel hajthatnak|1 be\1 . 
+#58568277,doc#912	(1) A nyitvatartás rendjét az üzemeltető állapítja|1 meg\1 , a hatályos jogszabályokat és a lakossági igényeket is figyelembe véve . 
+#58599444,doc#912	Hat hónapon túli késedelem esetén a MIK Rt. az adásvételi szerződéstől jogosult elállni ; ebben az esetben az eredeti állapotot kell helyreállítani azzal , hogy a teljesített vételárrészletek 50 %-a használati díjként és átalány kártérítésként az eladót illeti|1 meg\1 , és a vevő az összeg visszakövetelésére nem jogosult . 
+#59456110,doc#912	A tömbön belül önállóan nem építhető|1 be\1 a 41.144. hrsz-ú ingatlan , valamint a zárvány ingatlanok ( 41.149. , 41.161. , 41.162. , 41.166. hrsz. ) . 
+#61049699,doc#918	Az alapszerződés szeptember 16-ai aláírása nélkül a romániai ellenzék soha nem jutott volna ilyen helyzetbe , hogy köztársasági elnököt adjon és kormányprogramot terjeszthessen|1 be\1 a román törvényhozásban . 
+#61158330,doc#918	Azt gondolom , hogy igaza van Kulin Ferencnek , amikor azt mondja , hogy nagyon nagy gondossággal kell eljárnunk , amikor a tudomány és a politika kapcsolódási pontjairól beszélünk , hogy ne teremtsük|1 újjá\1 az egykori állampárti tudományirányítás rémét és ne vonjuk a fejünkre ennek a veszélyét . 
+#61280801,doc#918	Bizony , a polgárnak is a vállára tesszük annak a döntésnek a felelősségét , hogy vagy ide , vagy oda : egy százalék erejéig érezze|1 át\1 ő is azt , amit mi 99 százalék erejéig kell hogy minden költségvetési vitában átérezzünk . 
+#61443413,doc#918	Nem csodálkozom azon , hogy ön a jogi kérdéseket összekeveri az esztétikaiakkal , ugyanis - ha jól tudom - jogi képesítése nincsen , de készséggel bemutatok önnek egy olyan igazolást , amelyet Tocsik Márta részére utaltak|1 át\1 ügyvédi munkadíj címén 355 011 739 forintról szól . 
+#62481500,doc#918	Az ajánlás 1. és 2. pontjai egyaránt a kormány tájékoztatási kötelezettségére irányulóan terjesztenek|1 elő\1 eltérő javaslatokat . 
+#62599218,doc#918	Ezek az épületek természetesen szintén nem épültek|1 meg\1 , várnak . 
+#62790783,doc#918	Ez remélhetőleg nagyban elő\1 fogja segíteni|1 a mérnökök anyagi és erkölcsi megbecsülését , valamint véleményünk szerint az országban is jelentős eremdényeket fog elérni , biztosítani . 
+#64338942,doc#918	Kétségtelen , hogy ez a szövetkezetekre jelen pillanatban nem érvényes , így azt hiszem , hogy egy átfogó szövetkezeti jogi kodifikációnak még nem érkezett|1 el\1 az ideje akkor sem , ha tudom azt , hogy az Igazságügyi Minisztériumban ennek az előkészületei megkezdődtek . 
+#65696372,doc#918	A gazdasági kamarák létrejöttével , a gazdálkodó szervezetek kötelező kamarai tagságával új helyzet állt|1 elő\1 . 
+#66666915,doc#918	Nem érezném kiegyensúlyozottnak , ha ennek tanulságait csak egyoldalúan vonnánk|1 le\1 , ezért szükségesnek érzem , hogy a Kisgazdapárt hagyományaiból a jó hagyományokra hivatkozzam , abban a reményben , hogy ezek a jó hagyományok tovább élnek , és túlsúlyra kerülnek a mai Kisgazdapártban . 
+#70042024,doc#918	Úgyhogy a javaslatát nemcsak nem fogadom|1 meg\1 , hanem nem tartom komolynak , és megkérem , hogy olyan komolyan vegye a javaslataimat , mint ahogy én megtettem . 
+#72853385,doc#919	( 11 ) Ha az exportértékesítés devizában meghatározott ellenértékét azonos devizaértékű importáruval , illetve importszolgáltatással egyenlítik|1 ki\1 , az importbeszerzés , illetve az exportárbevétel forintértékét az importbeszerzés , illetve az exportértékesítés szerződés szerinti devizaértékének az első teljesítéskor érvényes , a Magyar Nemzeti Bank által közzétett , hivatalos devizaközép-árfolyamon átszámított forintértéken kell meghatározni . 
+#76587387,doc#974	ne forgassad|1 már ki\1 a szavaimat , légy oly drága . 
+#77345223,doc#975	/magam sem értem azt miért nyomtatják|1 rá\1 , milyen többlet információt tartalmaz / 
+#84923710,doc#981	Másszuk|1 meg\1 a Börzsönyt ! 
+#86074236,doc#982	Hogyan teszi|1 tönkre\1 a nemzetközivé vált média a nemzeti kultúrákat ? 
+#86351952,doc#983	Bár magam is hiszek abban , hogy az emberek képesek változtatni a stílusukon , de azt is tudom , hogy ez csak azoknál következik|1 be\1 akik akarják is . 
+#87547240,doc#984	Később jött|1 elő\1 a virágpiaci felszini metróval . ( óne köztársaság tér ) Akkor már nem volt érdemes leállítani a gyűjtést . 
+#87630804,doc#984	Biztos vagyok benne , hogy ha ezt a cirkuszt nem csinálja átvilágítatlan Gönczünk , néhány hét múlva haza\1 engedték|1 volna beteg szabadságra , jó magaviselete miatt , és a néhány hónap múlva -minden közfigyelem keltés nélkül- szabadlábon lenne . 
+#88672257,doc#984	El\1 nem szalasztanám|1 , hogy láthatlak . 
+#91519742,doc#987	Persze be\1 lehet keverni|1 ide a " piroska és a farkast " is , csak minek ? 
+#91923928,doc#987	Macika : a hátam veszít|1 el\1 , vagy Ádámom ? :)))))))) Kíváncsi vagyok , mit ír majd :)))) 
+#95228486,doc#990	Kb. másfél percet lehettem bent , és a kezemben egy A kategóriás papírral jöttem|1 ki\1 . 
+#100450038,doc#995	Hogy jön|1 ide\1 a rasszizmus és fegyverrel álomre hajtott fej ? 
+#101666836,doc#996	Szép kis játék alakulna|1 ki\1 , a fair play szabályai szerint . 
+#102701308,doc#997	A Halált is személyes dicsőségként élem|1 meg\1 . 
+#110361257,doc#1004	Nézzétek|1 meg\1 az előadást is , érdemes , de attól függetlenül is kíváncsi vagyok a véleményekre hozzáértő illetékesektől és nézőktől egyaránt . 
+#110739503,doc#1004	Én úgy emlékeztem , hogy a negyedik semmi nem látszott , de most ( 15. hét ) már csak a bővebb gatya jön|1 fel\1 , illetve vettem egy gumisat is . 
+#114605914,doc#1008	De van okom szomorúságra is - azt majd a Banya vállán sírom|1 el\1 , Ő mindig olyan megértő és jólelkű :))) . 
+#114910358,doc#1008	Jó a felsorolás , bár én úgy képzelem|1 el\1 , hogy : az 1. pont : -van olyan aki egyedül van és nem is vágyik másra . a 2. pont : -van aki egyedül van és magányos , de inkább egyedül van , mint olyannal akit nem szeret . a 3. és 4. pont ( extrém esetek kivételével ) összevonható . 
+#115249413,doc#1008	Amikor látogatója végre felmelegedett és jóllakott , akkor kérdezte|1 meg\1 tőle a rebbe , honnan és hová ? 
+#116131644,doc#1009	Amúgy ez a wenge bubinga stb. tényleg a Warwicknél volt előszőr , a szlovákok állítólag ugyanonnan szerezték|1 be\1 a fa nyersanyagot ahonnan a Warwick . 
+#116308784,doc#1009	És az sem meglepő , hogy eddig kik szóltak|1 hozzá\1 és hány órakor . 
+#117446766,doc#1010	Megint térj|1 vissza\1 , és kezdd elólró1 ! 
+#117577755,doc#1010	Asszem ide senki sem hozta|1 vissza\1 a kikölcsönzött müveket . 
+#117800209,doc#1010	Csak fel\1 kell fogadni|1 a tulajdonosát és máris mehetsz vele . 
+#119586210,doc#1012	De ha egy meleg megtér , Istentől erőt kap , és ellene tud állni a bűnnek , és Isten meg\1 tudja változtatni|1 , és alkalmassá tudja tenni a normális férfiúi és atyai szerepre . 
+#121814130,doc#1014	Generációk nőnek|1 fel\1 , melyek nem láttak egy Németh László- vagy Illyés Gyula-drámát , mások munkáiról nem is beszélve . 
+#123623649,doc#1015	Senkinek nem adtam|1 ki\1 bizalmas információt , többek közt azért sem , mert négy évig honvédelmi miniszterként két titkosszolgálatot is irányítottam , és tudtam , mit jelent nemzetbiztonsági ügyeket kezelni . 
+#127519900,doc#1019	.. hogy miért üttöttek|1 rajta\1 a timori biciklistákon . 
+#129499784,doc#1020	Aszongya : " Az utóbbi években revizionista történészek és újságírók meggyőző érveket fogalmaztak|1 meg\1 amellett , hogy a Watergate - ahogy a közvéleményben és a történelemkönyvek lapjain hosszú ideig élt - legalábbis részben mítosz . 
+#131408546,doc#1026	Sose tudjuk|1 meg\1 , de kíváncsi volnék rá : a nagy tisztújítást megelőzően vajon sor került -e olyan tanácskozásra alsóbb szinteken , amelyik megfelelt az alapszabályban rögzített előírásoknak . 
+#132542431,doc#1039	A helyszínrol még csak tárgyalok , s nagyon úgy néz|1 ki\1 , hogy a hazai magyar kultúra jótékonyságáról elhíresült mecénása , Frideczky János felkarolja az ügyünket . 
+#133155253,doc#1043	Meg\1 kell jegyeznem|1 , hogy míg Magyarországon a helyi önkormányzatok " fejpénzt " kapnak a kultúrára a belügyminisztérium költségvetéséből , nálunk legfeljebb annyit költhetnek kulturális célokra , amennyit a maguk kigazdálkodta és az állam által visszaosztott , nagyon szűkös eszközökből tudnak . 
+#134096918,doc#1045	Semmi más értelme nincs , mint szétverni a csapatunkat , a még meglévő három pécsi egyikét , hogy aztán majd a Rákóczy István mellett a döntést szorgalmazó Hidas és Pécsvárad ingyen hordhassa|1 szét\1 a játékosainkat . 
+#134193251,doc#1045	- A 223 átigazolt futballista döntő többsége felnőtt volt , az ifjúságiak talán csak tíz százalékot tettek|1 ki\1 - kezdi Szittya Imréné , aki tizenegyedik éve intézi az átigazolásokat a Baranya Megyei Labdarúgó Szövetségben . 
+#134362322,doc#1045	Az ifik közül három tehetséges labdarúgót , Joklt , Némethet és Hallát hozták|1 fel\1 a felnőtt keretbe . 
+#134737809,doc#1045	A korábbi egységes 100 forint helyett ma differenciáltan állapítják|1 meg\1 , kinek mennyivel kell hozzájárulnia a költségekhez . 
+#135469445,doc#1045	Nagyon keserves utat jártak|1 végig\1 vezetők , játékosok egyaránt . 
+#139274621,doc#1047	Ha a kormány így látja , tegyen róla , hogy másképp legyen , hiszen az Érdekegyeztető Tanács reformját csak súlyos politikai áldozatok árán kerülheti|1 meg\1 . 
+#139746544,doc#1048	A mai felső osztályok ugyanazokat az anyagi javakat , ugyanazt a korlátlan mozgásszabadságot és ugyanazt az információs hatalmat élvezhetik Los Angelesben , mint Moszkvában , Londonban mint Bombayben , míg a helyi keretek közé zárt szegényeket legfeljebb az köti|1 össze\1 , hogy esténként ugyanaz a szappanopera ringatja őket szendergésbe . 
+#140681511,doc#1048	A leghosszabb egytávú európai versenynek minősülő erőpróba alatt Zsigovics hat liter kólát - ez újdonság , Bogár János ultramaratonista tanácsára próbálta|1 ki\1 - és hat kiló banánt , valamint vitaminokat és energiaitalokat fogyasztott . 
+#141022200,doc#1049	A helyi ügyek töredékét tették|1 ki\1 a parlamenti azonnali kérdések , interpellációk és kérdések témáinak . 
+#141155130,doc#1049	Tavaly egyébként a mintegy 3 ezer szőlőtermelőtől összesen 120 ezer mázsa szőlőt vásárolt|1 fel\1 a Tokaj Kereskedőház Rt. , ami erején felüli teljesítmény volt akkor is . 
+#141787241,doc#1049	Kalocsán a civil lakosság körében nincsen agyhártya-gyulladásos járvány - tudtuk|1 meg\1 Városi Zsuzsannától , a Kalocsai Népegészségügyi és Tisztiorvosi Szolgálat vezetőjétől . 
+#142301627,doc#1050	Orbán Viktor egy statisztikára hivatkozva azt mondta , hogy a magyar tőke nem csak Erdélyben van jelen , egyenletesen oszlik|1 el\1 az országban , vagyis " gazdasági szempontok szerint mozog , ami nagyon helyes " . 
+#145406411,doc#1052	Nem kevésbé mulatságos a rádiócső feltalálójának , Lee De Forrest doktornak a nyilatkozata , miszerint " az ember sohasem jut|1 el\1 a Holdra , bármennyire is fejlődjék a tudomány a jövőben " . 
+#147238423,doc#1053	Straub Ilona arról is tájékoztatott , hogy amennyiben mégis olyan kórokozóval kerülnének|1 szembe\1 , amelyet nem tudnak itthon azonosítani , azt az Egészségügyi Világszervezettel kötött együttműködés alapján kijelölt külföldi központba küldik . 
+#147566030,doc#1053	A tiltakozás előzménye a halászok kikötőblokádja volt , amely a múlt héten britek ezreit akadályozta|1 meg\1 az utazásban . 
+#147824481,doc#1053	Akkor jut valakinek eszébe , hogy meg\1 kellene idézni|1 Lenin elvtárs szellemét , biztosan jó tanácsot tudna adni . 
+#148152425,doc#1054	A Magyar Légiforgalmi Szolgálatok Szakszervezete ( MLSZSZ ) január 2-ától hirdetett munkabeszüntetést , mivel véleményük szerint a munkáltató Légiforgalmi és Repülőtéri Igazgatóság ( LRI ) nem hajlandó az 50 százalékos béremelésre , s a társaság átalakítását sem állította|1 le\1 . 
+#148653541,doc#1054	Egy évvel korábban , 1999 novemberében a hiány 156 millió eurót , az első tizenegy hónapban 1 , 404 milliárd eurót tett|1 ki\1 . 
+#150229782,doc#1055	Clinton és Mubarak nem számolt|1 be\1 a megbeszélésükről az újságíróknak , az amerikai elnök azonban már előtte megállapította , hogy " sürget az idő " . 
+#151615264,doc#1057	A Salamon-toronyról a tavalyi egri nyári műemlékvédelmi egyetemen állapította|1 meg\1 egy szakember : " Félő , hogy a látogató nem egy 13. századi lakótornyot érzékel , hanem egy 1960-as évekbeli , lapos tetős kilátótornyot . " 
+#154572458,doc#1059	Utóbbi kettőt aligha lehet majd együtt látni a közeljövőben , Aznar ugyanis éppen a merénylet hetének elején jelentette|1 be\1 , hogy március 12-én parlamenti választásokat tartanak . 
+#155203507,doc#1059	A lengyel gazdaság fellendülése nyomán a kilencvenes évek közepe óta tömegesen települnek|1 vissza\1 az óhazába az egykori emigránsok . 
+#155877376,doc#1060	Szerinte a szamizdat országaiban " nem minden úgy valósult|1 meg\1 , ahogy elképzelték-elképzeltük " . 
+#156138131,doc#1060	Az állami vagyonkezelő máris napirendre tűzte - és közvetlenül az önkormányzati választások előtt jelentette|1 be\1 - több , az előző ciklusban hozott privatizációs döntés revízióját . 
+#158397044,doc#1062	A törökök addig nem akarták eltakarítani a romhalmazt , amíg ők kutyáikkal nem vizsgálták|1 át\1 terepet . 
+#160164473,doc#1063	A politikus emlékeztetett rá , hogy a jelölés joga a kisgazdapártot illeti|1 meg\1 a koalíciós szerződés értelmében . 
+#160915230,doc#1064	Persze , bármikor le\1 lehet mondani|1 az 1212-es telefonszámunkon és ezen a számon bármilyen panaszt is tehetnek az előfizetők . 
+#161476899,doc#1064	Antok Gábor :- Mezőgazdasági kár tulajdonképpen még nincs , majd amikor az olvadás megindul és a vetések előjönnek , akkor derül|1 ki\1 , hogy ez most kár volt -e vagy sem . 
+#162144202,doc#1065	Hasonló véleményen van a cseh diplomácia is , bár Prágának máris szembe\1 kell nézni|1 az első gyakorlati kihívásokkal . 
+#162566186,doc#1065	Így elképzelhető , hogy szükség lesz változtatásokra , főképpen a teherfuvarozás esetében , bár a vezérigazgató azt is hozzátette : a sztrájk után kedvező helyzet alakult|1 ki\1 a fuvarozási piacon , ha ez folytatódik , akkor pótolni lehet a bevételkiesést . 
+#163170273,doc#1065	George Robertson Orbán Viktor miniszterelnökkel folytatott tárgyalása után elmondta : rendkívül fontos , hogy a NATO tagországai elegendő összeget fordítsanak a reformra , s megfelelő módon költsék|1 azt el\1 . 
+#164158045,doc#1066	A legfontosabb és jelenleg használt iratanyagot átvitte mindenki magával , az iskola igazgatói irodájában , a nevelői szobában , illetve egy tanteremben húzódunk|1 meg\1 . 
+#165005923,doc#1067	Azt kellene megvizsgálniuk , hogy - idézzük - mely állami vállalatok követtek|1 el\1 gazdasági bűncselekményeket az árak magasan tartásával . 
+#165628085,doc#1067	A szabályok szerint ilyen esetekben , amikor Magyarországon vett nemesfémet külföldön dolgoztatnak|1 fel\1 , csak a bérmunka értéke után kell vámot fizetni . 
+#167821756,doc#1069	Olyan szerencsétlenül furták|1 be\1 itt a lyukat , hogy a két tégla között lévő fugát is érintette . 
+#168495641,doc#1070	És a többi ötszázmillió ? - akiket nem öltek|1 meg\1 , de felakasztották magukat , mert nem bírták tovább az iszonyt . 
+#168955659,doc#1070	A kápolnásnyéki ház , ahol meglátta a napvilágot , már legalább százkilencvenkilenc éve nincs|1 meg\1 , mert amikor a kis Mihály egyéves volt , Nádasdy Ferenc , Vörösmarty szüleinek kenyéradó gazdája lebontatta az öreg házat és egy újat építtetett . 
+#169641323,doc#1071	Ha filmben kinyomnak egy szempárt , és élve temetnek|1 el\1 valakit , egy másiknak kitörik a lábát , szóval ezt még követhetik fokozatok ? 
+#173789236,doc#1072	Mindezt az egyesület elnökének , José Luis Nuneznek köszönheti , aki minden követ megmozgatott , hogy a katalánok kedvence ne hagyja|1  el\1 a piros-kékeket . 
+#174676708,doc#1072	1982 ) megállapítása : " A farmer legnagyobb nehézsége abból származik , hogy ... a fiatalok , kevés kivétellel , meg\1 akarnak szabadulni|1 a farmerélettől ... 
+#175537625,doc#1073	Alig van olyan napja az esztendőnek , hogy szimfonikus darabjainak egyike vagy másika , a Magyar Zsoltár vagy a Budavári Te Deum , ne csendülne|1 fel\1 a világ nagy hangversenytermeiben , világhírű előadók tolmácsolásában . 
+#177736902,doc#1074	Szó sincs róla továbbá , hogy Dayton halott lenne , hiszen Bosznia felosztása " botor és irreális " alternatíva , már csak azért is , mert az újabb ingatag határok évtizedekkel tolnák|1 ki\1 a békefenntartók jelenlétének szükségességét , és - tekintettel a várhatóan tovább éleződő vitára - az sem mellékes , hogy a képviselő szerint nem szabad összemosni az atlanti bővítés ratifikálását és a balkáni mandátum meghosszabbítását . 
+#180479293,doc#1076	Az áldozat , egy 19 éves őrmester a kórházba szállítás után halt|1 bele\1 sebeibe , két társa közül az egyik súlyos , a másik könynyebb sérüléseket szenvedett . 
+#180638324,doc#1076	A felvonulókkal rokonszenvező tömeg Belfastban , Londonderryben , Lisburnben és még vagy tucatnyi ulsteri településen az utcákra vonult , és a hatósági beavatkozás elleni tiltakozása kifejezéseként benzinbombákkal támadt a rendőrségre , számos utcát pedig égő barikádokkal torlaszolt|1 el\1 . 
+#181686670,doc#1077	Az egészségbiztosító 171 millió forinthoz jutott|1 hozzá\1 , a 150 millió forint előlegre 21 millió forint kamatot fizettek , 27 millió forinttal kevesebbet a ténylegesen járó összegnél . 
+#182424575,doc#1078	A két miniszter és az MNB elnöke az infláció további mérséklése céljából tekintette|1 át\1 a jelenlegi és a várható gazdasági-pénzügyi folyamatokat , és megállapodtak az infláció csökkentése érdekében szükséges főbb teendőkben . 
+#184087191,doc#1079	A munkaügyi tanács esetében hiányzik az a lehetőség , hogy a gazdasági peremfeltételekben előzetes megállapodások szülessenek , ezek nélkül pedig aligha képzelhető|1 el\1 valódi érdekegyeztetés . 
+#184538721,doc#1079	Az eddig megnyitott 15 fejezetből ideiglenesen nyolcat már lezártak , a magyar kormány a jövő héten küldi|1 el\1 Brüsszelbe a többi fejezetre vonatkozó ajánlatait . 
+#185018633,doc#1080	Nyolc évvel a kitiltása után ismerte|1 fel\1 a rulettasztal krupiéja azt a " high-tech bankrobbantót " is , akit nagyszőlősi születésű , 58 éves magyar állampolgárként emleget az olasz sajtó . 
+#185248284,doc#1080	Mint megtudtuk , a kabinet felszólította a Fővárosi Közgyűlést és a XIV. Kerületi Önkormányzatot , július 31-ig tegyék|1 meg\1 a szükséges intézkedéseket és jognyilatkozatokat annak érdekében , hogy 2000. július 1-jétől elkezdődhessen az építkezés . 
+#186422496,doc#1081	Jan Ruml , a Szabadság Unió elnöke csodálkozva tette|1 fel\1 a kérdést : miként értelmezendők Kavan utalásai , miszerint a tervezet bizonyos megértésre talált Belgrádban . 
+#186995716,doc#1081	Azóta a 78 éves elnök állapota valamelyest stabilizálódott , ám a válság nem múlt|1 el\1 . 
+#188436925,doc#1082	Dúl tehát a nyilatkozatháború népszavazásügyben , a pro és kontra érvek rendszerint néppárti ( ÖVP ) és szabadságpárti ( FPÖ ) körökből röppennek|1 fel\1 . 
+#188845435,doc#1083	Két-három óra alvás után felriadok , hogy még ez sincs meg , még azt is el\1 kell intézni|1 . 
+#189786135,doc#1083	A gyanúsított beismerte , hogy megszegte a fegyverkezelés szabályait és így ölte|1 meg\1 katonatársát . 
+#190507523,doc#1084	Attila , " Isten ostora " óta ( és előtt ) nem először öltek|1 le\1 száz- és százezreket , milliókat háborúkban , forradalmakban , vallási fanatizmusból , rézszínű bőrük , örmény voltuk , törzsi hovatartozásuk , politikai felfogásuk miatt . 
+#190929274,doc#1084	Ki az , aki az utóbbi hónapok eseményeit követni képes , s többet jegyez|1 meg\1 belőlük , mint a végzetesen egymásba bogozódott vezérszavakat , hogy Schwajda és Demján , Siklós és Vadász , gödör és HÉV , az ő Nemzetijük meg a mi Nemzetink ? 
+#192107873,doc#1085	Meggyőzték , hogy vegyen|1 meg\1 egy 14 milliós követelést alig ötmillióért , aminek a fedezete egy 30-40 milliót érő Balaton-parti ingatlan . 
+#193262981,doc#1086	Ma délelőtt a vár romjait egy tűzérségi hadnagy mutatta|1 meg\1 nekünk . 
+#193336916,doc#1086	Nem vártam|1 meg\1 őket . 
+#197657593,doc#1089	Nehéz lenne meghatározni , hány és milyen örökletes , biokémiai vagy akár szociális összetevő játszik|1 közre\1 például az autizmus vagy a hiperaktivitás létrejöttében . 
+#199540067,doc#1090	A mai vakcinákkal beoltottaknál gyakorlatilag nem fordul|1 elő\1 a betegség . 
+#200263788,doc#1091	Az előterjesztés alapján július 1-jétől megszűnne a részfizetési számlázási rendszer , amely szerint eddig a fogyasztó a hó elején megelőlegezte a szolgáltatónak a várható fogyasztás költségét , majd utólag számolt|1 el\1 . 
+#200286939,doc#1091	A külföldön szerzett orvosi diplomát nem ismerik|1 el\1 automatikusan , a Magyarországra költöző kollégák csak hosszas procedúra után kaphatnak orvosi számot és pecsétet . 
+#200394611,doc#1091	A képviselő-testület nem nyugodott|1 bele\1 az elmarasztaló határozatba , s fellebbezett . 
+#201577344,doc#1092	A parancsnokok az állásukkal , de legalábbis a beosztásukkal játszanak , ha nem ellenőrzik beosztottjaikat , és ha nem veszik|1 észre\1 beosztottjaikon a korrupcióra utaló jeleket . 
+#201669123,doc#1092	Borbíró Jánosnét népes család veszi|1 körül\1 Hercegkúton . 
+#202311628,doc#1092	Javult viszont az év első felében a bankok jövedelmezősége : teljes nyereségük 54 százalékkal haladta|1 meg\1 a szektor egy évvel korábbi eredményét , és átlépte a 83 milliárd forintot . 
+#202599777,doc#1092	1993-ig Ocnele Mari bányái látták|1 el\1 kősóval a közeli govorai szódagyárat és a Ramnicu Valcea-i vegyipari kombinátot . 
+#203087457,doc#1093	A 2002-re meghatározott januári nyugdíjemelés most 9 , 7 százalék , amit ötszázalékos infláció és 8 , 4 százalékos nettó keresetemelkedés alapján határoztak|1 meg\1 , hozzáadva a három- százalékos többletet . 
+#203994820,doc#1094	Se Ryszard Winiarski " hoszszú " művéről ( 0-100 % feketeség ) , amely mellett végig\1 kell sétálni|1 . 
+#207238926,doc#1096	Kassai Franciska évek óta készült erre az új összeállításra , keresgélte hozzá a verseket : az érdeklődők többek között Baranyi Ferenc , Simor András , Ladányi Mihály , Simon Lajos és Millei Ilona költeményeit hallgathatják|1 meg\1 tőle zenés formában . 
+#207730246,doc#1097	Az első játszma inkább Kramnyikot dicséri , ő lepte|1 meg\1 a világbajnokot . 
+#209576618,doc#1098	A párt új szabályzata szerint a jelöltek közül a toryk parlamenti csoportja választja|1 majd ki\1 azt a két személyt , akit William Hague utódjául a tagság elé terjesztenek szavazásra a nyár folyamán . 
+#210974765,doc#1099	Mármint , hogy néhány esztendeje még klasszisoktól kaptunk|1 ki\1 4-0-ra , most pedig az európai középmezőnytől ? 
+#211137072,doc#1099	A váltók tisztítását már péntek délután megkezdték - tudtuk|1 meg\1 a MÁV-inform ügyeletesétől . 
+#211748080,doc#1099	A külügyminiszterre 115 szavazó közül 113-an voksoltak igennel , egy honatya nemmel szavazott , egy pedig Keleti György nevét írta|1 föl\1 szavazólapjára . 
+#212728951,doc#1100	- A felügyelet jelenleg is több vizsgálatot folytat és sok brókercéget fel\1 is függesztett|1 . 
+#212780761,doc#1100	Ma dől|1 el\1 az is , hogy mekkora gyermekkedvezményt lehet érvényesíteni jövőre - mint ismert , a kormány két indítványt tett a kedvezmény mértékére . 
+#213443675,doc#1101	Egy másik , ma már anekdotaként emlegetett történet szerint az 1947. évi díjátadáson az akkor már élemedett korú V. Gusztáv király saját szárnysegédjét tüntette|1 ki\1 az irodalmi Nobel-díjjal André Gide francia költő helyett , akinek a díjat odaítélték . 
+#214869701,doc#1102	Amennyiben az új koncessziós pályázatban csak az 1800-ast hirdetnék|1 meg\1 , és azt megnyerné egy újabb mobilszolgáltató , az ügyfelek feltehetően a régiekhez mennének , hiszen azoknál is igénybe vehetik az új szolgáltatást úgy , hogy közben a hagyományos 900-as is megmaradna . 
+#215513667,doc#1102	Alulmaradtak mindazok , akik amellett kardoskodtak , hogy a szervezet őrizze|1 meg\1 szuverenitását , avagy legyen a NATO európai pillére . 
+#215890299,doc#1102	Válaszul a vádlott a tenyere élével megütötte J.-nét , aki a földre zuhant , de nem vesztette|1 el\1 az eszméletét . 
+#224819309,doc#1110	Ez rendszerint a nátha utolsó stádiumában fordul|1 elő\1 . 
+#227211876,doc#1112	A nagy múltú sörgyár korábban nemcsak Zemplént látta|1 el\1 termékeivel , hanem a nagymihályi sör eljutott csaknem valamennyi szomszédos országba . 
+#227760807,doc#1112	Erős , egészséges haja lesz , ha most vágatja|1 le\1 a hajszálak végét . 
+#229540606,doc#1117	Így történt|1 meg\1 , hogy a klubigazgató saját csapata ellen védett , méghozzá kitűnően . 
+#229561278,doc#1117	- Előbb a puskaagyakat kezdtem|1 el\1 faragni , díszíteni . 
+#229842338,doc#1117	Azért figyeltem|1 föl\1 rájuk , mert nem angolul , mint a legtöbb pacsirta , hanem a saját anyanyelvünkön mertek megszólalni , nem restellve ország-világ elott érthetetlen , ismeretlen nyelvüket . 
+#231127121,doc#1122	Ugyanis a gyermekek , különösképpen az emocionálisan érzékenyek nehezebben viselik|1 el\1 az erőszakot , mint a felnőttek . 
+#231603906,doc#1125	Szerzeteseinek azt a feladatot adta , hogy átfogó dokumentációt állítsanak|1 össze\1 mindazokból a kéziratokból , amelyek gregorián dallamokat tartalmaznak . 
+#235939841,doc#1156	De egyébként sem állapítható|1 meg\1 , hogy a szlovákul " nyakatekert " helységnevek gyakrabban szerepelnének magyar alakjukban , mint a magyar nyelvbe jobban illeszkedő szlovák nevűek . 
+#236736954,doc#1168	Az értelmezhetőség egyrészt abban nyilvánul|1 meg\1 , hogy megértjük a mondatot , másrészt - magasabb szinten - képesek vagyunk elfogadni a témát . 
+#237450005,doc#1183	A legfőbb probléma az , hogy a rendszeres és időrendi történelemtanítás nem fejeződik|1 be\1 a 8. évfolyamon , hanem áthúzódik a középiskolába . 
+#238270395,doc#1183	Az előzetes számítások szerint ez a módszer olcsóbb és környezetkímélőbb , mint a jelenleg használatos eljárás , amelyben feromonokat permeteznek|1 szét\1 a növények közelében , hogy odacsalogassák a méheket . 
+#238307688,doc#1183	- Attól tartok , hogy meg\1 akarod oldatni|1 velem . 
+#238780919,doc#1183	Vagyonát - nehogy Dőry Mária kezére jusson - elkeseredett nagyvonalúsággal szórja|1 szét\1 nemes célokra , majd hamarosan halálhíre érkezik . 
+#239147192,doc#1183	1949 szeptembere és 1960 vége között közel két és fél millió menekült hagyta|1 el\1 az NDK-t , s a legtöbben Berlinen keresztül . 
+#239307082,doc#1183	A sejtek be\1 tudták építeni|1 a fehérjékbe a rezet , és szintetizálni tudták a vasporfirint , a hemmolekulát . 
+#239414527,doc#1183	A korsók , kancsók , tálak összefoglaló nevüket a készítési eljárásról kapták : égetés előtt a felületükre többnyire geometrikus mintákat karcoltak , amelyeket különféle színű mázakkal töltöttek|1 ki\1 . 
+#240731399,doc#1183	Milyen napjaink alföldi földművelésének helyzete ebből a szempontból , s hogyan jutott|1 el\1 mai állapotáig ? 
+#242313484,doc#1184	Képesek vagyunk erőt , fáradságot nem kímélve életet menteni , mégis mennyien éheznek vagy gyilkolják|1 le\1 egymást a Földön . 
+#242811553,doc#1184	A világról alkotott tudatképünkben három alapveto tényezot különböztethetünk|1 meg\1 : 
+#246454343,doc#1187	Ha szólok , a mai ember jaját , búját , küzdelmét vagy haragját mondom|1 ki\1 mindenképpen . 
+#246943182,doc#1187	Ezen eseteken kívül az állam korlátokat nem állíthat|1 fel\1 . 
+#249759103,doc#1189	Az emberek rajzokkal bajlódnak és közben nem ismerik|1 fel\1 , hogy néha például egyszerű körkérdéssel is rátalálhatnának a javításra szoruló mozzanatra . 
+#250966134,doc#1190	Csurgóra költözött , s itt élte|1 le\1 éltének hátralevő 22 esztendejét . 
+#252040246,doc#1190	1848-ig nem ment|1 azután végbe\1 újabb kettőződés , a népesség csak mintegy két s fél millió főre emelkedett . 
+#252389541,doc#1191	A fenti esetekben a szituáció nem is engedi|1 meg\1 a megy ige használatát a jön helyett . 
+#253811208,doc#1191	Mindössze egy nyugdíjas tanító említette|1 meg\1 a tájszó mellett a gyümölcsök köznyelvi megnevezését : besztercei szilva , egres . 
+#255520201,doc#1193	A természettudomány legfeljebb arra képes , hogy megmutassa , hogy némely gyermek több sikerrel fog járni egyik pályán , mint a másikon , megjósolja pl. , hogy a nagyon ügyes fiúból jó zsebmetsző válhatok , - de arra a kérdésre , hogy biztassuk -e őt , vagy tartsuk|1 vissza\1 természetes ösztönétől , nem felel nekünk . 
+#257576903,doc#1194	Nem dobtam|1 el\1 , mert a gyerekekhez nagyon ragaszkodom . 
+#257737633,doc#1194	A román erőcsoportot részben megsemmisítettük részben pedig Tordán túlra vetettük|1 vissza\1 és jelentős zsákmányra tettünk szert . 
+#263924425,doc#1292	Járása nyomával írja|1 föl\1 költészetét . 
+#265463723,doc#1344	Jobb napokon néha levetkőzik és megkéri a bámészkodókat , keressék|1 meg\1 például a térdét . 
+#267711581,doc#1396	Pep Velemirt nyugtalansággal tölti|1 el\1 a fejlemény . 
+#269056402,doc#1414	Tíz év kegyelemnek számít ; egy emelettel lejjebb éppen Szombathelyinek kegyelmeztek|1 meg\1 ilyen módon . 
+#269198073,doc#1415	Elmondta , hogy takarítónőjét feljelentették , mert az ő megbízásából az elmúlt év során 6 orkánkabátot adott|1 el\1 . 
+#273431105,doc#1461	- Gyere|1 be\1 fiam ! - kérleltem . 
+#274728171,doc#1473	Nem egyezik|1 bele\1 . 
+#274760886,doc#1474	Az alacsonyabb lépcsőfokon álló kispolgárságot a nagy- és középpolgárságtól viszont nemcsak a vagyoni különbség választja|1 el\1 , hanem az ezzel összefüggő szellemi , kulturális kisigényűség is . 
+#276216333,doc#1496	Iratkozz|1 be\1 a főiskolára . 
+#276221163,doc#1496	Az a világoskék ruha volt rajtam , reszkettem , hogy mért megyek|1 le\1 . 
+#277168058,doc#1506	És mondanánk le Pergamoszról , Pároszról , Déloszról , Didümáról , Naxoszról és a Dardanellákról , veszítenők|1 el\1 Phrügiát , Phaiákiát , Trákiát , Dákiát , Thesszáliát , Korkürát , Krétát , a Kükládokat , a lasztrügónokat , a legjobb katonaanyagunkat , a trogloditák cseppkőbarlangjait és a jósdákkal az idegenforgalmat ; sirassák hajóácsaink a boiókiai erdőségeket ?! 
+#277927177,doc#1516	Ne hagyj|1 el\1 , ha jőnek szilaj óráim ; adj mély alvást , kegyelmed juházza álmomat ; teremts bennem türelmet , míg dolgomat teszem , s gondos tudást , jövőben művem mint leszen . 
+#278985350,doc#1531	Így vitték|1 őt a főtérről , ahol addig állt , át\1 a püspöki kertbe . 
+#280541085,doc#1548	Ez a fiatal író a költészet legmagasabb régióihoz elég erővel a legmélyebb poklot járta|1 meg\1 . 
+#280568242,doc#1548	Követség , amerikai átutazás még nincs|1 meg\1 . 
+#281920971,doc#1559	- Az atyaságos Isten ! - fohászkodott nagyot , s a legénynek azt se mondta , félkalap , csak rohant|1 velük vissza\1 az irodába . 
+#282723013,doc#1575	A szövegéből kiderült , hogy a mamája révén frissebb értesülései vannak , mint nekem : Bözsi szerint Helyapátit Brassóban az unokahúga családja már el\1 is temette|1 . 
+#284818815,doc#1610	Lehet , hogy látták őket a népek , akik között bolyongtak , s talán meg\1 is szólták|1 , de ki törődik ilyenkor a kéretlen bírákkal . 
+#284957679,doc#1610	Közben mégis , mintha a jobbik énje kerekedne|1 felül\1 , mogorván és félhangosan megállapítja , hogy nincs ez jól , s mintegy szédülten visszahúzódik az ablaktól . 
+#285598356,doc#1619	Hozzá\1 kellene tennem|1 : költő , ezt tartotta a legfontosabbnak , elbeszélő , esszéíró , szatirikus , színházi ember , közíró , sarkantyú az állam véknyában , republikánus , ironikus , sportember , mindennapi versenyző és bajnok , hűséges és hűtlen férj , szerető és apa , egyre inkább apa és nagyapa is , megbízható barát , bökdösős , antiszentimentalista szentimentális , kisfiú és férfi a talpán , aki csak azért is mindig megmondja , akire sokan megharagszanak , bosszúból semmibe veszik , elfelejtik , úgy tesznek , mintha megunták volna , pedig csíp , amit mondott , abban van valami 
+#287015689,doc#1664	Ebben a könyvben a sorok felidézte térbe bele\1 van festve|1 az elmúlt három és fél ezer év civilizáció- és háború-történetének vizionált képe , persze a maga módján . 
+#287812595,doc#1681	A királyváltozást hiába használták|1 fel\1 a régi függetlenség visszaszerzésére , hogy megint elszakadjanak a perzsa birodalomtól - az új fejedelem uralma első győzelmét rajtuk aratta . 
+#288058234,doc#1687	Szóval , kérünk szépen , Mindennapi Mindenhatóságunk , gyógyítsd|1 meg\1 valahogy a világot ; de vigyázz , ne menj közel , különben még te is ágynakesel , s akkor mi lesz velünk , ha ( megint ) bekopognak a farkasok !?... 
+#288780537,doc#1705	- Nem érünk|1 oda\1 idejében ! 
+#289488448,doc#1718	Tudta , hogy a szőkebajuszos mellette áll , de nem nézett|1 rá\1 . 
+#290550756,doc#1738	Hívja|1 már ki\1 ezt a Szarvast a kamrából . 
+#292806940,doc#1772	Tökölre , a fiatalkorúak börtönébe a szolgálati busszal jártam|1 ki\1 reggelenként . 
+#293436332,doc#1780	Akadhatnak olyanok , akik ezt " kispolgári életformának " minősítik , Kádár , ha meghallotta volna , aligha sértődik|1 meg\1 ettől a vélekedéstől . 
+#293687251,doc#1784	Befordulunk a Mucsonyi útra , a szeméttelep bejáratánál egy őr tartóztat|1 fel\1 minket , ő a már jól ismert Borsodi Hulladékgazdálkodási Kft. alkalmazottja . 
+#293778812,doc#1787	Jöjjön|1 be\1 holnap , illetve ne is holnap , hanem a következő munkanapon , hétfőn ! 
+#295329499,doc#1803	Azt , hogy Lendvay Ferenc ezt tán meg\1 tudja csinálni|1 , találkánkon elejtett megjegyzéséből láttam . 
+#296825604,doc#1811	De nem bírtam|1 ki\1 , hogy Katóka néni esetleg aggodalomban van . 
+#299904560,doc#1847	De akkor lopd|1 el\1 azt a vekkerórát , tudod , amit a mellemre akaszthatnák . 
+#299925334,doc#1847	Ahogy az izmusokat föl\1 kell ismerni|1 , de a remekműveket - még ha egy-egy izmus szolgálatában állnak is - már nagyon nehéz , és egyedül fokról fokra lehetséges . 
+#299997555,doc#1848	Híven követi az eredeti kiélezett mondatkötését , amikor az egy sort egy gondolattal megtöltő szentencia-formát visszaadja , tartalmilag pontos , - talán egy árnyalattal racionálisabb az olasznál , amikor a " la vostra semenza " -t emberi erővel fordítja ; ötletesen valósítja|1 meg\1 az eredeti gondolat maximális lehetőségeit , amikor a " virtute " -t a haladás és a " conoscenza " -t a tudás fogalmával helyettesíti . 
+#300620262,doc#1871	Míg Gilgames prüszkölt , lubickolt , kígyó kúszott|1 oda\1 az élet füvéhez , s villámgyorsan elragadta . 
+#301383149,doc#1885	Hány fokozaton jut|1 át\1 az ember , ameddig túlér a szenvedésen ? - 
+#303062427,doc#1916	Józef azt mondta : " Nem tört|1 ki\1 éppen háború sehol , hát kitört az elmeháború " . 
+#303393477,doc#1918	Ha pedig még azután is marad feltámadatlan személy , fújjad|1 meg\1 harmadszor is , de csak akkor . 
+#306180356,doc#1943	Gondolja , hogy nem készültem|1 fel\1 , mint egy szabályos történész ? 
+#307445093,doc#1969	Nem egy álmom leírásakor elbizonytalanodom , vajon nem szolgáltatom|1 -e ki\1 túlzottan magamat . 
+#307634267,doc#1984	- Meghiszem - bólogatott|1 rá\1 az öreg kocsis . 
+#308608299,doc#2015	Csak a róla elnevezett díjjal , meg hogy a nekem antireklám szpíker ( az egyik ) a II. világháború előtti idők nagy alakjának teszi|1 meg\1 tájékozatlanságtól reszketegen . 
+#309381710,doc#2024	A magasba lendülő szív , a nagy átlényegülés maradandó jelenete , ellenőrizhető valósága ez a burok-hátrahagyás , ez a szeretettel írt vers , mely mindazonáltal nem szeretgeti|1 agyon\1 a volt-állapotokat . 
+#309705528,doc#2026	- Csak vedd|1 el\1 - mondja , Quinnt bátorítva , Michelle . 
+#310877266,doc#2035	Vagyis - poharát emelte -, beszéljük|1 meg\1 . 
+#312105511,doc#2049	És itt ez : " ... egy reggel rám köszönni / S elment időm kezd majd mint tavasz jön , vissza\1 jönni|1 / És minden szépre fordul s azt hajtom : álom , álom " . 
+#315575873,doc#2112	Nem firtatta hát , Csaba mi járatban van , végtére is nem zártkörű a foglalkozás - ez egy helybéli hagyományos szlovák népdal , fűzte|1 még hozzá\1 , de nem kötelező . 
+#315957560,doc#2115	Szóval ezt az asszonyt , aki aztán saját maga emlegette a Mucika becenéven magát , 89 április hatodikán kerestem|1 föl\1 . 
+#317215067,doc#2116	(5) Az engedélyeket a Bizottság döntését követően a lehető leghamarabb ki\1 kell bocsátani|1 . 
+#317870769,doc#2117	cikkével összhangban meghatározta ; mivel , ha az említett rendelet és e rendelet - amely lehetővé teszi , hogy az EKB szankciókat alkalmazzon - előírásai között ellentét merül|1 fel\1 , ennek a rendeletnek az előírásai lesznek az irányadók ; mivel az e rendeletben meghatározott kötelezettségek elmulasztása miatt kiszabott szankciók nem érintik a KBER lehetőségét a megfelelő végrehajtási rendelkezések meghozatalára az ügyfeleivel fennálló kapcsolataiban , beleértve az adatszolgáltató szervezet részleges vagy teljes kizárását a monetáris politikai műveletekből , a statisztikai adatszolgáltatási kötelezettségek súlyos megsértése esetén ; 
+#319658475,doc#2118	A Portugál Köztársaság nem adja|1 ki\1 azokat a személyeket , akiknek a kiadatását életfogytig tartó szabadságvesztéssel , illetve életfogytig tartó szabadságelvonással járó intézkedéssel büntetendő bűncselekmény miatt kérik . 
+#320507684,doc#2119	Az 1998/99. gazdasági évtől kezdődően végrehajtott intézkedések valamennyi eredményének beszerzése , az ágazatra vonatkozó részletesebb információk összegyűjtése és részletesebb elemző vizsgálatok elvégzése érdekében a 2003/04. gazdasági év végéig meg\1 kell hosszabbítani|1 a jelenleg hatályban lévő rendelkezések , különösen az olajok és zsírok piaca közös szervezésének létrehozásáról szóló , 1966. szeptember 22-i 136/66/EGK rendeletben [ 5 ] meghatározott rendelkezések érvényességét . 
+#323742272,doc#2121	Jelentős haladást értek|1 el\1 ezen kívül a KKV-k részére az ismeretek átadása terén vállalati kihelyezésekkel , és a KKV közösségek és kutatóintézetek közötti kapcsolat szorosabbra fűzésével . 
+#324567659,doc#2122	Ezekben az észrevételekben a Számvevőszék mindig hangsúlyozta , hogy az elszámolások megfelelő felülvizsgálata híján nem állapítható|1 meg\1 , hogy a Stabex-támogatások mikor és hogyan kerültek végleges felhasználásra . 
+#328526176,doc#2125	Az európai pénzügyi piac integrációjának irányát az 1999-2005 közötti időszakra vonatkozó , pénzügyi szolgáltatásokról szóló cselekvési terv ( Financial Services Action Plan 1999-2005 , FSAP ) szabta|1 meg\1 . 
+#332197852,doc#2128	A részletes gyakorlati szabályokat és eljárásokat a felek illetékes biztonsági hatóságai együttesen határozzák|1 meg\1 . 
+#334264544,doc#2129	(1) A tagállamok előírják , hogy a lakossági ügyféllel vagy a potenciális lakossági ügyféllel való , befektetési vagy kiegészítő szolgáltatások elvégzéséről szóló megállapodás megkötése előtt kellő időben , vagy a szolgáltatások elvégzése előtt - a korábbi időpontot kell figyelembe venni - a befektetési vállalkozás adja|1 át\1 az ügyfélnek vagy a potenciális ügyfélnek a következő tájékoztatást : 
+#336633972,doc#2131	A zöld könyv minden témakörében kérdéseket tesz|1 fel\1 és felkéri a résztvevőket , hogy válaszoljanak ezekre . 
+#336765179,doc#2131	A megfogalmazás pontossága , amit az 50. módosítás vet|1 fel\1 , és amit a Bizottság elfogadott , beillesztésre kerül a közös álláspontba . 
+#337671427,doc#2132	- A tagállamok nagy többsége úgy gondolja , hogy a fokozott közelítés segítene a verseny torzulásának és a csalásnak a csökkentésében , de fenntartásukat fejezték|1 ki\1 a közelítés szintjével és irányával kapcsolatban . 
+#340050411,doc#2134	- Az Elsőfokú Bíróság semmisítse|1 meg\1 az EK 81. cikk (1) bekezdése szerinti eljárás alapján a COMP/C.38 .281/B . 
+#342256702,doc#2136	ELNÖK : Igen , azt mondtam , hogy majd jelezni fogom , mikor fogytak|1 el\1 a kétpercesek . 
+#344171066,doc#2138	A fenti ténymegállapítás azért is fontos a számomra , mert az ellenzéki oldalon az fogalmazódott|1 meg\1 , hogy a magyar bíróságok helyzete romlott , sőt ennél súlyosabb kritikai megjegyzések is elhangzottak . 
+#344888415,doc#2138	A 2002-re előírt cél csak úgy érhető|1 el\1 , ha a gazdasági szektor legalább a K + F-ráfordítások felét kész finanszírozni . 
+#345247620,doc#2138	Azokat a javaslatokat támogatom , azok mellett szólok , amelyeket a kormánykoalíció oldaláról több képviselőtársunk nyújtott|1 be\1 . 
+#346603386,doc#2139	A törvényjavaslat szerint a jövőben támogatható a munkaügyi központ által felajánlott vagy elfogadott képzése annak a személynek , aki 25. életévét , felsőfokú végzettségű személy esetén a 30. életévét nem töltötte|1 be\1 , s a tanulói , hallgatói jogviszonya megszűnését követően munkanélküli-járadékra nem szerzett jogosultságot . 
+#347119122,doc#2140	Azt gondolom , ha valaki , akkor Simon József képviselő úr érti , hogy miről beszéltem , ezért is furcsa , hogy pont ő vetette|1 fel\1 ezt . 
+#347320513,doc#2140	Azt gondolom , az érvek között azt is el\1 lehet mondani|1 , hogy sokkal egyszerűbb és jobb , ha a hadkiegészítés megy a fiatalok után , és nem a fiatalokat kötelezzük arra , hogy amikor betöltik a 24. életévüket , vagy mielőtt betöltenék , azonnal jelentkezzenek . 
+#348441646,doc#2141	Egy nagy terjedelmű , 286 törvényszakaszt és 6 mellékletet felölelő törvényjavaslat vitáját kezdte|1 meg\1 az Országgyűlés . 
+#350003887,doc#2142	Ez fontos egyrészt abból a szempontból , hogy Magyarország NATO-tagként milyen feladatokat tud felvállalni , és azt hiszem , hogy a békefenntartás - mert kifejezetten csak békefenntartásról van szó ebben az esetben - a NATO-képességekhez csatlakozó magyar haderőnek egy nagyon fontos gyakorló , kiképző , tapasztalatszerző hely lehet , és különösen akkor , amikor Magyarország részben a közvetlen szomszédságában található a térségnek , másrészt pedig ebben a feladatvállalásban meg\1 tudja találni|1 azt a szerepét , amelyet szövetségesi feladataival , szövetségesi kötelezettségeivel felvállalt . 
+#350118397,doc#2142	Szeretném tehát felhívni a figyelmet arra , az a szándék , hogy továbbra is integránsan az európai felsőoktatás részei maradjunk és a bolognai nyilatkozatban megfogalmazott európai felsőoktatási térségnek aktív , elismert részesei legyünk , csak akkor következhet be , ha ezek a szándékok - még egyszer mondom - nemcsak nyilatkozatokban , hanem komoly , meghatározó mértékű támogatásban is részesülnek . 
+#352114500,doc#2143	E megállapodásnak megfelelően a napirendi ajánlást ezzel a változtatással terjesztem|1 elő\1 . 
+#352461831,doc#2143	Képviselő úr , javaslom , hogy tanulmányozza a kormány előterjesztéseit és megnyilatkozásait , és akkor rá\1 fog jönni|1 : itt az idő . 
+#352525686,doc#2143	Egyébként mi következetesen kitartunk a korábbi felfogásunk mellett ; változatlanul bíráljuk az 1999. évi XCII. törvényben szereplő megoldásokat , amely a regionális fejlesztési tanácsok esetében ezt a kormányzati túlsúlyt megteremtette , illetőleg eléggé problematikus viszonyt hozott|1 létre\1 az úgynevezett térségi fejlesztési tanácsok és a regionális fejlesztési tanácsok között . 
+#352679513,doc#2143	Másrészt - és ez nagyon szomorú tény -, hogy a csatlakozás előtti utolsó évben önök 66 milliárd forinttal rövidítik|1 meg\1 a mezőgazdasági termelőket . 
+#354331795,doc#2144	Azt hiszem , inkább arra a tényezőre érdemes még egy kicsit visszautalni , hogy az a parlamenti határozat módosításában szereplő klauzula , éppen mondhatjuk úgy is , fixszé és véglegessé teszi azt a koncepciót , hogy ezek a repülők 10 év után a földi kiszolgáló technikával együtt a tulajdonunkba kerülnek , tehát erre már előre kötelezettséget vállalunk , míg a korábbinál ez csak mint opció vetődött|1 fel\1 . 
+#356041736,doc#2146	Ne legyenek kételyeink , ilyen pénzügyi helyzetben meg\1 fogják tenni|1 az önkormányzatok , mint ahogy egyéb más vagyontárgyaik esetében is . 
+#356215785,doc#2146	Egy olyan országban , ahol a törvényesség uralkodik , ott egy parlament által elfogadott törvényt két miniszterelnök nem tud módosítani , hanem azt be\1 lehet hozni|1 a parlamentbe , és akkor a parlament adott esetben a korábban meghozott törvényét módosíthatja . 
+#356266524,doc#2146	De még egyszer : ha a pártok erre még nem állnak készen , egyszer talán vissza\1 fogunk térni|1 erre a dologra . 
+#356720570,doc#2146	Kiszámoltam , hogy az erre az évre biztosított pénzből a kárpótlásra jelentkezettek 56 százaléka , vagyis 65 280 ember kaphatná|1 meg\1 , ehhez képest van 10 ezer elintézett ügy , és néhány száz , akinek kifizették . 
+#357238744,doc#2146	( Az elnöki széket dr. Wekler Ferenc , az Országgyűlés alelnöke foglalja|1 el\1 . ) 
+#358798704,doc#2147	Ebben - partnerként hívom - dolgozzunk|1 együtt\1 , és semmiféle gond nem lesz ennek a felhasználásában . 
+#359352218,doc#2148	Az egyik ilyen pont , hogy az első és a második évfolyamos kisegítő iskolába vagy eltérő tantervű iskolába járó gyermekeknek a független vizsgálatát elvégezzük az idén tavasszal , és ennek eredményeként reményeink szerint a gyerekek egy része vissza\1 fog kerülni|1 a normál ellátásba . 
+#359406528,doc#2148	Minden bizonnyal ez az időhiány , az alapos áttanulmányozásra való időnek a hiánya okozhatta azt , hogy itt a Házban csak néhány olyan elemet emelt|1 ki\1 a legfőbb ügyész ebből az alkotmánybírósági határozatból , amely az ő szívének abban a pillanatban éppen kedves volt . 
+#359411513,doc#2148	Bár a fehér könyvben megfogalmazott célok azon államok közösségében fogalmazódtak|1 meg\1 , ahol a fajlagos személygépkocsi-ellátottság a telítettség közvetlen közelében van , és ahol az autópálya-hálózat sűrűsége háromszorosa a Magyarországinak , továbbá a vasúti áruszállítás már szinte marginalizálódott , európai uniós tagként ránk is vonatkoznak e célok és az azok megoldásaira tett intézkedések . 
+#359678327,doc#2148	Ha ön összetéveszti egy állampolgár letartóztatását a határátlépés megtagadásával történő beengedéssel , akkor azt gondolom , csak arra hívja|1 fel\1 a figyelmet , hogy mennyire felkészületlen ebben a témakörben . 
+#359725042,doc#2148	ELNÖK : Pósán Lászlónak adom|1 meg\1 a szót . 
+#362133852,doc#2150	Ezt azért tartom fontosnak megjegyezni , mert elnöki pályázatomban nem kevesebbet vállaltam , mint azt , hogy az MTI stratégiai irányváltást fog végrehajtani a 2002 decemberétől 2007 decemberéig tartó periódusban , hogy a menedzsment támogatásával a cégnél öt év alatt végrehajtom mindazokat a változtatásokat , amelyek ahhoz szükségesek , hogy az időszak végén egy , a piaci változásokra rugalmasan reagáló , megújult , erős MTI jöjjön|1 létre\1 . 
+#362644158,doc#2150	A szocialista kormány már bejelentette , hogy a 2005-ös költségvetésben 40 milliárd forintot különítettek|1 el\1 az elbocsátások fedezetére , ez azt feltételezi , hogy tízezrek leépítése várható a közszférában . 
+#365636143,doc#2152	Ugyanakkor nagy európai alapító országok most vannak olyan referendum előtt , amelyek sajnos nagyon nagy mértékben befolyásolják utána az együttműködés tartalmát , mélységét , még akkor is , ha a nizzai szerződés az Európai Unió számára biztos feltételeket teremt , de a jövője mindenféleképpen máshogy alakul akkor , ha egységes ratifikációs folyamatot zárunk|1 le\1 . 
+#366081822,doc#2152	A harmadik nagyon fontos elem volt a természet védelmének kérdése , és a szétválasztással , tehát a hatósági jognak , illetve az operatív tevékenységnek a szétválasztásával el\1 tudjuk érni|1 azt , hogy igazi nemzeti parkjaink legyenek , szolgáltató , szolgáló nemzeti parkjaink , amelyek őrzik , kutatják és nyilvánvalóan bemutatják azokat a természeti értékeket , amelyek védelmére , őrzésére feljogosultak . 
+#369969618,doc#2155	A gyermek nevelésében , gondolom , mindkét szülő részt vesz , s ehhez nem lehet magyarázat , hogy nagyon sok csonka család van , meg elválnak , meg nagyon sokan meg\1 is halnak|1 a szülők közül , tehát kialakul egy ilyen élethelyzet . 
+#371452547,doc#2156	Gondolja , hogy az emberek számára elfogadható , hogy a miniszterelnök és az oktatási és kulturális miniszter nem keresi|1 meg\1 a nagyszabású panama felelőseit ? 
+#371660984,doc#2156	Tehát egy létbizonytalanság alakult|1 ki\1 . 
+#372546234,doc#2156	De mindegy , mert nem ez a mostani vitának a tárgya , legfeljebb érdekes mellékzöngéje lehet ; hanem az , hogy van egy helyzet , az valóban a költségvetés rendkívüli mértékben elszaladó hiányával függ|1 össze\1 , és ezt a hiányt kell nekünk valamilyen módon kezelnünk . 
+#373623862,doc#2157	Ugyanakkor szeretném befejezni az előbb elkezdett gondolatomat is annyiban , hogy hosszabb távon egy olyan megállapodást , egy olyan együttműködést tartanánk célszerűnek , amelyik lehetővé tenné azt , hogy az irodalmi szervezetek közötti együttműködés erősödjön , és úgy , ahogy egyébként más művészeti ágakban létezik erős , egységes érdekképviselet , amelyik egy-egy ágazatot hatékonyan tud képviselni , ilyen típusú érdekképviselet és a kormány számára pedig tárgyalópartner jönne|1 létre\1 az irodalom területén is . 
+#385735865,doc#2166	Ezek a szempontok közrejátszottak -e az ő jegybanki kijelölésénél , mert azt tudjuk , hogy ön elmondotta a Hétben , hogy az szempont volt , hogy vele meg\1 lehetett beszélni|1 , hogy ő mondja azt a magyar népnek , hogy nem lesz forintleértékelés - közben önök már megállapodtak a forintleértékelésben . 
+#386333175,doc#2167	Kastélyokat lehet kapni fillérekért ; egy Videotont meg\1 lehetett szerezni|1 úgy , hogy nem tudjuk , mennyit fizetett érte a vevő - nem tudjuk , hogy ki a vevő ! 
+#387760942,doc#2168	A nemzeti közműsor-szolgáltatás függetlenségének biztosítására az Országgyűlés Nemzeti Közműsor-szolgáltató Közalapítványt hoz|1 létre\1 . 
+#388477562,doc#2168	Sajnos a pénzhiány miatt országosan csak 40 kiló műtrágyát szórnak|1 ki\1 a gazdák hektáronként , ami nagyon kevés . 
+#388498194,doc#2168	A felsőoktatással - mint a legmagasabb szintű szolgáltatással - szemben megrendelőként egyrészt a hallgatók , másrészt a felhasználók lépnek|1 föl\1 , elsősorban az ő érdekeiket kell képviselni a fejlesztés folyamán . 
+#389339450,doc#2169	Jelentős előrelépésnek tekinthetjük akkor azt , hogy a parlamenti viták nélkül , automatikusan történhet|1 meg\1 a nyugdíjak emelése ; ezt csak üdvözölhetjük , ha a végrehajtás konkrét szabályaiban vannak és lesznek is még viták a következőkben . 
+#390025186,doc#2169	Újra ugyanezek a problémák kerülnének|1 elő\1 egy hónap múlva egy módosított törvényjavaslat esetében . 
+#390241063,doc#2169	Csak meg\1 kellene változtatni|1 egy-két jogszabályt , és máris volna rá lehetőség . 
+#390642213,doc#2170	A szigorú óvintézkedésekre természetesen szükség volt , hiszen a korai Árpád-korban a házak többnyire nádból , fából épültek , és ezeket a gyúlékony tetővel ellátott épületeket különböző gazdasági épületek - karámok , ólak - vették|1 körül\1 . 
+#391321422,doc#2170	Ha ezek az eszközök olyanok , hogy különböző kétharmados törvényeket vagy egyéb törvényeket kell hozzá módosítani és ezért a parlament elé kerülnek ezek az ügyek , akkor itt , a parlamentben meg\1 kell őket vitatni|1 . 
+#393182547,doc#2171	Ugyanakkor nem zárnánk|1 ki\1 , hogy amennyiben az önkormányzatok nem tartanak igényt ezekre az ingatlanokra , gondolunk itt elsősorban a kisebb sportcélú és kifejezetten sportcélú repülőterekre , ez esetben a sportszervezetek kaphassák tulajdonba e repülőtereket . 
+#398225585,doc#2175	Azt kell mondani , hogy az alumíniumipar ugyanúgy fog tönkremenni , mint ahogy a cementipar tönkrement Magyarországon , és bizony itt a kormányzat felelősségét nagyon fel\1 kell vetni|1 . 
+#399947101,doc#2176	Az államtitkár úr szerint minden nagyon szép , mindennel meg\1 van elégedve|1 , a külföldiek veregetik a vállunkat . 
+#402664740,doc#2178	Ahogy az előbb elhangzott Babák Mihály úr szájából , a költségvetési bizottság vitatkozott a kérdésről , és az előterjesztést nem támogató szocialista és szabaddemokrata képviselők két különböző álláspontot foglaltak|1 el\1 , de egyikük sem támogatta az előterjesztést , és nem tartja általános vitára alkalmasnak . 
+#404184211,doc#2179	Sőt , ma személyes példamutatással Pokorni Zoltán miniszter úrnak átadtam egy multimédiás CD-lemezt , amely a kábítószerekről szól - nemrég jelent|1 meg\1 -, hogy tanulmányozza . 
+#405133051,doc#2179	Megnyugtató , hogy társadalmi tanulmányok szerint a tervezett törvény lakossági támogatottsága eléri a 80-90 százalékot , és egyetlenegy olyan eleme sincs , amely 50 százalékos mértéket meghaladó ellenszenvet váltana|1 ki\1 . 
+#406106825,doc#2180	A jelenleg hatályos törvényben meg\1 van különböztetve|1 az a helyzet , amikor a beteg még él - erre vonatkozik a felhatalmazás -, és az a helyzet , amikor már meghalt . 
+#406890188,doc#2180	Ebben a szoftverfelhasználás szabálya változik|1 meg\1 . 
+#407311391,doc#2181	Mi nagyon bízunk abban , hogy a törvény elfogadását követően nagyon gyorsan el\1 fognak készülni|1 azok a regionális fejlesztési programok , amelyek magukban foglalják a települési fejlesztési programok , a megyei fejlesztési programok és a térségi fejlesztési programok összességét is , és ezeknek a finanszírozása fog majd eldőlni a regionális fejlesztési tanácsok ülésein . 
+#407432412,doc#2181	Ez nem felel|1 meg\1 a tényeknek ! 
+#407801056,doc#2181	Én nem tudom , milyen adatokat kellene még hozni ahhoz , hogy eléggé meggyőzőek legyenek legalább abból a szempontból , hogy kérdésessé tegyem , hogy valóban ilyen mértékben kell -e haladni a kedvezmények mértékének emelésében , valóban nem számít , hogy kik esnek|1 ki\1 ezekből a kedvezményekből . 
+#411128113,doc#2184	Ma , amikor 2008-at írunk és immár 63 éve annak , hogy megszűntek az európai borzalmak és befejeződött a II. világháború , vajon elégedettek lehetünk -e , és őszinte szívvel kijelenhetjük , hogy szeretteink , hozzátartozóink olyan ügyért harcoltak és vesztek|1 oda\1 , aminek következtében , nekünk a 21.század nemzedékének sokkal jobb sorsunk lett . 
+#411602465,doc#2184	51. perc A hazaiaknál Krohmer marad a földön és hordágyon viszik|1 le\1 . 
+#412892369,doc#2185	Ezzel együtt a " város és vidéke " társulások feladatait kell újragondolni és meg\1 kell erősíteni|1 küldetésüket a kistérségek közművelődésében . 
+#413400100,doc#2185	" Úgy vélem , hogy most többen mennek|1 el\1 szavazni , mert már volt itt is valamiféle kampány . 
+#413506461,doc#2185	Ennél fogva ma is úgy ítélem|1 meg\1 , jól szavaztunk . 
+#414801259,doc#2186	Mint fogalmazott , nem engedi|1 meg\1 , hogy az MKP beleszóljon a rádió perszonális politikájába . 
+#417999382,doc#2188	( Videóval és fotókkal frissítve ) Nyilvánosan , a sajtó képviselői előtt írták|1 alá\1 a Vecsés - Nagykürtös gázvezeték-szakasz újraépítéséről szóló államközi szerződést a szlovák és magyar miniszterelnök . 
+#420172478,doc#2190	A legidősebb kérelmező egy 104 éves bácsi volt , aki Munkácson született , és a történelem folyamán kétszer veszítette|1 el\1 korábban állampolgárságát , most New Yorkban él . 
+#420360647,doc#2190	Az MKP választási programja az alábbi oldalon érhető|1 el\1 : http://www.mkp.sk/cikkek/sajtokozlemenyek/2012/01/25/magyar-koalicio-partja-valasztasi-programja-2012 NEFMI , MTI/Felvidék .ma 
+#420560870,doc#2190	A kormányalakításnál a kormányt alakítani kívánó pártok ugye megegyeznek , hogy melyek azok a törvények , tervek , javaslatok , amiket meg\1 akarnak valósítani|1 . 
+#421322578,doc#2191	Egyre inkább úgy néz|1 ki\1 , hogy a zarándoklat néhány év múltával hagyománnyá válhat . 
+#426267879,doc#2203	A " mutassuk|1 meg\1 , hogy még élünk " konok elhatározásából . 
+#429916516,doc#2214	A pár decemberben jelentette|1 be\1 , hogy gyereke születik . 
+#430640876,doc#2217	A világ nagyjából egyharmad-egyharmad arányban osztható|1 fel\1 " szabad " , " részben szabad " , illetve " nem szabad " országokra . 
+#431220490,doc#2219	A boltokban , benzinkúton , orvosi rendelőben vagy a lottózóban mindenki a borzalom lehetséges okait találgatta - számol|1 be\1 a tudósítója . 
+#432014128,doc#2221	Mire a bíróság utasítja a vizsgálóbírót : kényszerítse|1 ki\1 a dokumentumok átadását . 
+#433758242,doc#2226	Hurley továbbra is tanácsadója marad az öt éve alapított cégnek , amelynek vezényletét a termékmenedzsmentért felelős alelnök , Salar Kamangar veszi|1 át\1 . 
+#433985368,doc#2227	A volt házelnök a kolontári katasztrófa kapcsán kijelentette , felül\1 kellene vizsgálni|1 a privatizációs szerződéseket - írta 
+#434715391,doc#2229	Választ is kapott : " Népünk a humánus jótékonyság eme megnyilvánulásait sohasem felejti|1 el\1 , és rendkívüli mértékben hálás az ön nagylelkű , segítőkész hozzájárulásáért . " 
+#434728612,doc#2229	" A gyilkosság okai egyelőre nem ismeretesek , vizsgáljuk a lehetséges indítékokat " - tette|1 hozzá\1 a miniszter . 
+#437246957,doc#2237	Végül a teljesen részeg gyereket felvitte a hálószobába , levetkőztette , és szexelt vele - számolt|1 be\1 a Független Hírügynökség . 
+#446369951,doc#2245	Az alapvetően sötét hangulatú Gotham City hőse sem úszta|1 meg\1 az " ellegosodást " . 
+#446757038,doc#2245	A módosított rögzítés előnye , mint látható , főleg a stabilitásban nyilvánul|1 meg\1 , hiszen a hőmérsékletek terén konzekvensen 1 °C -os különbségek látszanak . 
+#447140384,doc#2245	DirectX 10-es támogatás ide , vagy oda , ki\1 kell jelenteni|1 , hogy London végnapjai technikai és művészi értelemben is rondán festettek . 
+#447259018,doc#2245	A feladat persze ugyanaz - ki\1 kell rakni|1 egy színűre az oldalakat . [ hirdetes ] Mindehhez azonban nincsenek a kockába beépítve mozgó alkatrészek , az egész elektronikus . 
+#447282146,doc#2245	Itt figyelnünk kell a feliratokra is , ugyanis alaposan el\1 lehet tévedni|1 itt is . 
+#447913824,doc#2245	A még nem teljesen kiforrott Natal számára a Microsoft brutális marketinghadjárat keltette hátszelet kíván biztosítani , amit az elmúlt hetekben napvilágot látott ellentmondásos információkkal kezdett|1 el\1 . 
+#448288840,doc#2245	Azt már tudjuk , hogy Európában már csak jövőre jelenik|1 meg\1 , azt is milyen nóták lesznek benne . 
+#451609958,doc#2245	" Bonyolult ez , hiszen néha a kontrollert például csak le\1 szeretnénk tenni|1 , de a játékban ez akár úgy is jelentkezhet , hogy az általunk irányított repülőt a föld felé irányítjuk . 
+#452752347,doc#2245	Elsőként a Shacknews emberei szellőztették|1 meg\1 a hírt , ami szerint a Hellgate : London névre keresztelt akció-RPG játék multiplayer módja havidíjas szolgáltatás keretében lenne elérhető . 
+#453347895,doc#2245	S bár a FIFÁnak azóta voltak igen dicséretes próbálkozásai , nemsokára el\1 fogjuk érni|1 azt , hogy PC-n már csak a legelvakultabb FIFA fanatikusok és a végtelenül hűségesek ragaszkodnak majd egykori kedvenc sorozatukhoz . 
+#454354517,doc#2245	A jelek szerint tehát nem jött|1 be\1 annyira a kis MMORPG , reméljük jövőbeni projektjeik azért jobban tarolnak majd a piacon . 
+#454439756,doc#2245	Az oldalt itt találjátok|1 meg\1 ! 
+#454614599,doc#2245	A dolog furcsa - főleg , hogy eddig semmi konkrétum hivatalosan nem hangzott|1 el\1 az üggyel kapcsolatban . 
+#455223242,doc#2246	A GPS vevőt a Wisepilot programmal használhatjuk még , mert úgy tűnik , hogy az offboard navigációs megoldások közül eme , NAVTEQ térképeket használó megoldás mellett tette|1 le\1 az LG a voksát . 
+#456071006,doc#2246	De a Google Apps csak online érhető|1 el\1 és kevés alkalmazást tartalmaz , így akinek egy teljes irodai csomagra van szüksége , annak ott az ingyenes OpenOffice . 
+#456920587,doc#2247	Került|1 bele\1 microSD ( 1 GB-os kártya jár hozzá ) , 2 megapixeles kamera , Bluetooth , zenelejátszó , rádió , de még 3,5 mm-es jack is . 
+#457467148,doc#2247	Az ára 420 dollár lesz az USA boltjaiban április 7-én , ez 82.600 ,- forintnak felel|1 meg\1 átszámítva . 
+#458002439,doc#2247	Tárolás során -40 és +85 Celsius , működés közben pedig -20 és +55 Celsius fok közötti hőmérsékletet visel|1 el\1 a vevő , 5-95 százalékos páratartalom mellett . 
+#459696199,doc#2247	Üzleti telefon mivolta ellenére a gyártó igyekezett hangsúlyt fektetni a multimédiás alkalmazásokra , ez több-kevesebb sikerrel meg\1 is valósult|1 . 
+#460881745,doc#2247	Ezután következett maga a szétszerelés , amelyet az itt látható képsorozaton követhetünk|1 végig\1 . 
+#460976910,doc#2247	Innen viszont már nem reagált semmire és egy akksis reset oldotta|1 meg\1 a dolgot ( prototípushoz képest ez nem rossz ) . 
+#461318977,doc#2247	A teszt írásának idején bruttó 109.990 Ft-os árért kaparintható|1 meg\1 náluk . 
+#461493566,doc#2247	Szervezőfunkciók Ezúttal be\1 kell érnünk|1 három ébresztővel , de talán ennyi is elég az átlag elalvóknak . 
+#461603578,doc#2247	A Sony Ericsson arra törekszik , hogy élményszerűbbé tegye a sportot a rajongók számára , és a Sony Ericsson Openen új közönséghez juttassa|1 el\1 a játék izgalmát . 
+#462218201,doc#2248	2006 január 6-án jelent|1 meg\1 a 15.4 " -os Pro , ugyanezen év április 24-én pedig a 17 " -os nagytestvére . 
+#464055912,doc#2249	A felhasználó személyazonosságát bizonyító " Titkos kérdés " elem úgy manipulálható a korábban - a kérdés telepítése előtt - létrehozott azonosítóknál , hogy a támadó meg\1 tudja változtatni|1 a jelszót , és onnantól kezdve a legitim felhasználónak tudja kiadni magát az online tranzakciókban . 
+#464189074,doc#2249	Még nem döntöttük|1 el\1 , hogy csinálunk -e valami átmenetit a Longhorn előtt " . 
+#468776059,doc#2250	Ehhez kapcsolódik , hogy nemrégiben az ebay betiltotta az ilyen jellegű kereskedést az oldalon , ám a próbálkozás sikertelen volt , hiszen a virtuális portékákat továbbra is árulják , mindössze az eladók virágnyelven fogalmazzák|1 meg\1 hirdetéseiket . 
+#470339112,doc#2252	Nyomozást rendelt|1 el\1 egy alultápláltság miatt meghalt kisgyermek ügyében a rendőrség Szabolcs-Szatmár-Bereg megyében - közölte a térségi főkapitányság sajtószóvivő helyettese . 
+#470602834,doc#2252	Hangsúlyozta , hogy a cég gazdasági helyzete még soha nem volt ilyen stabil , egyebek mellett annak nyomán , hogy immár az Európai Újjáépítési és Fejlesztési Bank is a HospInvest résztulajdonosává vált - fűzte|1 hozzá\1 . 
+#471617316,doc#2253	A tanár ott követett|1 el\1 mulasztást az igazgatónő szerint , hogy " módszertani hiányosságát " enyhítendő nem kért segítséget a fegyelmezésben az iskola vezetésétől . 
+#471633433,doc#2253	A 18 év feletti lakosságot reprezentáló 645 megkérdezett 50 százaléka szerint Gyurcsánynak a kabinet , 43 százalékuk szerint az MSZP éléről kellene távoznia , míg mindkét kérdésre 42-42 százalék felelt nemmel ; a cikk megfogalmazása szerint az " új többség " táborát elsősorban a kormányfő elutasítása tartja|1 össze\1 , " vagyis paradox módon a Fidesz számára - taktikai okokból - nem volna kedvező a pártelnök-miniszterelnök gyors bukása " . 
+#471824580,doc#2253	Sólyom László köztársasági elnök hétfőn jelentette|1 be\1 , hogy a következő napokban találkozni fog a parlamenti pártok vezetőivel , mivel személyesen kíván tájékozódni a kialakult koalíciós válságról . 
+#473510996,doc#2255	Mindkét irányban jelentős várakozás alakult|1 ki\1 a röszkei határátkelőhelyen , a kilépő oldalon három , a belépőn három és félórás a sor - tájékoztatta szombat délelőtt a rendőrség az MTI-t . 
+#476218672,doc#2257	Tóth szerint Gaskóék ugyan nem sértenek törvényt legújabb technikájukkal , amíg pedig a jogi kereteken belül maradnak , legfeljebb erkölcsi alapon kérdőjelezhető|1 meg\1 akciójuk . 
+#476890164,doc#2257	Két kamion és egy kisbusz ütközött|1 össze\1 kedden hajnalban a 43-as főúton , Szeged és Deszk között - tájékoztatta a Csongrád Megyei Rendőr-főkapitányság sajtóreferense az MTI-t . 
+#479789196,doc#2259	A World Lung Foundation és az Amerikai Ráktársaság szerint az 500 milliárd dolláros gazdasági veszteség a közvetlen orvosi költségekből , a kieső termelésből és a környezeti károkból tevődik|1 össze\1 . 
+#479813090,doc#2259	Elképzelhető , hogy a jövőben nem veszítjük|1 el\1 a hét végére eső ünnepnapot 
+#480521304,doc#2260	A tárca Szilágyi Lajos elmondása szerint azzal a feltétellel fogadná|1 el\1 az ajánlatot , ha a település magára vállalja a szükséges engedélyek beszerzését . 
+#481408635,doc#2260	A század utolsó harmadának nagy újítása az impresszionizmus , amely alapjaiban változatta|1 meg\1 a látványról és a képről való gondolkodásunkat . 
+#481485556,doc#2260	A Gyurcsány-kormány eddigi intézkedései megmutatták , hogy a kormány nem a munkásokat , alkalmazottakat , hanem a pénzt és a ? Qkét képviseli - jelentette|1 ki\1 a Fidesz munkás- és alkalmazotti tagozatának elnöke . 
+#481597906,doc#2261	Kisbabájával sétáló anyukát támadott|1 meg\1 a cápa egy népszerű ausztráliai tengerparti fürdőhely térdig érő vizében - jelentette csütörtökön a Reuters hírügynökség . 
+#482027786,doc#2261	Levelezés útján ismerkedett|1 meg\1 Ady Endrével , akinek 1915-ben a felesége lett . 
+#485298617,doc#2263	Péntek reggel 9 óra előtt jelent|1 meg\1 egy férfi a főváros IV. kerületében , az Árpád úton egy bankban , majd fegyverrel megfenyegetve az alkalmazottakat , a bevételt követelte . 
+#486700812,doc#2264	Tavaly körülbelül 1500-1600 milliárd forint többletpénzt tett|1 be\1 a kormányzat a gazdaságba , ez a GDP öt-öt és fél százaléka . 
+#486842295,doc#2264	Miután ennyi pénzből a sok gyerekes család nem tudott kijönni , az elmúlt évtizedben tetemes díjhátralékot halmoztak|1 fel\1 , amely miatt elindították ellenük a kilakoltatási eljárást . 
+#489566945,doc#2266	" Természetesen az önkormányzat belső vizsgálata nem helyettesíti , hanem kiegészíti az ügyben megindult igazságszolgáltatási eljárást " - szögezte|1 le\1 a polgármester . 
+#490105185,doc#2267	Június 11-én Cser-Palkovics András és Rogán Antal fideszes országgyűlési képviselők egy öt elemből álló médiacsomagot nyújtottak|1 be\1 a parlamentnek , s ezek közül az intézményi változtatást célzó négy előterjesztésről az Országgyűlés már a jövő héten dönt . 
+#490732513,doc#2267	A hatóság elnöke példaként említette a hírközlési és médiabiztost , aki az előfizetők és felhasználók panaszait vizsgálja|1 majd ki\1 . 
+#493130055,doc#2269	Több mint fél tucat eszközt vetne|1 be\1 a kormány a gyógyszerköltségek lefaragására - írta a Népszabadság . 
+#493615507,doc#2269	Az országos demonstrációt szombaton rendezik|1 meg\1 a Hősök terén , majd a Parlament előtt . 
+#493729945,doc#2269	Ebben nyilvánul|1 meg\1 a bíróság szerint a vádlottak cselekedetének társadalmi veszélyessége . 
+#493731898,doc#2269	Az ország vezetésének figyelmét is fel\1 akarják hívni|1 rá ezzel , hogy vidéken szükség van ilyen szervezetre . 
+#495794989,doc#2271	A Nemzeti Adó- és Vámhivatal ( NAV ) nyomozói több mint 2200 liter illegális gázolajat foglaltak|1 le\1 egy román uszályon , amely a csepeli szabadkikötőben vesztegelt - közölte a NAV . 
+#497247857,doc#2272	Mint a prágai CTK hírügynökség jelentette , a Szabadság Uniót mégsem zárják|1 ki\1 a koalícióból , s a párt megtarthatja eddigi pozícióit a kabinetben . 
+#497520772,doc#2272	Teljesítményükre nem lehetnek büszkék , hiszen 14 találkozón 8 vereséget szedtek|1 össze\1 . 
+#499448478,doc#2280	A második Orbán-kormány felállása után másfél évig állt a munka az NFÜ-ben , mert egy olyan átszervezésbe kezdtek , amelyet nem gondoltak|1 végig\1 . 
+#501225836,doc#2280	Azt is bejelentették , hogy Szerbia az idén adóreformot hajt|1 végre\1 . 
+#502065697,doc#2280	Orbán Viktor a lejáró adósságokra hivatkozva vonna|1 ki\1 " ezermilliárdszámra " forrásokat , - legalábbis sajtóhírek szerint erre utalt a múlthéten elmondott kötcsei beszédében . 
+#502238265,doc#2280	A vezérigazgató abban látja a kártya legfőbb erényét , hogy az rugalmasan alkalmazkodik a vállalkozók igényeihez , mert nem íróasztalnál találták|1 ki\1 a működtetés feltételeit . 
+#502270016,doc#2280	A szakemberek arra is felhívták a figyelmet , hogy a miniszterelnök nem beszélt arról , hogy honnan , milyen területekről vonná|1 el\1 a pénzt a takarékszövetkezetek feltőkésítésére , a garanciavállalásokra , a hosszú futamidejű hitelek finanszírozására . 
+#503291597,doc#2280	Egyre érdekesebb a magyar gazdasági háborúzás egyik új frontján a helyzet , miután a parlament tegnap nem csak egy cukorbizottság felállításáról döntött , de a kormányzat máris intézkedett , és olcsó cukorral látott|1 el\1 két magyar üzletláncot . 
+#503296444,doc#2280	Így jön|1 össze\1 a 2012-es 144 milliárdos- és a 2013-as 190 milliárdos többlethiány . 
+#505230853,doc#2280	Ez pedig beláthatatlan lavinákat indíthat|1 el\1 a nemzetközi részvény- és valutaárfolyamokban , különösen , ha a befektetők ettől bizonytalannak látnák a hasonló méretű hiánnyal küzdő Egyesült Államok " hivatalosan " szintén érinthetetlennek tűnő , első osztályú adósosztályzatát . 
+#507226343,doc#2280	A vezérigazgató azt jósolta , hogy idén jelentősen át\1 fog alakulni|1 az iparág tájképe . 
+#509807122,doc#2283	Az orosz parlament alsóházába bejutó három másik párt és a kívül maradt ellenzéki pártok képviselői már az urnák lezárását követően tömeges visszaélésekről és a szavazatok elcsalásáról számoltak|1 be\1 . 
+#511479146,doc#2283	Egyben figyelmeztette a kormányzókat : ha nem számolják|1 fel\1 gyorsan a tiltakozásokat , akkor csapatokat küld az utcákra . 
+#511714073,doc#2283	Az ezzel kapcsolatos botrány az elmúlt hónap végén a berlini Canisius jezsuita elitgimnáziumban robbant|1 ki\1 , de nem sokkal később hasonló visszaélésekről érkezett hír más németországi katolikus iskolákból is . 
+#512439664,doc#2283	" Ez jelképes értékű " - jegyezte|1 meg\1 . 
+#512886282,doc#2283	A BBC keddi értesülése szerint a fiatal orosz nőt a brit belügyminisztérium hivatalosan ki\1 is tiltja|1 Nagy-Britanniából . 
+#513673079,doc#2283	Egy , a számítógépes játékokról folytatott vita hevében megölte édesanyját , majd öngyilkosságot követett|1 el\1 egy 15 éves dél-koreai fiú - közölte kedden a szöuli Jonhap hírügynökség . 
+#514161875,doc#2283	A nem kis mennyiség egy az ország vegyi programjából maradt|1 hátra\1 . 
+#514839878,doc#2283	A német kancellár ugyanakkor egy szombati tanácskozáson ismét a leghatározottabban állást foglalt amellett , hogy a magánbefektetőket is vonják|1 be\1 Görögország megsegítésébe . 
+#514884453,doc#2283	A 19 gyilkossággal és más súlyos bűncselekményekkel gyanúsított Bulgert a kaliforniai Santa Monicában , szerdán fogták|1 el\1 , miután az FBI a nyilvánossághoz fordult , és televízióban , valamint a Twitter mikroblog-oldalon közzétette a bűnöző élettársa , Catherine Elisabeth Greig fotóit . 
+#516426625,doc#2283	Szergej Prihogyko a Welt am Sonntagban megjelent írásában úgy vélte , a javaslat elfogadása esetén stratégiai partnerség jöhetne|1 létre\1 egy közös rakétavédelmi rendszer létrehozása céljából . 
+#517021758,doc#2283	A megállapodást számos bírálat érte , mert a tagállamok semmiféle konkrét célt sem határoztak|1 meg\1 . 
+#517515416,doc#2283	Coopert várhatólag február 10-én végzik|1 ki\1 . 
+#517826013,doc#2284	A European Festival Awards legtöbb díját idén is a közönség szavazatai alapján ítélik|1 oda\1 . 
+#519153274,doc#2284	Bármilyen bumfordi , bájos ember vagy egyéb alakzatot véstek ki , ezek felismerhető természeti formákra emlékeztetnek . 
+#519200111,doc#2284	McCarthy a fekete-fehér produkcióban az orvost , Miles Bennellt játszotta , aki rájön , hogy a kaliforniai kisvárosban , ahol él , földönkívüli testrablók veszik|1 át\1 az emberek helyét . 
+#522382252,doc#2286	A lakásban a legutóbbi felújításkor többféle festék maradt|1 meg\1 , melyeket keverve alkalmaztunk . 
+#523407202,doc#2287	" Távozásomnak semmi köze ehhez a bejelentéshez , ez csupán véletlen egybeesés " - jelentette|1 ki\1 McCabe . 
+#524310039,doc#2287	Ő a legjobb , és sosem felejtem|1 el\1 , hogy tavaly rommá vert a döntőben " - nyilatkozta Roger Federer , aki szerint egyetlen esélye van arra , hogy végre győzzön Párizsban . 
+#525114047,doc#2287	Míg tegnap kiderült , hogy a csapat külső segítség nélkül el\1 sem tudna indulni|1 , hiszen a Monacói Nagydíjig szinte reménytelen lenne saját erőből pótolni néhány kulcsfontosságú eszközt . 
+#526143049,doc#2287	A kiesés réméről egyelőre korai lenne vizionálni , de a nyugodt évzáró érdekében a Realnak szerda este mindenképpen be\1 kell gyűjtenie|1 a három pontot . 
+#526175455,doc#2287	A spanyol Tenerifét választotta , ahonnan 1995-ben szipkázta|1 el\1 a világ leghíresebb labdarúgócsapata , a Real Madrid . 
+#527096909,doc#2287	A vasárnap kiteljesedett sikerhez az kellett , hogy az MU nyerjen , s ezt meg\1 is tette|1 a Wigan ellen Cristiano Ronaldo és Ryan Giggs egy-egy góljával , majd jöhetett az önfeledt ünneplés - játékos , szurkoló részéről egyaránt . 
+#527606906,doc#2288	Jäger nem utasítja|1 el\1 a hagyományos teológiát , csupán vitát kezdeményez , mert úgy érzi , hogy a keleti világszemlélet - nem utolsósorban azért , mert sokkal közelebb áll az evolúciós történéshez és ezáltal a mai kor világnézetéhez - nagy kihívást fog jelenteni a keresztények számára ebben az évszázadban . 
+#528741659,doc#2288	Mármint itthon , mert Dávid Kornél 250 ezer dollárt dobált|1 össze\1 szezononként az NBA-ben , az észak-amerikai professzionális bajnokságban . 
+#530029109,doc#2288	Azt pedig már régen megtanulta , ebben a szakmában nem engedheti|1 meg\1 magának az ember , hogy megsértődjön . 
+#530934676,doc#2288	Rangját ebben a most megjelent Divat és öltözködés a szocializmusban alcímet viselő tanulmánygyűjteményben öregbíti , hogy alig háromszáz oldalon történészek , szociológusok , etnográfusok , iparművészek , valamint a könyvtáros , kritikus és tervező szakma képviselői igazítanak el bennünket a tudni nem érdemes tudományok útvesztőiben és a közhasznú , sőt közérdekű divatismeretek és érdekességek között . 
+#531767363,doc#2288	Fülöp teljes mértékben fogja , átérzi , ami körülötte történik , empátiája kiterjed mindenkire , s csak kivételes esetekben szól|1 bele\1 a nála , a vele lakók életébe . 
+#534250848,doc#2291	Történt , hogy az egyik szakaszon a versenyzők nem fejezhették|1 be\1 távot , ugyanis a sötétedés miatt fellépő kockázat miatt a még úton lévőket leterelték a pályáról , és lerövidítették a szakaszt . 
+#534445961,doc#2291	Szó szerint ezt mondta Sólyom László nem sokkal megválasztása után abban az interjúban , amelyben azt is közölte , hogy csak akkor szólal|1 meg\1 , amikor kötelességének érzi . 
+#536300071,doc#2291	Addig pedig elégedjünk|1 meg\1 annyival , hogy a kormány a helyén van és hogy a jelenlegi koalíció rendelkezik egyedül a siker esélyével . 
+#537217805,doc#2295	Szóban megígértek mindent , de mint az lenni szokott , nem tartották|1 be\1 . 
+#537379685,doc#2295	" Ha a munkaügyi központon keresztül történik a keresés , mindig a cégek képviselői jönnek hazánkba , az interjúk is Magyarországon zajlanak - így utazási költségek is csak belföldön merülnek|1 fel\1 " - jegyzi meg Tatosné Takács Andrea . 
+#540307085,doc#2300	Ó , lécci valakik cáfolják|1 meg\1 , hogy az átlagosnál komolyabb a márka és a modell értékvesztése , és , hogy bírja a strapát soktízezer kilométeren át . 
+#540736596,doc#2300	Nagyobb eséllyel halnak|1 meg\1 a túlsúlyos férfiak autóbalesetek során , mint az optimális súlyúak , ugyanakkor a túl soványak is halandóbbak - áll egy amerikai tanulmányban . 
+#542368447,doc#2301	Több pilóta és néző is az ő autói miatt halt|1 meg\1 . 
+#543172768,doc#2302	Sajnos sok időnk nem volt kipróbálni az autót , így csak az maradt|1 meg\1 belőle , hogy nagyon erős , eszméletlenül ráz ( a fotós kolleginában az is , hogy hátul nem lehet elférni ) . 
+#544109522,doc#2303	Felfrissül a Smart Fortwo Angliából kapott vetélytársat a Smart Szeretné megsokszorozni eladásait a Smart , a Mercedes szerint ehhez az kell , hogy új területekre törjön|1 be\1 a márka . 
+#547818495,doc#2317	Öt-tíz évente ajánlott a vastagbéltükrözés ötven felett A sokszor elkerülhetetlen , ám igen kellemetlen beavatkozás során a végbélen keresztül mintegy másfél méter hosszú műszercsövet vezetnek|1 be\1 , melynek tükörrendszere lehetővé teszi a bél nyálkahártyájának vizsgálatát , felvételek készítését a gyanús területekről . 
+#548648048,doc#2318	A kelkáposzta levelének ásvány- és vitamintartalmát zöld színe határozza|1 meg\1 . 
+#550598842,doc#2319	Ha ezt a szerelmi szimbólumot nyíllal döfjük|1 át\1 , akkor az pozitív beállítottságú harci kedvre utal . 
+#552043467,doc#2320	A bölcsődékben , a csecsemőotthonokban , az óvodákban , továbbá az alsó- , közép- és felsőfokú oktatás keretében , valamint az egészségügyi ágazatban az oktató , nevelő munkát végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti|1 meg\1 , amelyből legfeljebb tizenöt munkanapot a munkáltató oktató , nevelő , illetőleg az oktatással , neveléssel összefüggő munkára igénybe vehet . 
+#552654196,doc#2321	Saját nagyapjától nyerte|1 el\1 a címet , írja a Guinness Rekordok Könyvének legújabb kiadása . 
+#552912544,doc#2321	Hatszázalékos forgalomcsökkenést könyvelt|1 el\1 a harmadik negyedben az angol-francia Eurotunnel . 
+#552991987,doc#2321	Most az utóbbi lehetőség áll|1 fenn\1 , de azért ne vidd túlzásba . 
+#555768072,doc#2323	- Ez nagyon fontos momentum - mutatott|1 rá\1 Csorba Gábor , és azt fejtegette , hogy a " denevérlét " alapvető gondja a rejtőzködés , hiszen az állat testfelépítése , mozgási képességei miatt nappal könnyen a ragadozók prédájává válhat . 
+#556305114,doc#2323	Nemcsak a létfenntartást szolgáló belső ingerek , tehát a táplálkozás , hanem a legújabb kutatási eredmények szerint is a különböző illatok szintén a limbikus rendszerben fejtik|1 ki\1 hatásukat . 
+#559759803,doc#2326	Európában hat gyártó hívja|1 vissza\1 autóit tűzveszély , kormányozhatatlanság és rakoncátlan gázpedálok miatt . 
+#560848161,doc#2326	Darvas József népművelési miniszter a színházak fesztiválján bejelentette , hogy szövetkezeti színházat hoznak|1 létre\1 a közeljövőben . 
+#564061348,doc#2329	3. Nyolc hónappal ezelőtt határoztuk|1 el\1 , hogy ismét babát szeretnénk . 
+#566505546,doc#2330	Az sTMS-t használók több , mint 40 százaléka szabadult|1 meg\1 fájdalmától két órán belül , míg ez az arány a kontrollcsoportban csak 22 százalék volt . 
+#566647573,doc#2330	Mezőgazdasági szolgáltatások fejlesztéséhez kapott közel 280 millió forintos vissza\1 nem térítendő|1 támogatást a budapesti tőzsdén jegyzett FreeSoft leányvállalata a Humansoft Kft.
+#566961339,doc#2331	Figyelj|1 jobban oda\1 menstruációs ciklusodra ! 
+#567056162,doc#2331	A saját plüssmackó , a kedvenc játék , a pelus , amivel el\1 tud aludni|1 a baba , segít , hogy könnyebben alkalmazkodjon az új körülményekhez . 
+#567594860,doc#2331	Németországban azóta 6300 párat adtak|1 el\1 , és most 1200-at levettek a polcokról . 
+#568222945,doc#2331	Ezúttal Michaelnek jött|1 ki\1 jól a lépés , ami azonban nem változtat azon a tényen , hogy Nico 6:1-re verte őt az idei időmérőkön is . 
+#570122484,doc#2333	Nem Doe Paoro képességein - hanem ki tudja , min - múlik , hogy ha nyilván nem is Adele-hez , de mondjuk Lykke Lihez hasonló sikereket érjen|1 el\1 . 
+#572184402,doc#2334	Ami a nyelvi kérdést illeti : tíz évig olyan zenekarokban játszottam , amikben magyar szövegeket írtam , aztán meg angol dalokat kezdtem írni , amikkel nagyobb sikereket értünk|1 el\1. 
+#574189431,doc#2336	Tekintse|1 át\1 a 16 résztvevő válogatott 23-as keretét ! 
+#578600867,doc#2340	Utóbbi esetében Mann felajánlotta , hogy kibővíti a moziverziót , azonban a tévécsatorna inkább kivágott negyven percet a filmből , és úgy adta|1 le\1 . 
+#578896995,doc#2340	Tavaly ismét vállalható alkotásban ( Közellenségek ) bukkant|1 fel\1 , aztán jött Sofia Coppola és megkínálta az igazi nagy lehetőséggel . 
+#581061646,doc#2343	Nem lehet panasz eddig az Európa-bajnokságra , kiemelkedően sok a gól , kevés a sárga lap , és a meglepetések sem maradtak|1 el\1 . 
+#582343470,doc#2348	Több száz hektár dinnyét és két-három ezer hektár szántóföldi növénykultúrát vert|1 el\1 a jég szombaton Békés megye déli részén - tájékoztatta az MTI-t Simonka György , a Magyar Dinnyeszövetség elnöke , a térség fideszes országgyűlési képviselője . 
+#582443766,doc#2348	Ha azonban lényeges módosulás következne|1 be\1 a gazdaságpolitikában , akkor nem is lenne szükség a nemzetközi pénzügyi intézményekre . 
+#582937179,doc#2348	Az integráció központi bankja nélkül 1396 milliárd forintot tett ki az összes eszközállomány , amely 0,9 százalékkal haladja|1 meg\1 az egy évvel korábbi szintet . 
+#584254200,doc#2351	A Vosztok-tavat még nem érték|1 el\1
+#586592562,doc#2355	Salamon László ( Fidesz ) úgy módosítaná a szöveget , hogy a hatásköröket nem engedné|1 át\1 Magyarország , csupán azt tartalmazná a módosítás , hogy egyes hatásköröket az EU-tagállamokkal közösen gyakorol az ország . 
+#589853882,doc#2358	Fodor Béla főigazgatói főtanácsadó az [ origo ] -nak elmondta , hogy ezekben a Szűzvár és Pátka közelében lévő bányákban elsősorban ólomércet bányásztak , de mellette termeltek|1 ki\1 nemesfémeket is . 
+#591943566,doc#2359	A 2000-es tiszai ciánkatasztrófa után nemzetközi szakértői csoport mérte|1 fel\1 azokat a romániai potenciális szennyező forrásokat , amelyek veszélyt jelenthetnek a folyóvizekre , köztük a Tiszára . 
+#592670513,doc#2360	De hogyha ez a vita tovább is fenn\1 fog maradni|1 , akkor keresek újabb lehetőségek annak érdekében , hogy az ellenzék ne érezhesse úgy , hogy csorbítjuk jogait " - fogalmazott Gyurcsány Ferenc . 
+#594071037,doc#2361	Petrétei József igazságügyi és rendészeti miniszter például arról írt a biztosnak , hogy a Fidesz országgyűlési és európai parlamenti képviselői szándékos jogszabálysértést követtek|1 el\1 , amikor lebontották a kordont . 
+#594376843,doc#2361	Az igazgató szerint a csecsemőt kedden vették|1 le\1 a lélegeztetőgépről , kivették a légcsőkanült is , mert önállóan is képes levegőt venni . 
+#595668035,doc#2362	A kialakult helyzetben a BKV vezérigazgatója , a fővárosi Metróbiztos , a BKV és a Mérnök szakértői csapata olyan megoldást készít|1 elő\1 , amely sem a 2008. augusztusi pajzsfogadást , sem a metró 2010 végi üzemi próbájának megkezdését nem veszélyezteti . 
+#599968480,doc#2365	A kormányzati csomagból eddig egy törvényt fogadott|1 el\1 az Országgyűlés , ez egy korrupcióellenes hivatal felállításáról döntött . 
+#599974740,doc#2365	Megvertek egy zsidó férfit a Dohány utcában Elfogott a rendőrség két férfit , akiket azzal gyanúsítanak , hogy a nyáron a származása miatt vertek|1 meg\1 egy férfit a fővárosi Dohány utcában - olvasható a rendőrség honlapján 
+#601482991,doc#2366	Stumpf Imréné , a városháza szóvivője a Független Hírügynökségnek elmondta : a város területén a Ronyva-patak az eddig mért legmagasabb vízszintet 75 centiméterrel haladta|1 meg\1 vasárnapról hétfőre virradó éjszaka , ezért nem lehetett megvédeni a házakat . 
+#601654248,doc#2366	Három család kért segítséget , őket átmenetileg az önkormányzat által felajánlott lakásokban szállásolják|1 el\1 . 
+#601794083,doc#2366	Lénárt Ágota , az árvízvédelemben segédkező krízisintervenciós csoport vezető pszichológusa péntek délelőtt azt mondta az [ origo ] -nak : legfrissebb információi szerint pénteken összevonják a négy befogadóbázist : a miskolci sportcsarnokot és a három iskolát , mert sokan már hazaindultak otthonaikba , de az még nem dőlt|1 el\1 , a négyből melyik az az egy befogadóbázis , amelyik továbbra is működik majd még . 
+#603577910,doc#2368	A gyógyszerkassza szempontjából az utóbbi évek legjelentősebb változását a 2007-ben hatályba lépett gyógyszer-gazdaságossági törvény hozta|1 el\1 , amely többek között lehetővé tette , hogy a vénynélküli gyógyszerek egy részét patikán kívül is lehessen árusítani , a gyógyszergyártóknak licencdíjat kelljen fizetniük az orvos- és patikalátogatók után , illetve hogy ha a beteg azonos hatóanyagú , de drágább gyógyszert akar , akkor sokkal többet kell fizetnie érte , mint az olcsóbb gyógyszerért . 
+#604860185,doc#2369	A magyar EU-elnökségből már egy hónap sincs|1 hátra\1 , az elnökségi időszak letelte után pedig a magyar nagykövetség jelentősége csökkenni fog Belaruszban - magyarázta Rácz . 
+#605365419,doc#2369	A történtek előzménye , hogy a HVIM által a Sziget Fesztivál főbejáratához összehívott szimpatizánsok jegy nélkül próbáltak|1 meg\1 bejutni a rendezvényre . 
+#605823821,doc#2369	A jelenleg hatályos törvény csak annyit ír|1 elő\1 a képviselőknek , hogy kötelesek részt venni a képviselő-testület munkájában . 
+#607078135,doc#2370	Utalnak arra , hogy maguk is politológusok , és szerintük politikai szempontok alapján a Fidesz intézkedéseinek van értelme , hiszen meg\1 kell nyernie|1 a következő választást . 
+#607130671,doc#2370	Halász János államtitkár szerint a kormány elkötelezett a bölcsődei férőhelyek fejleszétse mellett , amelyre az Új Széchenyi Tervben van több milliárd forintnyi forrás , a fejlesztések 2013-ig valósulnak|1 majd meg\1 , több mint 2000 új férőhely lesz . 
+#607463393,doc#2371	Erről az Európai Parlament el\1 is fogadott|1 egy határozatot , Áder pedig azt szeretné elérni , hogy az Európai Bizottság jogszabályt is alkosson erről . 
+#608815361,doc#2372	Veszélyes anyagot szállító kamion borult|1 fel\1 az M5-ösön 
+#608984276,doc#2372	Befejezte a nyomozást a rendőrség egy olyan bűncselekmény-sorozat ügyében , amelynek során az elkövetők több mint 12 millió forintot raboltak|1 el\1 altatóval elkábított sértettektől - közölte a Budapesti Rendőr-főkapitányság ( BRFK ) hétfőn . 
+#611143397,doc#2378	Szalai a maga nevében azt a javaslatot tette - részben ezen aggodalmak miatt , részint pedig , hogy az ellenség ne értékelje Rákosi távozását a saját győzelmeként -, hogy Rákosit úgy mentsék|1 fel\1 első titkári kötelezettségei alól , hogy egyúttal létrehozzák számára a megtisztelő pártelnöki posztot . 
+#614164331,doc#2395	Egyes információk szerint a demonstrálók akkor rohamozták|1 meg\1 a kordont , amikor Tony Blair brit miniszterelnök a helyszínre érkezett . 
+#615113613,doc#2395	Emlékeztetett , hogy az első fertőzéseket két hónappal korábban fedezték|1 fel\1 , de a kórházi vezetők semmilyen intézkedést nem hoztak , s a közegészségügyi szerveket sem értesítették . 
+#615155381,doc#2395	Kerry ezzel megismételte január 19-i iowai diadalát , míg Howard Dean volt vermonti kormányzó az erős második helyet szerezte|1 meg\1 a voksok 26 százalékával . 
+#616584768,doc#2396	A németek egyik kedvenc üdülőhelyét az orkán nélkül is veszély fenyegeti , hogy az áramlás elhordja a strandokat , eddig több módszert próbáltak|1 ki\1 a természetes erózió megállítására , több-kevesebb sikerrel . 
+#618126075,doc#2398	A vadászgép éppen rutinjellegű gyakorlatot hajtott|1 végre\1 , amikor lezuhant az Okinava-szigetekhez tartozó Ikei sziget közelében kedd hajnalban - tudatták közleményükben az Okinava szigetén lévő kadenai amerikai légitámaszpont illetékesei . 
+#618440956,doc#2398	Az első feltételezések szerint a robbantás célpontja egy , a kocsi mellett parkoló autó tulajdonosa volt , aki másodpercekkel korábban hagyta|1 el\1 a helyszínt . 
+#619458046,doc#2399	Abbász a Palesztin Hatóság rámalláhi főhadiszállásán szombaton elmondott , a palesztin televízióban egyenesben közvetített beszédében közölte : azt akarja , hogy a választásokat a lehető legrövidebb időn belül tartsák|1 meg\1 , és ezért megkezdi az egyeztetéseket a központi választási bizottsággal . 
+#619512225,doc#2399	Olyan vidék ez , ahol egy szerbiai szlovák pszichológus énekli magyarul az " Az a szép , az a szép " című dalt , a Lenin utcában amerikaiak által épített tekepályán pedig szerbiai magyar öregek ütik|1 el\1 idejüket . 
+#620027416,doc#2399	A Hamász egyik parlamenti képviselője Mahmúd Abbász palesztin elnököt tette felelőssé Ali Serif sorsáért , de azt nem mondta|1 ki\1 , hogy az elnök vezette Fatah mozgalom emberei lennének a támadók . 
+#621203788,doc#2400	Szét\1 kell válogatni|1 és külön kell őrizni a foglyokat életkoruk , elítélésük oka és szabadságvesztésük időtartama szerint is . 
+#624287954,doc#2402	A városban az egyik szakszervezet a szemétszállítást is leállította , de ezt a sztrájkot valószínűleg egészségügyi okok miatt felfüggesztik , mert több 10 ezer tonna szemét gyűlt|1 össze\1 a város utcáin , a polgármester szerint " drámai helyzetet " okozva . 
