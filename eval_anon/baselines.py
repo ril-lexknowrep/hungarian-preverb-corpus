@@ -26,9 +26,9 @@ def word_to_line(word):
     return '\t'.join(word)
 
 
-ENV = 2
+ENV = 2 # search for [/Prev] in a -env..env environment of the [/V]
 
-PREV_POSITIONS = [-2, 1, 2]
+PREV_POSITIONS = [-2, 1, 2] # ki sem vette, vette ki, vette most ki
 
 VERB_POSTAG = '[/V]'
 PREVERB_POSTAG = '[/Prev]'

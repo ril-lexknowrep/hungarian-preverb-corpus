@@ -8,7 +8,7 @@ for line in sys.stdin:
     if line.strip() == '':
         sys.stdout.write(line)
         continue
-    testid = '.'
+    testid = '.' # avoid removal of empty column by xtsv
     m = re.findall('_([pv]\d+)', line)
     if m:
         testid = m[0]
