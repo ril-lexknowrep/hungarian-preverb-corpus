@@ -23,16 +23,32 @@ Accordingly, the [`emPreverb`](https://github.com/ril-lexknowrep/emPreverb) tool
 
 ## evaluation
 
-TODO
+An environment for _reproducing_ evaluation of [`emPreverb`](https://github.com/ril-lexknowrep/emPreverb) as published in the paper below.
 
-See also: https://github.com/ril-lexknowrep/emPreverb
+```bash
+git clone https://github.com/ril-lexknowrep/emPreverb
+cd emPreverb
+git clone https://github.com/ril-lexknowrep/hungarian-preverb-corpus
+make evaluate
+```
+(Remark. Yes, please clone this repo _inside_ `emPreverb`.)
+
+The results are obtained in [`general_test_results.txt`](evaluation/general_test_results.txt) and [`difficult_test_results.txt`](evaluation/difficult_test_results.txt).
+This should be exactly the same which can be found in Table 3 of the paper below.
 
 
 ## development
 
-TODO
-
-See also: https://github.com/ril-lexknowrep/emPreverb
+An environment used for developing [`emPreverb`](https://github.com/ril-lexknowrep/emPreverb).
+It is "for us" but if you insist to use it:
+```bash
+git clone https://github.com/ril-lexknowrep/emPreverb
+cd emPreverb
+git clone https://github.com/ril-lexknowrep/hungarian-preverb-corpus
+cd hungarian-preverb-corpus/development
+jupyter notebook evaluate.ipynb
+```
+(Remark. Yes, please clone this repo _inside_ `emPreverb`.)
 
 
 ## citation

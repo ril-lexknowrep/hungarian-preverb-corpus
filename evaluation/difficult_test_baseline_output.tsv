@@ -1,4 +1,4 @@
-form	wsafter	testid	anas	lemma	xpostag	prev	previd	prevpos	prevold	prevclosest
+form	wsafter	testid	anas	lemma	xpostag	prev	previd	prevpos	prevmax2	prevnearest
 Szerintem	" "	.	[{"lemma": "szerint", "tag": "[/Post][1Sg]", "morphana": "én[/N|Pro]=+szerint[/Post]=szerint+em[1Sg]=em", "readable": "én[/N|Pro]= + szerint[/Post] + em[1Sg]", "twolevel": ":é :n :[/N|Pro] s:s z:z e:e r:r i:i n:n t:t :[/Post] e:e m:m :[ :1 :S :g :]"}]	szerint	[/Post][1Sg]				.	.
 ezt	" "	.	[{"lemma": "ez", "tag": "[/Det|Pro][Acc]", "morphana": "ez[/Det|Pro]=ez+t[Acc]=t", "readable": "ez[/Det|Pro] + t[Acc]", "twolevel": "e:e z:z :[/Det|Pro] t:t :[Acc]"}, {"lemma": "ez", "tag": "[/N|Pro][Acc]", "morphana": "ez[/N|Pro]=ez+t[Acc]=t", "readable": "ez[/N|Pro] + t[Acc]", "twolevel": "e:e z:z :[/N|Pro] t:t :[Acc]"}]	ez	[/Det|Pro][Acc]				.	.
 ne	" "	.	[{"lemma": "ne", "tag": "[/Adv]", "morphana": "ne[/Adv]=ne", "readable": "ne[/Adv]", "twolevel": "n:n e:e :[/Adv]"}, {"lemma": "ne", "tag": "[/Inj-Utt]", "morphana": "ne[/Inj-Utt]=ne", "readable": "ne[/Inj-Utt]", "twolevel": "n:n e:e :[/Inj-Utt]"}]	ne	[/Adv]				.	.
