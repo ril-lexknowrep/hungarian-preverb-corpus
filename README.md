@@ -43,10 +43,9 @@ An environment for _reproducing_ evaluation of [`emPreverb`](https://github.com/
 ```bash
 git clone https://github.com/ril-lexknowrep/emPreverb
 cd emPreverb
-git clone https://github.com/ril-lexknowrep/hungarian-preverb-corpus
 make evaluate
 ```
-(Remark. Yes, please clone this repo _inside_ `emPreverb`.)
+Note that `make evaluate` _clones_ [this current repo](https://github.com/ril-lexknowrep/hungarian-preverb-corpus) inside `emPreverb` and runs evaluation.
 
 The results are obtained in [`general_test_results.txt`](evaluation/general_test_results.txt) and [`difficult_test_results.txt`](evaluation/difficult_test_results.txt).
 This should be exactly the same which can be found in Table 3 of the paper below.
